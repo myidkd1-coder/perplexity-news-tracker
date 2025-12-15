@@ -1,13 +1,20 @@
 #!/usr/bin/env python3
-"""Fetch news from Perplexity API and save to categorized markdown files."""
+"""
+Perplexity News Tracker
+- 1 news item = 1 markdown file (slug from title)
+- Creates category index.md for the day
+- Stores only summary + source URLs (no full copyrighted article text)
+"""
 
 import os
+import re
 import json
-import requests
-from datetime import datetime
+import hashlib
+from datetime import datetime, timezone
 from pathlib import Path
 
-# News categories to track
+import requests
+
 CATEGORIES = {
     "technology": "Latest technology news and innovations",
     "business": "Business and economy news updates",
@@ -16,134 +23,190 @@ CATEGORIES = {
     "science": "Science discoveries and research",
     "health": "Health and medical news",
     "world": "World news and international events",
-    "india": "Latest news from India"
+    "india": "Latest news from India",
 }
 
-API_KEY = os.getenv("PERPLEXITY_API_KEY")
 API_URL = "https://api.perplexity.ai/chat/completions"
 
-def fetch_category_news(category, description):
-    """Fetch news for a specific category using Perplexity API."""
-    
-    # Check if API key exists
-    if not API_KEY:
-        print("⚠️  PERPLEXITY_API_KEY not set. Using demo mode.")
-        return generate_demo_content(category, "API key not found in environment")
-    
-    print(f"   API Key found: {API_KEY[:10]}...{API_KEY[-4:]}")
-    
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json"
+def now_utc_iso():
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+
+def today_yyyy_mm_dd():
+    # Use UTC date to keep folder consistent across runners
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+def slugify(text: str, max_len: int = 80) -> str:
+    text = text.strip().lower()
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+    if not text:
+        return "untitled"
+    return text[:max_len].strip("-")
+
+def short_hash(s: str) -> str:
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()[:8]
+
+def load_state(state_path: Path) -> dict:
+    if state_path.exists():
+        try:
+            return json.loads(state_path.read_text(encoding="utf-8"))
+        except Exception:
+            return {"seen": []}
+    return {"seen": []}
+
+def save_state(state_path: Path, state: dict):
+    state_path.parent.mkdir(parents=True, exist_ok=True)
+    state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+def perplexity_request(api_key: str, category: str, description: str):
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+
+    # JSON schema structured output supported via response_format. [web:74]
+    schema = {
+        "type": "object",
+        "properties": {
+            "items": {
+                "type": "array",
+                "minItems": 5,
+                "maxItems": 5,
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "title": {"type": "string"},
+                        "summary": {"type": "string"},
+                        "url": {"type": "string"},
+                        "publisher": {"type": "string"},
+                        "published_date": {"type": "string"},
+                    },
+                    "required": ["title", "summary", "url"],
+                    "additionalProperties": False,
+                },
+            }
+        },
+        "required": ["items"],
+        "additionalProperties": False,
     }
-    
+
     payload = {
-        "model": "sonar",  # Changed from llama-3.1-sonar-small-128k-online to sonar
+        "model": "sonar",
+        "search_mode": "web",
+        "temperature": 0.2,
+        "max_tokens": 900,
         "messages": [
             {
                 "role": "system",
-                "content": "You are a news aggregator. Provide concise, factual news summaries with sources."
+                "content": (
+                    "Return ONLY valid JSON that matches the schema. "
+                    "Do not include bracket citations like [1]. "
+                    "Use real source URLs (one per item). "
+                    "Summaries must be original and short (2-4 lines)."
+                ),
             },
             {
                 "role": "user",
-                "content": f"Give me the top 5 latest {description} from today. Format each as: **Title** - Brief summary (1-2 sentences)."
-            }
+                "content": (
+                    f"Category: {category}\n"
+                    f"Task: Find top 5 latest {description}.\n"
+                    f"Return 5 items with title, 2-4 line summary, publisher (if known), published_date (if known), and url."
+                ),
+            },
         ],
-        "max_tokens": 1000,
-        "temperature": 0.2
+        "response_format": {"type": "json_schema", "json_schema": {"schema": schema}},
     }
-    
-    try:
-        print(f"   Making API request to {API_URL}...")
-        response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
-        
-        # Log response status
-        print(f"   Response status: {response.status_code}")
-        
-        if response.status_code != 200:
-            print(f"   Response body: {response.text[:500]}")
-            return generate_demo_content(category, f"API error {response.status_code}: {response.text[:200]}")
-        
-        response.raise_for_status()
-        data = response.json()
-        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
-        
-        if content:
-            print(f"   ✅ Got {len(content)} characters of content")
-            return content
-        else:
-            print(f"   ⚠️  Empty response from API")
-            return generate_demo_content(category, "API returned empty content")
-            
-    except requests.exceptions.RequestException as e:
-        print(f"   ❌ Network error: {e}")
-        return generate_demo_content(category, f"Network error: {str(e)}")
-    except Exception as e:
-        print(f"   ❌ Unexpected error: {e}")
-        return generate_demo_content(category, f"Error: {str(e)}")
 
-def generate_demo_content(category, reason="Unknown"):
-    """Generate demo content when API key is not available."""
-    return f"""**Demo Mode Active**
+    r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
+    return r
 
-This is placeholder content for {category.upper()} category.
+def write_post_file(base_dir: Path, category: str, item: dict):
+    title = item.get("title", "").strip()
+    url = item.get("url", "").strip()
+    summary = item.get("summary", "").strip()
+    publisher = item.get("publisher", "").strip()
+    published_date = item.get("published_date", "").strip()
 
-**Reason:** {reason}
+    slug = slugify(title)
+    # ensure uniqueness if same title repeats
+    uniq = short_hash(url or title or now_utc_iso())
+    filename = f"{slug}-{uniq}.md"
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+    out_dir = base_dir / category
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-*Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M IST')}*
-"""
+    md = []
+    md.append(f"# {title}")
+    md.append("")
+    md.append(f"**Category:** {category}")
+    md.append(f"**Generated (UTC):** {now_utc_iso()}")
+    if published_date:
+        md.append(f"**Published:** {published_date}")
+    if publisher:
+        md.append(f"**Publisher:** {publisher}")
+    md.append("")
+    md.append("## Summary")
+    md.append(summary if summary else "(No summary returned.)")
+    md.append("")
+    md.append("## Source")
+    md.append(f"- {url}" if url else "- (No URL returned.)")
+    md.append("")
+    md.append("*Auto-generated by Perplexity News Tracker*")
 
-def save_news(category, content):
-    """Save news content to markdown file."""
-    
-    # Create directory structure: news/YYYY-MM-DD/category.md
-    today = datetime.now().strftime("%Y-%m-%d")
-    news_dir = Path("news") / today
-    news_dir.mkdir(parents=True, exist_ok=True)
-    
-    filepath = news_dir / f"{category}.md"
-    
-    # Create markdown content
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M IST")
-    markdown = f"""# {category.upper()} News
+    (out_dir / filename).write_text("\n".join(md), encoding="utf-8")
+    return out_dir / filename, url
 
-**Last Updated:** {timestamp}
-
----
-
-{content}
-
----
-
-*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*
-"""
-    
-    filepath.write_text(markdown, encoding="utf-8")
-    print(f"✅ Saved: {filepath}")
+def write_index(base_dir: Path, category: str, files: list[Path]):
+    idx = []
+    idx.append(f"# {category.upper()} Index")
+    idx.append(f"**Date (UTC):** {today_yyyy_mm_dd()}")
+    idx.append("")
+    for f in sorted(files):
+        rel = f.relative_to(base_dir)
+        # Link text = file stem (pretty enough). Could be improved later.
+        idx.append(f"- [{f.stem}]({rel.as_posix()})")
+    idx.append("")
+    (base_dir / category / "index.md").write_text("\n".join(idx), encoding="utf-8")
 
 def main():
-    """Main function to fetch and save news for all categories."""
-    print("🚀 Starting news fetch...\n")
-    print(f"Environment check:")
-    print(f"  - API_KEY present: {bool(API_KEY)}")
-    if API_KEY:
-        print(f"  - API_KEY length: {len(API_KEY)}")
-        print(f"  - API_KEY preview: {API_KEY[:10]}...{API_KEY[-4:]}\n")
-    else:
-        print(f"  - No API key found in environment!\n")
-    
+    api_key = os.getenv("PERPLEXITY_API_KEY", "").strip()
+    if not api_key:
+        raise SystemExit("PERPLEXITY_API_KEY missing in GitHub Actions secrets.")
+
+    day_dir = Path("news") / today_yyyy_mm_dd()
+    state_path = Path("news") / ".state" / f"{today_yyyy_mm_dd()}.json"
+    state = load_state(state_path)
+    seen = set(state.get("seen", []))
+
     for category, description in CATEGORIES.items():
-        print(f"📰 Fetching {category}...")
-        content = fetch_category_news(category, description)
-        save_news(category, content)
-        print()
-    
-    print("✨ News fetch complete!")
+        print(f"Fetching: {category}")
+        resp = perplexity_request(api_key, category, description)
+        print(f"Status: {resp.status_code}")
+        if resp.status_code != 200:
+            # Fail fast so you see the real error in Actions logs.
+            raise SystemExit(f"Perplexity API error {resp.status_code}: {resp.text[:500]}")
+
+        data = resp.json()
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        parsed = json.loads(content)  # structured outputs should be valid JSON
+        items = parsed.get("items", [])
+
+        written_files = []
+        for item in items:
+            url = (item.get("url") or "").strip()
+            # dedupe by url (preferred) else by title
+            dedupe_key = url or ("title:" + (item.get("title") or ""))
+            if dedupe_key in seen:
+                continue
+
+            fpath, saved_url = write_post_file(day_dir, category, item)
+            written_files.append(fpath)
+            seen.add(dedupe_key)
+            print(f"  saved: {fpath}")
+
+        # always generate index (even if no new files this run)
+        write_index(day_dir, category, list((day_dir / category).glob("*.md")))
+
+    state["seen"] = sorted(seen)
+    save_state(state_path, state)
+    print("Done.")
 
 if __name__ == "__main__":
     main()
