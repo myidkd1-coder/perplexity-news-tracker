@@ -1,6 +1,6 @@
 # TECHNOLOGY News - 2025-12-15
 
-**Total Articles:** 9
+**Total Articles:** 11
 
 - [Airwallex notches $8bn valuation with $330m Series G round](technology/airwallex-notches-8bn-valuation-with-330m-series-g-round-60502488.md)
 - [BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI](technology/brainchip-announces-25-million-funding-ahead-of-ces-to-power-next-gen-edge-ai-b61831c4.md)
@@ -11,6 +11,8 @@
 - [Nvidia eyes H200 AI chip output boost on strong China demand](technology/nvidia-eyes-h200-ai-chip-output-boost-on-strong-china-demand-d88ec4dd.md)
 - [Organic Solar Cells Achieve 20.02% Efficiency with New Giant Acceptors](technology/organic-solar-cells-achieve-20-02-efficiency-with-new-giant-acceptors-38ca706a.md)
 - ['Periodic Table' for AI Methods Aims to Drive Innovation](technology/periodic-table-for-ai-methods-aims-to-drive-innovation-8c37fc78.md)
+- [The 5 Best Metal Detectors of 2025](technology/the-5-best-metal-detectors-of-2025-6662a4a1.md)
+- [Xeikon Unveils Subscription-Based On-Demand Label Printer at Labelexpo Asia](technology/xeikon-unveils-subscription-based-on-demand-label-printer-at-labelexpo-asia-3dc180b1.md)
 
 ---
-*Updated: 2025-12-15T07:02:35+00:00*
+*Updated: 2025-12-15T13:56:00+00:00*
