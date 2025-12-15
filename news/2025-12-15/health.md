@@ -1,20 +1,18 @@
 # HEALTH News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**Antibiotic resistance declared a top global health emergency as last-resort drug effectiveness collapses in multiple countries** - Experts warn that resistance to WHO’s most critical antibiotics has surged, compromising treatment for infections such as gonorrhea and pneumonia and prompting calls for urgent stewardship, surveillance, and new drug development[7].  
 
-This is placeholder content for HEALTH category.
+**New blood-based biomarkers and microglial therapies boost hope for Alzheimer’s prevention and reversal** - 2025 research advances validated blood biomarkers for earlier detection and propelled microglia-targeting and precision metabolic/inflammatory treatments that together support prevention pathways and potential reversal strategies for Alzheimer’s disease[2][6].  
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**CRISPR-based gene-editing therapies show life‑saving results in infants with rare genetic diseases** - Case reports and 2025 clinical progress describe infants treated with in vivo CRISPR (delivered via lipid nanoparticles) showing clinical recovery, highlighting rapid translation of gene-editing to treat previously untreatable pediatric disorders[3].  
 
-*Last updated: 2025-12-15 05:19 IST*
+**AI, nanomedicine and ‘mini‑heart’ models improve early detection and study of cardiovascular disease** - Researchers combined nanomedicine, protein‑corona profiling and AI to detect hidden blood markers for earlier diagnosis, while advanced immunocompetent mini-heart models promise better study of myocarditis, endocarditis and cardio‑oncology applications[4].  
 
+**Major cancer research breakthroughs in 2025 point to new targeted therapies and improved immunotherapy response** - Several teams reported breakthroughs: repurposing an antidepressant mechanism to target NEDD4-related tumors, progress targeting MYC (Omomyc) in trials, tools revealing mechanisms of breast‑cancer metastasis, and findings that may overcome melanoma immunotherapy resistance[1][1][1].
 
 ---
 

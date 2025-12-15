@@ -1,20 +1,18 @@
 # WORLD News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**Belarus Releases 123 Political Prisoners** - Belarus freed 123 political prisoners, including Nobel Peace Prize laureate Ales Bialiatski and protest leader Maria Kalesnikava, following the U.S. lifting sanctions amid improved bilateral relations.[1][2]
 
-This is placeholder content for WORLD category.
+**Bondi Beach Shooting in Australia** - A targeted shooting at Bondi Beach shocked Australia, described by Prime Minister Albanese as an "act of pure evil"; video shows a bystander wrestling a gun from an alleged shooter.[2][3]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**Thai-Cambodian Border Clashes Continue** - Intense fighting persists along the Thailand-Cambodia border despite U.S. President Trump's claim of a ceasefire, with dozens killed including Cambodia's first civilian death from a rocket attack.[2][3]
 
-*Last updated: 2025-12-15 05:19 IST*
+**U.S. Soldiers and Interpreter Killed in Syria Ambush** - Two U.S. soldiers and one civilian interpreter died in an ambush in Palmyra, Syria, prompting Trump to vow major action against the militants responsible.[2]
 
+**Guatemala Declares State of Emergency** - President Bernardo Arévalo declared a state of emergency in two western municipalities after armed attacks on a military post and police station killed at least five people.[2]
 
 ---
 

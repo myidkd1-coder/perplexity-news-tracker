@@ -1,20 +1,18 @@
 # SPORTS News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**Manchester City 3–0 at Crystal Palace — City pile pressure onto Arsenal with dominant away win** - Manchester City beat Crystal Palace 3–0 at Selhurst Park, with Erling Haaland opening the scoring, Phil Foden adding a superb finish and a penalty goal sealing the victory to move City closer to the top of the Premier League standings[1].  
 
-This is placeholder content for SPORTS category.
+**Philadelphia Eagles 31–0 vs. Las Vegas Raiders — Eagles shut out Raiders behind Hurts and Goedert** - The Eagles recorded a 31-0 Week 15 win over the Raiders in a comprehensive performance that featured efficient offense from Jalen Hurts and key plays from Dallas Goedert in Philadelphia's dominant victory[6].  
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**Chicago Bears top plays in win over Cleveland Browns — Bears produce big offensive day in Week 15** - The Bears’ Week 15 highlight reel shows multiple scoring drives including big rushing touchdowns from D’Andre Swift and defensive takeaways that powered Chicago’s decisive performance vs. the Browns[3].  
 
-*Last updated: 2025-12-15 05:19 IST*
+**San Francisco 49ers highlight package vs. Tennessee Titans — 49ers make key plays in Week 15 victory** - The 49ers’ Week 15 top plays video captures San Francisco’s explosive offensive and defensive moments that propelled them past the Titans in their latest matchup[4].  
 
+**Bills vs. Patriots Week 15 highlights — Buffalo and New England clash in key AFC East matchup** - Full-game highlights from the Bills–Patriots Week 15 meeting show the pivotal moments and standout performances that shaped this important divisional contest[5].
 
 ---
 

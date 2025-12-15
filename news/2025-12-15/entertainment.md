@@ -1,20 +1,18 @@
 # ENTERTAINMENT News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**Rob Reiner Found Dead at 78 Alongside Wife in LA Home** - Director Rob Reiner and his wife Michele were discovered deceased in their Los Angeles home, with police investigating an apparent homicide.[4][6][7]
 
-This is placeholder content for ENTERTAINMENT category.
+**Amy Schumer Announces Split From Husband Chris Fischer After 7 Years** - Comedian Amy Schumer revealed her divorce from chef Chris Fischer after seven years of marriage.[4]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**Hailee Steinfeld and Josh Allen Expecting First Baby** - Actress Hailee Steinfeld and NFL quarterback Josh Allen announced their first pregnancy with a public reveal.[4]
 
-*Last updated: 2025-12-15 05:19 IST*
+**Celebrity Birthdays: Lee Jung-jae Turns 53, Maude Apatow 28** - Squid Game star Lee Jung-jae celebrates his 53rd birthday, joined by Euphoria's Maude Apatow at 28 and others like Charlie Cox.[2]
 
+**Dakota Johnson Surprises on SNL as Lily Allen’s ‘Madeline’** - Dakota Johnson made a cameo appearance on Saturday Night Live, portraying Lily Allen’s character Madeline in a sketch.[4]
 
 ---
 

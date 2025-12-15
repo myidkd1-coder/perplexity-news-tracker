@@ -1,20 +1,18 @@
 # BUSINESS News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**J.P. Morgan Private Bank names new leaders in New Jersey** - J.P. Morgan Private Bank has appointed new leadership for its New Jersey operations, as highlighted in the December 15, 2025 edition of NJBIZ.[1]
 
-This is placeholder content for BUSINESS category.
+**Monmouth Park debuts Caesars Sportsbook amid growth** - Monmouth Park has launched a Caesars Sportsbook as part of its ongoing expansion efforts in the gaming and entertainment sector.[1]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**NJBIZ spotlights real estate law developments** - The latest NJBIZ edition features a dedicated spotlight on key trends and issues in real estate law, providing insights for businesses and professionals.[1]
 
-*Last updated: 2025-12-15 05:19 IST*
+**One Big Beautiful Bill Act implications explained** - NJBIZ covers what the One Big Beautiful Bill Act means for readers, detailing its potential impacts on business and economy in the region.[1]
 
+**NJBIZ December 15 edition covers regional business growth** - The full Dec. 15, 2025 issue of NJBIZ discusses various updates including sports betting expansions and leadership changes driving New Jersey's economy.[1]
 
 ---
 

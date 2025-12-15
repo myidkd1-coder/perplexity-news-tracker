@@ -1,20 +1,18 @@
 # INDIA News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:23 IST
 
 ---
 
-**Demo Mode Active**
+**Delhi Schools Shift to Hybrid Mode Amid Severe Air Pollution** - Authorities in Delhi ordered schools up to Class IX to adopt hybrid and online learning under GRAP-IV restrictions as the AQI surged to 481, with Noida at 557 and offices limited to 50% staff.[1][3][5]
 
-This is placeholder content for INDIA category.
+**Indian Rupee Hits Record Low of Rs 90.58 Against US Dollar** - The rupee plunged to a fresh all-time low of around Rs 90.56-90.58 versus the dollar, marking a second consecutive week of declines amid economic pressures.[3][8]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**PM Modi Begins Three-Nation Visit Starting with Jordan** - Prime Minister Narendra Modi embarked on a diplomatic tour to three nations, beginning with Jordan, as part of key international engagements.[5][6]
 
-*Last updated: 2025-12-15 05:19 IST*
+**India Engages Mexico Diplomatically Over Unilateral Tariff Hike** - India held talks with Mexico following the country's tariff increase, focusing on its impact on Indian exports, amid broader trade concerns.[1]
 
+**ISRO Reschedules Indo-US BlueBird-6 Satellite Launch to Dec 21** - ISRO postponed the launch of the heaviest US commercial satellite from India to December 21, aimed at enhancing global internet access.[2]
 
 ---
 

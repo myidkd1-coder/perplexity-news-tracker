@@ -1,20 +1,18 @@
 # SCIENCE News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**LZ Experiment Detects Solar Neutrinos and Tightens Dark Matter Limits** - Australian researchers contributed to the LUX-ZEPLIN (LZ) experiment's results, achieving the world's first statistically significant observation of boron-8 solar neutrinos via neutrino-nucleus scattering and setting leading dark matter exclusion limits above 5 GeV, presented on December 8 with full release today.[2]
 
-This is placeholder content for SCIENCE category.
+**Rogue Planet Hypothesis Reshapes Early Solar System Models** - Researchers propose a rogue planet encounter may have influenced our solar system's formation, based on new planetary science analysis published today.[6]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**Wandering Black Holes Confirmed in Dwarf Galaxies** - Analysis of Chandra and Hubble data on 12 dwarf galaxy candidates confirmed three central black holes that "wander" from galactic cores, highlighting challenges in detecting these in active galactic nuclei.[6]
 
-*Last updated: 2025-12-15 05:19 IST*
+**ViViD-AFM Reveals Influenza Cell Invasion at High Resolution** - ETH Zurich scientists demonstrated a new microscopy technique combining atomic force and fluorescence microscopy, providing unprecedented views of influenza virus entry into human cells on December 4.[1]
 
+**Verticillin A Fully Synthesized for Brain Cancer Treatment** - MIT chemists achieved the first complete synthesis of verticillin A, a 50-year-old fungal compound promising against aggressive brain tumors, reported on December 2.[1]
 
 ---
 

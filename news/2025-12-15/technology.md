@@ -1,20 +1,18 @@
 # TECHNOLOGY News
 
-**Last Updated:** 2025-12-15 05:19 IST
+**Last Updated:** 2025-12-15 05:22 IST
 
 ---
 
-**Demo Mode Active**
+**Fujitsu Earns Top CDP A List Rating for Climate Change Disclosure** - Fujitsu Group received the highest rating in CDP's 2025 climate change evaluation for the eighth consecutive year, highlighting its environmental targets and efforts in power-saving CPUs and network tech to counter AI-driven energy demands.[4]
 
-This is placeholder content for TECHNOLOGY category.
+**OpenAI Eliminates Equity Vesting Cliff for New Hires** - OpenAI has removed all waiting periods for stock compensation vesting, enabling immediate access for employees to fuel innovation and retain top AI talent amid intense competition, with projected $6B spend nearly half its revenue.[2][5]
 
-To get real news:
-1. Get Perplexity API key from https://www.perplexity.ai/settings/api
-2. Add it as GitHub Secret: PERPLEXITY_API_KEY
-3. Re-run the workflow
+**Merriam-Webster Names 'Slop' as 2025 Word of the Year** - The term "slop" describes low-quality, fake AI-generated content flooding online platforms, reflecting public awareness and critique of generative AI's role in misinformation and deepfakes.[3]
 
-*Last updated: 2025-12-15 05:19 IST*
+**Samsung Validates AI-RAN on Commercial Networks with KT** - Samsung Electronics and KT Corporation successfully tested AI-based radio access network optimization on live networks, advancing 6G development through enhanced efficiency.[1]
 
+**Samsung Unveils Galaxy Z TriFold Foldable Device** - Samsung introduced the Galaxy Z TriFold on December 2, featuring a multi-folding design for productivity and cinematic viewing, as showcased in recent unboxing and production videos.[1]
 
 ---
 
