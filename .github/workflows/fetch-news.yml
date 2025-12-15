@@ -1,0 +1,37 @@
+name: Fetch Perplexity News
+
+on:
+  schedule:
+    # Runs every 6 hours (0:00, 6:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests
+          
+      - name: Fetch news from Perplexity
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: |
+          python scripts/fetch_news.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add news/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update news - $(date +'%Y-%m-%d %H:%M IST')" && git push)
