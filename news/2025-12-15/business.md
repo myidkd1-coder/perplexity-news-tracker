@@ -1,6 +1,6 @@
 # BUSINESS News
 
-**Last Updated:** 2025-12-15 05:10 IST
+**Last Updated:** 2025-12-15 05:19 IST
 
 ---
 
@@ -13,7 +13,7 @@ To get real news:
 2. Add it as GitHub Secret: PERPLEXITY_API_KEY
 3. Re-run the workflow
 
-*Last updated: 2025-12-15 05:10 IST*
+*Last updated: 2025-12-15 05:19 IST*
 
 
 ---
