@@ -25,9 +25,12 @@ API_URL = "https://api.perplexity.ai/chat/completions"
 def fetch_category_news(category, description):
     """Fetch news for a specific category using Perplexity API."""
     
+    # Check if API key exists
     if not API_KEY:
         print("⚠️  PERPLEXITY_API_KEY not set. Using demo mode.")
-        return generate_demo_content(category)
+        return generate_demo_content(category, "API key not found in environment")
+    
+    print(f"   API Key found: {API_KEY[:10]}...{API_KEY[-4:]}")
     
     headers = {
         "Authorization": f"Bearer {API_KEY}",
@@ -35,7 +38,7 @@ def fetch_category_news(category, description):
     }
     
     payload = {
-        "model": "llama-3.1-sonar-small-128k-online",
+        "model": "sonar",  # Changed from llama-3.1-sonar-small-128k-online to sonar
         "messages": [
             {
                 "role": "system",
@@ -47,24 +50,45 @@ def fetch_category_news(category, description):
             }
         ],
         "max_tokens": 1000,
-        "temperature": 0.2,
-        "return_citations": True
+        "temperature": 0.2
     }
     
     try:
+        print(f"   Making API request to {API_URL}...")
         response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+        
+        # Log response status
+        print(f"   Response status: {response.status_code}")
+        
+        if response.status_code != 200:
+            print(f"   Response body: {response.text[:500]}")
+            return generate_demo_content(category, f"API error {response.status_code}: {response.text[:200]}")
+        
         response.raise_for_status()
         data = response.json()
-        return data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+        
+        if content:
+            print(f"   ✅ Got {len(content)} characters of content")
+            return content
+        else:
+            print(f"   ⚠️  Empty response from API")
+            return generate_demo_content(category, "API returned empty content")
+            
+    except requests.exceptions.RequestException as e:
+        print(f"   ❌ Network error: {e}")
+        return generate_demo_content(category, f"Network error: {str(e)}")
     except Exception as e:
-        print(f"❌ Error fetching {category}: {e}")
-        return generate_demo_content(category)
+        print(f"   ❌ Unexpected error: {e}")
+        return generate_demo_content(category, f"Error: {str(e)}")
 
-def generate_demo_content(category):
+def generate_demo_content(category, reason="Unknown"):
     """Generate demo content when API key is not available."""
     return f"""**Demo Mode Active**
 
 This is placeholder content for {category.upper()} category.
+
+**Reason:** {reason}
 
 To get real news:
 1. Get Perplexity API key from https://www.perplexity.ai/settings/api
@@ -105,13 +129,21 @@ def save_news(category, content):
 def main():
     """Main function to fetch and save news for all categories."""
     print("🚀 Starting news fetch...\n")
+    print(f"Environment check:")
+    print(f"  - API_KEY present: {bool(API_KEY)}")
+    if API_KEY:
+        print(f"  - API_KEY length: {len(API_KEY)}")
+        print(f"  - API_KEY preview: {API_KEY[:10]}...{API_KEY[-4:]}\n")
+    else:
+        print(f"  - No API key found in environment!\n")
     
     for category, description in CATEGORIES.items():
         print(f"📰 Fetching {category}...")
         content = fetch_category_news(category, description)
         save_news(category, content)
+        print()
     
-    print("\n✨ News fetch complete!")
+    print("✨ News fetch complete!")
 
 if __name__ == "__main__":
     main()
