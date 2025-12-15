@@ -8,4 +8,4 @@
 - [WHO: Traditional medicine use is now a global reality ahead of global summit](health/who-traditional-medicine-use-is-now-a-global-reality-ahead-of-global-summit-ccc55e1d.md)
 
 ---
-*Updated: 2025-12-15T06:11:46+00:00*
+*Updated: 2025-12-15T07:03:09+00:00*
