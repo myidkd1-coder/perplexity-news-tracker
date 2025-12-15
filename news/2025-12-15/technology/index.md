@@ -1,12 +1,16 @@
 # TECHNOLOGY News - 2025-12-15
 
-**Total Articles:** 11
+**Total Articles:** 15
 
+- [AI agents debate their way to improved mathematical reasoning](technology/ai-agents-debate-their-way-to-improved-mathematical-reasoning-26d12a0c.md)
 - [Airwallex notches $8bn valuation with $330m Series G round](technology/airwallex-notches-8bn-valuation-with-330m-series-g-round-60502488.md)
 - [BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI](technology/brainchip-announces-25-million-funding-ahead-of-ces-to-power-next-gen-edge-ai-b61831c4.md)
 - [Couchbase AI Services Put Enterprises in Control of Agentic AI](technology/couchbase-ai-services-put-enterprises-in-control-of-agentic-ai-85429dcc.md)
+- [First monolithic 3D chip built in U.S. foundry delivers major AI speed gains](technology/first-monolithic-3d-chip-built-in-u-s-foundry-delivers-major-ai-speed-gains-c5abccb4.md)
 - [GPT-5.2: OpenAI Beefs Up GPT Models in AI Race with Google](technology/gpt-5-2-openai-beefs-up-gpt-models-in-ai-race-with-google-7036db53.md)
 - [GPT-5.2: OpenAI beefs up GPT models in AI race with Google](technology/gpt-5-2-openai-beefs-up-gpt-models-in-ai-race-with-google-d691372d.md)
+- [Instacart is charging different prices to different customers in a dangerous AI experiment, report says](technology/instacart-is-charging-different-prices-to-different-customers-in-a-dangerous-ai-e689f9b3.md)
+- [Making clean energy investments more successful with forecasting tools](technology/making-clean-energy-investments-more-successful-with-forecasting-tools-698666ce.md)
 - [New System Efficiently Explains AI Judgments in Real-Time](technology/new-system-efficiently-explains-ai-judgments-in-real-time-1068c38a.md)
 - [Nvidia eyes H200 AI chip output boost on strong China demand](technology/nvidia-eyes-h200-ai-chip-output-boost-on-strong-china-demand-d88ec4dd.md)
 - [Organic Solar Cells Achieve 20.02% Efficiency with New Giant Acceptors](technology/organic-solar-cells-achieve-20-02-efficiency-with-new-giant-acceptors-38ca706a.md)
@@ -15,4 +19,4 @@
 - [Xeikon Unveils Subscription-Based On-Demand Label Printer at Labelexpo Asia](technology/xeikon-unveils-subscription-based-on-demand-label-printer-at-labelexpo-asia-3dc180b1.md)
 
 ---
-*Updated: 2025-12-15T13:56:00+00:00*
+*Updated: 2025-12-15T18:59:43+00:00*
