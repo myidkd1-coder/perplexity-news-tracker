@@ -1,19 +1,25 @@
 #!/usr/bin/env python3
 """
-Perplexity News Tracker
-- 1 news item = 1 markdown file (slug from title)
-- Creates category index.md for the day
-- Stores only summary + source URLs (no full copyrighted article text)
+Perplexity News Tracker with Full Article Scraping
+- Fetches top 5 news items per category from Perplexity API
+- Scrapes full article content from source URLs
+- Saves each article as separate markdown file
+- Creates category index with all articles
+
+DISCLAIMER: Content is scraped from public sources with attribution.
+Users assume all risk. Verify licensing before redistribution.
 """
 
 import os
 import re
 import json
 import hashlib
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
+from newspaper import Article
 
 CATEGORIES = {
     "technology": "Latest technology news and innovations",
@@ -32,7 +38,6 @@ def now_utc_iso():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 def today_yyyy_mm_dd():
-    # Use UTC date to keep folder consistent across runners
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 def slugify(text: str, max_len: int = 80) -> str:
@@ -61,7 +66,6 @@ def save_state(state_path: Path, state: dict):
 def perplexity_request(api_key: str, category: str, description: str):
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
 
-    # JSON schema structured output supported via response_format. [web:74]
     schema = {
         "type": "object",
         "properties": {
@@ -96,18 +100,17 @@ def perplexity_request(api_key: str, category: str, description: str):
             {
                 "role": "system",
                 "content": (
-                    "Return ONLY valid JSON that matches the schema. "
-                    "Do not include bracket citations like [1]. "
-                    "Use real source URLs (one per item). "
-                    "Summaries must be original and short (2-4 lines)."
+                    "Return ONLY valid JSON matching the schema. "
+                    "No bracket citations. Use real URLs. "
+                    "Summaries: 2-4 lines, original wording."
                 ),
             },
             {
                 "role": "user",
                 "content": (
                     f"Category: {category}\n"
-                    f"Task: Find top 5 latest {description}.\n"
-                    f"Return 5 items with title, 2-4 line summary, publisher (if known), published_date (if known), and url."
+                    f"Find top 5 latest {description}.\n"
+                    f"Return 5 items with title, summary, url, publisher, published_date."
                 ),
             },
         ],
@@ -117,15 +120,40 @@ def perplexity_request(api_key: str, category: str, description: str):
     r = requests.post(API_URL, headers=headers, json=payload, timeout=60)
     return r
 
-def write_post_file(base_dir: Path, category: str, item: dict):
-    title = item.get("title", "").strip()
+def scrape_full_article(url: str) -> dict:
+    """
+    Scrape full article from URL using newspaper3k.
+    Returns: {title, text, authors, publish_date, top_image}
+    """
+    try:
+        print(f"    Scraping: {url[:60]}...")
+        article = Article(url)
+        article.download()
+        article.parse()
+        
+        return {
+            "title": article.title or "",
+            "text": article.text or "",
+            "authors": article.authors or [],
+            "publish_date": str(article.publish_date) if article.publish_date else "",
+            "top_image": article.top_image or "",
+        }
+    except Exception as e:
+        print(f"    ⚠️  Scrape failed: {e}")
+        return {"title": "", "text": "", "authors": [], "publish_date": "", "top_image": ""}
+
+def write_post_file(base_dir: Path, category: str, item: dict, scraped: dict):
+    title = item.get("title", "").strip() or scraped.get("title", "Untitled")
     url = item.get("url", "").strip()
     summary = item.get("summary", "").strip()
     publisher = item.get("publisher", "").strip()
-    published_date = item.get("published_date", "").strip()
+    published_date = item.get("published_date", "").strip() or scraped.get("publish_date", "")
+    
+    full_text = scraped.get("text", "").strip()
+    authors = scraped.get("authors", [])
+    top_image = scraped.get("top_image", "")
 
     slug = slugify(title)
-    # ensure uniqueness if same title repeats
     uniq = short_hash(url or title or now_utc_iso())
     filename = f"{slug}-{uniq}.md"
 
@@ -135,78 +163,147 @@ def write_post_file(base_dir: Path, category: str, item: dict):
     md = []
     md.append(f"# {title}")
     md.append("")
-    md.append(f"**Category:** {category}")
-    md.append(f"**Generated (UTC):** {now_utc_iso()}")
-    if published_date:
-        md.append(f"**Published:** {published_date}")
+    
+    # Metadata
+    md.append(f"**Category:** {category.title()}")
+    md.append(f"**Source:** [{url}]({url})")
     if publisher:
         md.append(f"**Publisher:** {publisher}")
+    if authors:
+        md.append(f"**Authors:** {', '.join(authors)}")
+    if published_date:
+        md.append(f"**Published:** {published_date}")
+    md.append(f"**Scraped (UTC):** {now_utc_iso()}")
     md.append("")
-    md.append("## Summary")
-    md.append(summary if summary else "(No summary returned.)")
+    
+    # Top image
+    if top_image:
+        md.append(f"![Article Image]({top_image})")
+        md.append("")
+    
+    # Summary from Perplexity
+    if summary:
+        md.append("## Summary")
+        md.append(summary)
+        md.append("")
+    
+    # Full article text
+    if full_text:
+        md.append("## Full Article")
+        md.append(full_text)
+    else:
+        md.append("## Full Article")
+        md.append("*(Article text could not be extracted. Visit source link above.)*")
+    
     md.append("")
-    md.append("## Source")
-    md.append(f"- {url}" if url else "- (No URL returned.)")
+    md.append("---")
     md.append("")
-    md.append("*Auto-generated by Perplexity News Tracker*")
+    md.append("*Content scraped from public sources with attribution. Users assume all risk.*  ")
+    md.append(f"*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*")
 
     (out_dir / filename).write_text("\n".join(md), encoding="utf-8")
-    return out_dir / filename, url
+    return out_dir / filename
 
-def write_index(base_dir: Path, category: str, files: list[Path]):
+def write_index(base_dir: Path, category: str):
+    """Generate index.md with all article files and their titles."""
+    cat_dir = base_dir / category
+    if not cat_dir.exists():
+        return
+    
+    files = sorted(cat_dir.glob("*.md"))
+    # Exclude index.md itself
+    files = [f for f in files if f.name != "index.md"]
+    
     idx = []
-    idx.append(f"# {category.upper()} Index")
-    idx.append(f"**Date (UTC):** {today_yyyy_mm_dd()}")
+    idx.append(f"# {category.upper()} News - {today_yyyy_mm_dd()}")
     idx.append("")
-    for f in sorted(files):
+    idx.append(f"**Total Articles:** {len(files)}")
+    idx.append("")
+    
+    for f in files:
+        # Read first line (title) from each file
+        try:
+            first_line = f.read_text(encoding="utf-8").split("\n")[0]
+            title = first_line.replace("# ", "").strip()
+        except:
+            title = f.stem
+        
         rel = f.relative_to(base_dir)
-        # Link text = file stem (pretty enough). Could be improved later.
-        idx.append(f"- [{f.stem}]({rel.as_posix()})")
+        idx.append(f"- [{title}]({rel.as_posix()})")
+    
     idx.append("")
-    (base_dir / category / "index.md").write_text("\n".join(idx), encoding="utf-8")
+    idx.append("---")
+    idx.append(f"*Updated: {now_utc_iso()}*")
+    
+    (cat_dir / "index.md").write_text("\n".join(idx), encoding="utf-8")
 
 def main():
     api_key = os.getenv("PERPLEXITY_API_KEY", "").strip()
     if not api_key:
-        raise SystemExit("PERPLEXITY_API_KEY missing in GitHub Actions secrets.")
+        raise SystemExit("❌ PERPLEXITY_API_KEY missing in environment.")
 
     day_dir = Path("news") / today_yyyy_mm_dd()
     state_path = Path("news") / ".state" / f"{today_yyyy_mm_dd()}.json"
     state = load_state(state_path)
     seen = set(state.get("seen", []))
 
+    print(f"🚀 Starting news fetch for {today_yyyy_mm_dd()}\n")
+
     for category, description in CATEGORIES.items():
-        print(f"Fetching: {category}")
+        print(f"📰 Category: {category.upper()}")
+        
+        # Get news items from Perplexity
         resp = perplexity_request(api_key, category, description)
-        print(f"Status: {resp.status_code}")
+        print(f"  API Status: {resp.status_code}")
+        
         if resp.status_code != 200:
-            # Fail fast so you see the real error in Actions logs.
-            raise SystemExit(f"Perplexity API error {resp.status_code}: {resp.text[:500]}")
+            print(f"  ❌ Error: {resp.text[:300]}")
+            continue
 
         data = resp.json()
         content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
-        parsed = json.loads(content)  # structured outputs should be valid JSON
-        items = parsed.get("items", [])
+        
+        try:
+            parsed = json.loads(content)
+            items = parsed.get("items", [])
+        except:
+            print(f"  ⚠️  Failed to parse JSON response")
+            continue
 
-        written_files = []
-        for item in items:
+        print(f"  Found {len(items)} items")
+        
+        for i, item in enumerate(items, 1):
             url = (item.get("url") or "").strip()
-            # dedupe by url (preferred) else by title
-            dedupe_key = url or ("title:" + (item.get("title") or ""))
+            title = (item.get("title") or "").strip()
+            
+            dedupe_key = url or ("title:" + title)
             if dedupe_key in seen:
+                print(f"  [{i}/5] ⏭️  Duplicate: {title[:50]}...")
                 continue
 
-            fpath, saved_url = write_post_file(day_dir, category, item)
-            written_files.append(fpath)
+            print(f"  [{i}/5] Processing: {title[:60]}...")
+            
+            # Scrape full article
+            scraped = scrape_full_article(url)
+            
+            # Write article file
+            fpath = write_post_file(day_dir, category, item, scraped)
+            print(f"    ✅ Saved: {fpath.name}")
+            
             seen.add(dedupe_key)
-            print(f"  saved: {fpath}")
+            
+            # Polite delay between scrapes
+            time.sleep(1)
+        
+        # Generate index for this category
+        write_index(day_dir, category)
+        print(f"  📋 Index updated\n")
 
-        # always generate index (even if no new files this run)
-        write_index(day_dir, category, list((day_dir / category).glob("*.md")))
-
+    # Save state
     state["seen"] = sorted(seen)
     save_state(state_path, state)
-    print("Done.")
+    
+    print("✨ All done!")
 
 if __name__ == "__main__":
     main()
