@@ -26,7 +26,7 @@ jobs:
           
       - name: Install dependencies
         run: |
-          pip install requests
+          pip install requests newspaper3k lxml_html_clean
           
       - name: Fetch news from Perplexity
         env:
