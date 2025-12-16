@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2025-12-16
 
-**Total Articles:** 10
+**Total Articles:** 11
 
+- [AMD’s AI Surge Challenges Nvidia’s Dominance](technology/amd-s-ai-surge-challenges-nvidia-s-dominance-a7945ea2.md)
 - [Chai Discovery Raises $130M Series B at $1.3B Valuation](technology/chai-discovery-raises-130m-series-b-at-1-3b-valuation-49cede03.md)
 - [China AI Chip Startup Biren Preps Hong Kong IPO as AI Hardware Race Tightens](technology/china-ai-chip-startup-biren-preps-hong-kong-ipo-as-ai-hardware-race-tightens-65a649e2.md)
 - [Daily Tech News Roundup - 2025-12-16](technology/daily-tech-news-roundup-2025-12-16-d7414aa9.md)
@@ -14,4 +15,4 @@
 - [VCs Discuss Why Most Consumer AI Startups Still Lack Staying Power](technology/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power-07fa7cf2.md)
 
 ---
-*Updated: 2025-12-16T13:53:21+00:00*
+*Updated: 2025-12-16T18:59:07+00:00*
