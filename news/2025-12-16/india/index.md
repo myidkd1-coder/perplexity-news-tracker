@@ -1,7 +1,8 @@
 # INDIA News - 2025-12-16
 
-**Total Articles:** 9
+**Total Articles:** 10
 
+- [Agreement with India on reciprocal exchange of logistics support ratified](india/agreement-with-india-on-reciprocal-exchange-of-logistics-support-ratified-6ce4def7.md)
 - [December 2025 Archives — Times of India](india/december-2025-archives-times-of-india-b10ec5cb.md)
 - [December 2025 — Latest News, Photos, Videos on India (collection)](india/december-2025-latest-news-photos-videos-on-india-collection-1383b719.md)
 - [India Battles Dense Winter Fog in December 2025 Bringing Air Travel Delays, Flight Cancellations and Traffic Disruptions Across Northern States](india/india-battles-dense-winter-fog-in-december-2025-bringing-air-travel-delays-fligh-b56e5ea4.md)
@@ -13,4 +14,4 @@
 - [Today News Headlines for School Assembly, Dec 16, 2025](india/today-news-headlines-for-school-assembly-dec-16-2025-4439bb30.md)
 
 ---
-*Updated: 2025-12-16T07:02:39+00:00*
+*Updated: 2025-12-16T13:54:49+00:00*
