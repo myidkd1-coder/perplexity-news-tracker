@@ -1,6 +1,6 @@
 # ENTERTAINMENT News - 2025-12-17
 
-**Total Articles:** 12
+**Total Articles:** 13
 
 - [Celebrity and industry highlights from the 2025 Red Sea International Film Festival](entertainment/celebrity-and-industry-highlights-from-the-2025-red-sea-international-film-festi-fa8adb6b.md)
 - [Celebrity News — Elle: December 2025 Highlights](entertainment/celebrity-news-elle-december-2025-highlights-1ef8aea8.md)
@@ -11,9 +11,10 @@
 - [Miley Cyrus Reportedly Engaged at Avatar Premiere](entertainment/miley-cyrus-reportedly-engaged-at-avatar-premiere-527a4dd3.md)
 - [Noah Schnapp Emotional Over Stranger Things Finale](entertainment/noah-schnapp-emotional-over-stranger-things-finale-294a2878.md)
 - [Rob and Michele Reiner: New video shows son's arrest after their deaths](entertainment/rob-and-michele-reiner-new-video-shows-son-s-arrest-after-their-deaths-582b554e.md)
+- [Rob & Michele Reiner Murders: Police Search Nick Reiner's Hotel Room for Murder Weapon](entertainment/rob-michele-reiner-murders-police-search-nick-reiner-s-hotel-room-for-murder-wea-11b444b0.md)
 - [Rob Reiner Dead — Hollywood Mourns Filmmaker](entertainment/rob-reiner-dead-hollywood-mourns-filmmaker-8ef96fae.md)
 - [Stars and Leaders Remember Rob Reiner](entertainment/stars-and-leaders-remember-rob-reiner-46d7f9e9.md)
 - [The Most Anticipated Movies of December 2025](entertainment/the-most-anticipated-movies-of-december-2025-0d869947.md)
 
 ---
-*Updated: 2025-12-17T13:47:23+00:00*
+*Updated: 2025-12-17T19:00:11+00:00*
