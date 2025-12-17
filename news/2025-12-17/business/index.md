@@ -6,4 +6,4 @@
 - [U.S. economy sags in December, S&P says, due to tariffs, inflation and softer sales](business/u-s-economy-sags-in-december-s-p-says-due-to-tariffs-inflation-and-softer-sales-3f0ce195.md)
 
 ---
-*Updated: 2025-12-17T03:49:14+00:00*
+*Updated: 2025-12-17T06:59:55+00:00*
