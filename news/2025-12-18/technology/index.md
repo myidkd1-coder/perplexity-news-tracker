@@ -11,4 +11,4 @@
 - [University of Ottawa develops AI system that defends wireless networks from jamming attacks](technology/university-of-ottawa-develops-ai-system-that-defends-wireless-networks-from-jamm-bf4686db.md)
 
 ---
-*Updated: 2025-12-18T13:51:01+00:00*
+*Updated: 2025-12-18T18:59:00+00:00*

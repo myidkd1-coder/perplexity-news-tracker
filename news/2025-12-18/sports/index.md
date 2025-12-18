@@ -8,4 +8,4 @@
 - [Washington vs NC State: 2025 Men's College Cup highlights](sports/washington-vs-nc-state-2025-men-s-college-cup-highlights-6025ad7b.md)
 
 ---
-*Updated: 2025-12-18T13:51:20+00:00*
+*Updated: 2025-12-18T18:59:13+00:00*
