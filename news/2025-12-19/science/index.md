@@ -5,4 +5,4 @@
 - [First image of PINK1 proteins on mitochondria — potential Parkinson’s breakthrough](science/first-image-of-pink1-proteins-on-mitochondria-potential-parkinson-s-breakthrough-5749c706.md)
 
 ---
-*Updated: 2025-12-19T03:53:15+00:00*
+*Updated: 2025-12-19T07:00:50+00:00*
