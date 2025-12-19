@@ -7,4 +7,4 @@
 - [UN warns Sudan, Gaza among world’s top humanitarian crises](world/un-warns-sudan-gaza-among-world-s-top-humanitarian-crises-882d77f6.md)
 
 ---
-*Updated: 2025-12-19T13:47:34+00:00*
+*Updated: 2025-12-19T18:57:57+00:00*
