@@ -10,4 +10,4 @@
 - [Stocks Jump as Softer CPI Sends Treasuries Higher (Bloomberg Television)](business/stocks-jump-as-softer-cpi-sends-treasuries-higher-bloomberg-television-d9a383d4.md)
 
 ---
-*Updated: 2025-12-19T06:59:48+00:00*
+*Updated: 2025-12-19T13:46:59+00:00*
