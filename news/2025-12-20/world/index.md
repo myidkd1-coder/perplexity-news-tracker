@@ -7,4 +7,4 @@
 - [U.S. launches large retaliatory strikes against ISIS targets in Syria](world/u-s-launches-large-retaliatory-strikes-against-isis-targets-in-syria-5997f8b9.md)
 
 ---
-*Updated: 2025-12-20T03:43:23+00:00*
+*Updated: 2025-12-20T06:57:55+00:00*
