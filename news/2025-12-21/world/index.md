@@ -6,4 +6,4 @@
 - [Pakistani court sentences former PM Imran Khan and wife to 17 years in graft case](world/pakistani-court-sentences-former-pm-imran-khan-and-wife-to-17-years-in-graft-cas-882d77f6.md)
 
 ---
-*Updated: 2025-12-21T03:58:00+00:00*
+*Updated: 2025-12-21T06:57:45+00:00*
