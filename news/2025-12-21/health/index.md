@@ -11,4 +11,4 @@
 - [World leaders adopt a historic global declaration on noncommunicable diseases and mental health](health/world-leaders-adopt-a-historic-global-declaration-on-noncommunicable-diseases-an-4b287c0f.md)
 
 ---
-*Updated: 2025-12-21T06:57:41+00:00*
+*Updated: 2025-12-21T13:36:34+00:00*
