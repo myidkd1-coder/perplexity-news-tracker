@@ -6,4 +6,4 @@
 - [Belarus releases 123 political prisoners after US lifts sanctions](world/belarus-releases-123-political-prisoners-after-us-lifts-sanctions-71b65643.md)
 
 ---
-*Updated: 2025-12-22T04:02:04+00:00*
+*Updated: 2025-12-22T07:02:01+00:00*
