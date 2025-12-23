@@ -1,11 +1,12 @@
 # ENTERTAINMENT News - 2025-12-23
 
-**Total Articles:** 4
+**Total Articles:** 5
 
+- [Bowen Yang Leaves Saturday Night Live](entertainment/bowen-yang-leaves-saturday-night-live-0dbe4da7.md)
 - ['Call of Duty' Creator Vincent Zampella Killed in Fiery Ferrari Crash](entertainment/call-of-duty-creator-vincent-zampella-killed-in-fiery-ferrari-crash-11b444b0.md)
 - [Gisele Bündchen and Joaquim Valente Are Married!](entertainment/gisele-b-ndchen-and-joaquim-valente-are-married-7b45da2a.md)
 - [Harrison Ford to Receive SAG-AFTRA Lifetime Achievement Award](entertainment/harrison-ford-to-receive-sag-aftra-lifetime-achievement-award-01eb697a.md)
 - [James Ransone, Actor, Passes Away; Wife Jamie McPhee Shares Tribute](entertainment/james-ransone-actor-passes-away-wife-jamie-mcphee-shares-tribute-9a92867a.md)
 
 ---
-*Updated: 2025-12-23T13:49:58+00:00*
+*Updated: 2025-12-23T18:58:44+00:00*
