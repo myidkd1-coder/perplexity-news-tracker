@@ -8,4 +8,4 @@
 - [James Ransone, Actor, Passes Away; Wife Jamie McPhee Shares Tribute](entertainment/james-ransone-actor-passes-away-wife-jamie-mcphee-shares-tribute-9a92867a.md)
 
 ---
-*Updated: 2025-12-23T07:01:38+00:00*
+*Updated: 2025-12-23T13:49:58+00:00*
