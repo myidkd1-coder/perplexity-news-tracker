@@ -1,0 +1,106 @@
+# SoftBank Racing to Complete $22.5B OpenAI Investment
+
+**Category:** Technology
+**Source:** [https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh](https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh)
+**Publisher:** dev.to
+**Published:** December 23, 2025
+**Scraped (UTC):** 2025-12-23T03:54:30+00:00
+
+![Article Image](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj9ang31qibh2uorqqlvv.png)
+
+## Summary
+SoftBank is pushing to finalize a massive $22.5 billion funding commitment to OpenAI by year-end, exploring financing options including selling public-market holdings and tapping additional credit capacity.
+
+## Full Article
+Welcome to the daily tech roundup! Here are the most important stories across technology, cybersecurity, and software development for December 23, 2025.
+
+Tech Industry Highlights
+
+ChatGPT Launches Your Year with ChatGPT
+
+OpenAI is rolling out its own version of Spotify Wrapped! The annual review feature called Your Year with ChatGPT is now available to eligible consumers in the US, Canada, UK, Australia, and New Zealand.
+
+SoftBank Racing to Complete $22.5B OpenAI Investment
+
+SoftBank is pushing to finalize a massive $22.5 billion funding commitment to OpenAI by year-end. The company is exploring multiple financing options, including selling public-market holdings and tapping additional credit capacity.
+
+NIST Invests $20M in AI Centers
+
+NIST has expanded collaboration with MITRE Corporation, investing $20 million to establish two centers focused on:
+
+AI-based solutions for U.S. manufacturing
+
+Cybersecurity for critical infrastructure
+
+Major Startup Funding Rounds
+
+Lovable (Swedish AI startup): $330M Series B at $6.6B valuation, led by Google CapitalG
+
+(Swedish AI startup): $330M Series B at $6.6B valuation, led by Google CapitalG Erebor Bank : $350M for crypto-native banking infrastructure
+
+: $350M for crypto-native banking infrastructure ZeroAvia: $150M Series D for zero-emission commercial flight
+
+Cybersecurity News
+
+Government Advisories
+
+BRICKSTORM Backdoor Update: CISA, NSA, and Canadian Cyber Security Centre released updated IOCs and detection signatures for Rust-based samples with advanced persistence mechanisms and encrypted WebSocket C2 capabilities.
+
+Major Law Enforcement Action
+
+The DOJ charged 54 individuals in an ATM jackpotting scheme using Ploutus malware, linked to the Tren de Aragua gang. The attacks caused $40.73 million in U.S. losses since 2021.
+
+Nation-State Threats
+
+North Korean hackers stole at least $2.02 billion in cryptocurrency in 2025 (51% increase YoY)
+
+stole at least $2.02 billion in cryptocurrency in 2025 (51% increase YoY) Russia blamed for destructive cyber attacks against Denmark, including water utility attacks and DDoS campaigns
+
+blamed for destructive cyber attacks against Denmark, including water utility attacks and DDoS campaigns Iranian Infy APT resurfaces targeting victims across multiple countries with updated Foudre and Tonnerre malware
+
+Critical Vulnerabilities
+
+CVE-2025-37164 (CVSS 10.0): HPE OneView Software - unauthenticated RCE
+
+(CVSS 10.0): HPE OneView Software - unauthenticated RCE Active exploits reported in Fortinet, SonicWall, Cisco, and WatchGuard products
+
+Major Data Breaches
+
+Organization Impact 700Credit 5.6M+ auto dealership customers PornHub via Mixpanel 200M+ Premium user records University of Sydney 27,000+ individuals
+
+Software Development Updates
+
+AI Tools and Model Releases
+
+Anthropic made Skills an open standard
+
+made Skills an open standard GPT-5.2-Codex was released
+
+was released Google Gemini 3 Flash announced - optimized for speed and iterative development
+
+Key Industry Trends
+
+Agents Are Production-Ready: By the end of 2025, AI agents are doing operational work - updating infrastructure, resolving customer issues, moving money, and managing SaaS tools.
+
+Docker Makes Security Accessible: Docker Hardened Images (DHI) are now available at no cost, providing secure-by-default, minimal, production-ready foundations for all developers.
+
+Observability Evolution: Dynatrace announced support for Google Cloud agentic AI tools via Agent-to-Agent (A2A) protocol, now under Linux Foundation governance.
+
+Apple Developer Updates
+
+iOS 18.4, macOS 15.4, and other betas now available
+
+now available New Australian law (effective Dec 10): Social media platforms must prevent users under 16 from having accounts
+
+Looking Ahead to 2026
+
+Space Data Centers: Conversation around data centers in space is heating up Energy Infrastructure: Critical importance for AI and tech growth AI Environmental Impact: Growing concerns about data center water consumption in drought-prone regions
+
+Sources
+
+Stay informed, stay secure, and keep building!
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*
