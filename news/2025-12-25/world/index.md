@@ -10,4 +10,4 @@
 - [UN warns Gaza’s fragile humanitarian gains could reverse without sustained aid](world/un-warns-gaza-s-fragile-humanitarian-gains-could-reverse-without-sustained-aid-caf875bd.md)
 
 ---
-*Updated: 2025-12-25T13:50:59+00:00*
+*Updated: 2025-12-25T19:01:15+00:00*

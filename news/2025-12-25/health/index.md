@@ -14,4 +14,4 @@
 - [WHO Global Summit charts a bold future for traditional medicine](health/who-global-summit-charts-a-bold-future-for-traditional-medicine-4d5a8593.md)
 
 ---
-*Updated: 2025-12-25T13:50:53+00:00*
+*Updated: 2025-12-25T19:01:07+00:00*
