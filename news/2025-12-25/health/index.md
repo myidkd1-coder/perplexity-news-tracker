@@ -1,8 +1,10 @@
 # HEALTH News - 2025-12-25
 
-**Total Articles:** 8
+**Total Articles:** 10
 
 - [Harvard Medical School’s Top Science News of 2025: Could Lithium Explain — and Treat — Alzheimer’s Disease?](health/harvard-medical-school-s-top-science-news-of-2025-could-lithium-explain-and-trea-28eb4b65.md)
+- [Health Care Industry Trends to Watch in 2025](health/health-care-industry-trends-to-watch-in-2025-4d76a25f.md)
+- [May 2025 Health News Roundup — Long COVID, vaccines, and cardiology findings](health/may-2025-health-news-roundup-long-covid-vaccines-and-cardiology-findings-51524231.md)
 - [NIH: Expanded umbilical cord blood transplant achieves 94% survival in severe aplastic anemia patients](health/nih-expanded-umbilical-cord-blood-transplant-achieves-94-survival-in-severe-apla-f4bb5dd2.md)
 - [Reported use of most drugs remains low among U.S. teens](health/reported-use-of-most-drugs-remains-low-among-u-s-teens-7b36f64a.md)
 - [Scientists at MIT and Stanford unveil new way to train immune system to better attack cancer](health/scientists-at-mit-and-stanford-unveil-new-way-to-train-immune-system-to-better-a-3bcdf9d7.md)
@@ -12,4 +14,4 @@
 - [WHO Global Summit charts a bold future for traditional medicine](health/who-global-summit-charts-a-bold-future-for-traditional-medicine-4d5a8593.md)
 
 ---
-*Updated: 2025-12-25T07:00:13+00:00*
+*Updated: 2025-12-25T13:50:53+00:00*
