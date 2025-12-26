@@ -6,4 +6,4 @@
 - [Science's 2025 Breakthrough of the Year: Renewables Surpass Coal](science/science-s-2025-breakthrough-of-the-year-renewables-surpass-coal-821ace03.md)
 
 ---
-*Updated: 2025-12-26T03:53:05+00:00*
+*Updated: 2025-12-26T07:01:18+00:00*
