@@ -6,4 +6,4 @@
 - [Zelenskyy: Ukraine agrees on US peace plan, territorial issues remain](world/zelenskyy-ukraine-agrees-on-us-peace-plan-territorial-issues-remain-0f69076f.md)
 
 ---
-*Updated: 2025-12-26T07:01:59+00:00*
+*Updated: 2025-12-26T13:54:18+00:00*
