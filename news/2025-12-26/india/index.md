@@ -1,7 +1,8 @@
 # INDIA News - 2025-12-26
 
-**Total Articles:** 8
+**Total Articles:** 9
 
+- [CBI Challenges Suspension Of Kuldeep Sengar's Jail Term In Unnao Rape Case](india/cbi-challenges-suspension-of-kuldeep-sengar-s-jail-term-in-unnao-rape-case-ec1f23d1.md)
 - [India's SHANTI Bill Completes Legislative Process, Opens Nuclear Sector to Private Firms](india/india-s-shanti-bill-completes-legislative-process-opens-nuclear-sector-to-privat-77f5e70a.md)
 - [Latest News from India: 26 December 2025](india/latest-news-from-india-26-december-2025-33af05c9.md)
 - [PM Modi to Inaugurate Rashtra Prerna Sthal in Lucknow on Atal Bihari Vajpayee's 101st Birth Anniversary](india/pm-modi-to-inaugurate-rashtra-prerna-sthal-in-lucknow-on-atal-bihari-vajpayee-s-6c43da35.md)
@@ -12,4 +13,4 @@
 - [Veer Bal Diwas 2025: Remembering the fearless Sahibzadas of Guru Gobind Singh Ji on December 26](india/veer-bal-diwas-2025-remembering-the-fearless-sahibzadas-of-guru-gobind-singh-ji-de80ee3b.md)
 
 ---
-*Updated: 2025-12-26T13:54:27+00:00*
+*Updated: 2025-12-26T18:57:30+00:00*
