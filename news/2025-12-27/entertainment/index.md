@@ -7,4 +7,4 @@
 - [Tyler Perry Sued For Sexual Battery, Sexual Assault](entertainment/tyler-perry-sued-for-sexual-battery-sexual-assault-11b444b0.md)
 
 ---
-*Updated: 2025-12-27T03:49:43+00:00*
+*Updated: 2025-12-27T06:58:26+00:00*
