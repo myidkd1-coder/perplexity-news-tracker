@@ -10,4 +10,4 @@
 - [Nvidia to License Groq's AI Chip Technology for $20 Billion](technology/nvidia-to-license-groq-s-ai-chip-technology-for-20-billion-8da8afc8.md)
 
 ---
-*Updated: 2025-12-27T13:41:52+00:00*
+*Updated: 2025-12-27T18:58:06+00:00*
