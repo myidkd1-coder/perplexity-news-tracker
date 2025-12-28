@@ -10,4 +10,4 @@
 - [Stanford Scientists Uncover Why mRNA COVID Vaccines Can Trigger Heart Inflammation](health/stanford-scientists-uncover-why-mrna-covid-vaccines-can-trigger-heart-inflammati-f42bfd14.md)
 
 ---
-*Updated: 2025-12-28T06:58:34+00:00*
+*Updated: 2025-12-28T13:39:47+00:00*
