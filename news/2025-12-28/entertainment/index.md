@@ -1,6 +1,6 @@
 # ENTERTAINMENT News - 2025-12-28
 
-**Total Articles:** 7
+**Total Articles:** 8
 
 - [Amos Poe, Filmmaker of ‘The Blank Generation’ and ‘Subway Riders,’ Dies at 76](entertainment/amos-poe-filmmaker-of-the-blank-generation-and-subway-riders-dies-at-76-66c81d3a.md)
 - [Channing Tatum’s Most Unsettling Movie Yet Is Blowing up on Streaming & You Need to Watch It](entertainment/channing-tatum-s-most-unsettling-movie-yet-is-blowing-up-on-streaming-you-need-t-6639c3e6.md)
@@ -9,6 +9,7 @@
 - [Jennifer Lawrence and Josh Hutcherson Reportedly Reprising Roles in Hunger Games Prequel](entertainment/jennifer-lawrence-and-josh-hutcherson-reportedly-reprising-roles-in-hunger-games-0d9b1992.md)
 - [Taylor Swift & Travis Kelce Announce Engagement as 2025's Memorable Pop Culture Moment](entertainment/taylor-swift-travis-kelce-announce-engagement-as-2025-s-memorable-pop-culture-mo-3eb14c1b.md)
 - [TMZ: Ex-Reality Star’s Pets Confiscated Amid Child and Animal Sex Charges](entertainment/tmz-ex-reality-star-s-pets-confiscated-amid-child-and-animal-sex-charges-4c5f1a31.md)
+- [Tyler, The Creator's Top Films of All Time May Surprise You](entertainment/tyler-the-creator-s-top-films-of-all-time-may-surprise-you-bb642bc4.md)
 
 ---
-*Updated: 2025-12-28T13:39:37+00:00*
+*Updated: 2025-12-28T18:55:06+00:00*
