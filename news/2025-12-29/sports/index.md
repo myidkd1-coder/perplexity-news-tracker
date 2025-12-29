@@ -1,6 +1,6 @@
 # SPORTS News - 2025-12-29
 
-**Total Articles:** 7
+**Total Articles:** 8
 
 - [B.J. Edwards posts first triple‑double as SMU routs Cal State Fullerton 110-63](sports/b-j-edwards-posts-first-triple-double-as-smu-routs-cal-state-fullerton-110-63-377a70a3.md)
 - [Crystal Palace  — Tottenham Hotspur full‑match highlights](sports/crystal-palace-tottenham-hotspur-full-match-highlights-27508cff.md)
@@ -9,6 +9,7 @@
 - [Magic edge Nuggets 127-126 — Anthony Black explodes for 38](sports/magic-edge-nuggets-127-126-anthony-black-explodes-for-38-a416c69f.md)
 - [Sunderland v Leeds United — Premier League highlights](sports/sunderland-v-leeds-united-premier-league-highlights-24858863.md)
 - [Thunder Defeat 76ers 129-104 in Full Game Highlights](sports/thunder-defeat-76ers-129-104-in-full-game-highlights-0f84fada.md)
+- [Trail Blazers defeat Celtics 114-108](sports/trail-blazers-defeat-celtics-114-108-ab689319.md)
 
 ---
-*Updated: 2025-12-29T07:02:38+00:00*
+*Updated: 2025-12-29T13:53:18+00:00*

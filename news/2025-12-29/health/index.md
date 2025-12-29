@@ -11,4 +11,4 @@
 - [Stanford study explains rare myocarditis after mRNA COVID-19 vaccines and how to reduce risk](health/stanford-study-explains-rare-myocarditis-after-mrna-covid-19-vaccines-and-how-to-dbc9023c.md)
 
 ---
-*Updated: 2025-12-29T07:03:07+00:00*
+*Updated: 2025-12-29T13:53:32+00:00*
