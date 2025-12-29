@@ -6,4 +6,4 @@
 - [Markets and Economic Updates for December 2025: Shutdowns, Fed moves and market resilience](business/markets-and-economic-updates-for-december-2025-shutdowns-fed-moves-and-market-re-76677104.md)
 
 ---
-*Updated: 2025-12-29T04:18:33+00:00*
+*Updated: 2025-12-29T07:02:30+00:00*
