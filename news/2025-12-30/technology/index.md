@@ -7,4 +7,4 @@
 - [SoftBank makes a $4B AI infrastructure bet, buying DigitalBridge to scale data centers and compute](technology/softbank-makes-a-4b-ai-infrastructure-bet-buying-digitalbridge-to-scale-data-cen-9cfe3fe8.md)
 
 ---
-*Updated: 2025-12-30T13:54:45+00:00*
+*Updated: 2025-12-30T18:58:27+00:00*

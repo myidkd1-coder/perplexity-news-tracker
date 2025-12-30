@@ -13,4 +13,4 @@
 - [Year Ender 2025: From Kumbh, Op Sindoor to Air India crash ...](india/year-ender-2025-from-kumbh-op-sindoor-to-air-india-crash-ac8a0596.md)
 
 ---
-*Updated: 2025-12-30T13:55:36+00:00*
+*Updated: 2025-12-30T18:59:08+00:00*
