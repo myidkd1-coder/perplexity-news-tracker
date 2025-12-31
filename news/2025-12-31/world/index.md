@@ -8,4 +8,4 @@
 - [US-Brokered Gaza Ceasefire Remains Fragile into December](world/us-brokered-gaza-ceasefire-remains-fragile-into-december-b4d78541.md)
 
 ---
-*Updated: 2025-12-31T07:00:58+00:00*
+*Updated: 2025-12-31T13:47:32+00:00*
