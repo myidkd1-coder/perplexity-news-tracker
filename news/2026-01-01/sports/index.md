@@ -6,4 +6,4 @@
 - [Sports world poised for busy 2026 with major global events](sports/sports-world-poised-for-busy-2026-with-major-global-events-bd81da6e.md)
 
 ---
-*Updated: 2026-01-01T04:18:42+00:00*
+*Updated: 2026-01-01T07:01:12+00:00*
