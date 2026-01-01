@@ -1,9 +1,10 @@
 # INDIA News - 2026-01-01
 
-**Total Articles:** 8
+**Total Articles:** 9
 
 - [Breaking News Live Updates: PM Modi wishes India a happy 2026](india/breaking-news-live-updates-pm-modi-wishes-india-a-happy-2026-a6ff1dbd.md)
 - [India News Live Updates | Vande Bharat Sleeper trains to cover 1,000–1,500 km routes; 12 trains set for launch in 2026](india/india-news-live-updates-vande-bharat-sleeper-trains-to-cover-1-000-1-500-km-rout-4a5f27f2.md)
+- [India Rings in 2026: Maruti Hits Record High, GST Stabilizes, Sin Taxes Hike](india/india-rings-in-2026-maruti-hits-record-high-gst-stabilizes-sin-taxes-hike-c93d7d3e.md)
 - [India steps into 2026 with a brand new global playbook](india/india-steps-into-2026-with-a-brand-new-global-playbook-8c5c3377.md)
 - [India welcomes New Year 2026: What's closed, what's open today?](india/india-welcomes-new-year-2026-what-s-closed-what-s-open-today-d9c061c8.md)
 - [January 2026 Financial Changes: From PAN-Aadhaar Rules To Credit Score Updates](india/january-2026-financial-changes-from-pan-aadhaar-rules-to-credit-score-updates-6256dd56.md)
@@ -12,4 +13,4 @@
 - [What Changes from January 1, 2026: Key Policy Updates Including 8th Pay Commission, Farmer IDs, New ITR](india/what-changes-from-january-1-2026-key-policy-updates-including-8th-pay-commission-8fba3cb9.md)
 
 ---
-*Updated: 2026-01-01T13:47:40+00:00*
+*Updated: 2026-01-01T18:58:53+00:00*
