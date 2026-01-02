@@ -1,8 +1,9 @@
 # INDIA News - 2026-01-02
 
-**Total Articles:** 13
+**Total Articles:** 14
 
 - [BJP's big 2026 test: Defending the North, cracking the South](india/bjp-s-big-2026-test-defending-the-north-cracking-the-south-6a20ee36.md)
+- [Death Toll Rises in Indore Water Crisis](india/death-toll-rises-in-indore-water-crisis-3a57fd6f.md)
 - [India Live News Updates: Indore Water Contamination Crisis](india/india-live-news-updates-indore-water-contamination-crisis-5fca9549.md)
 - [India officially takes over BRICS presidency for 2026 as Trump tariffs roil global trade](india/india-officially-takes-over-brics-presidency-for-2026-as-trump-tariffs-roil-glob-c9058357.md)
 - [India's Economy Diverges: Consumption Soars While Manufacturing Dips](india/india-s-economy-diverges-consumption-soars-while-manufacturing-dips-aa8dc22c.md)
@@ -17,4 +18,4 @@
 - [Why the year 2026 can be a big deal for India's economy](india/why-the-year-2026-can-be-a-big-deal-for-india-s-economy-086730ef.md)
 
 ---
-*Updated: 2026-01-02T13:47:18+00:00*
+*Updated: 2026-01-02T18:57:07+00:00*
