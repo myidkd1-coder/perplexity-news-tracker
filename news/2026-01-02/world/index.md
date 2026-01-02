@@ -8,4 +8,4 @@
 - [Switzerland Ski Resort Fire: Dozens Presumed Dead After Blaze in Crans-Montana Bar](world/switzerland-ski-resort-fire-dozens-presumed-dead-after-blaze-in-crans-montana-ba-c64b3191.md)
 
 ---
-*Updated: 2026-01-02T07:02:42+00:00*
+*Updated: 2026-01-02T13:47:05+00:00*
