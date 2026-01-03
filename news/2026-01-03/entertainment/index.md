@@ -6,4 +6,4 @@
 - [The year ahead in entertainment: What to look forward to in 2026](entertainment/the-year-ahead-in-entertainment-what-to-look-forward-to-in-2026-48a6fca0.md)
 
 ---
-*Updated: 2026-01-03T03:49:28+00:00*
+*Updated: 2026-01-03T06:57:27+00:00*
