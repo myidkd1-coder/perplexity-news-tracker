@@ -10,4 +10,4 @@
 - [Trump warns US 'locked and loaded' to intervene if Iran kills protesters](world/trump-warns-us-locked-and-loaded-to-intervene-if-iran-kills-protesters-1b2aa0bc.md)
 
 ---
-*Updated: 2026-01-03T06:57:48+00:00*
+*Updated: 2026-01-03T13:43:17+00:00*
