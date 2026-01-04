@@ -16,4 +16,4 @@
 - [Warriors' Green argues with refs, earns 2nd ejection in 2 weeks](sports/warriors-green-argues-with-refs-earns-2nd-ejection-in-2-weeks-377a70a3.md)
 
 ---
-*Updated: 2026-01-04T13:43:52+00:00*
+*Updated: 2026-01-04T18:59:56+00:00*
