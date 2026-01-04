@@ -7,4 +7,4 @@
 - [Vera C. Rubin Observatory: World’s Largest Digital Camera](science/vera-c-rubin-observatory-world-s-largest-digital-camera-29f58bb5.md)
 
 ---
-*Updated: 2026-01-04T04:22:45+00:00*
+*Updated: 2026-01-04T06:59:21+00:00*
