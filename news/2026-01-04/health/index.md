@@ -8,4 +8,4 @@
 - [High-fat cheese and cream linked to lower dementia risk in Swedish study](health/high-fat-cheese-and-cream-linked-to-lower-dementia-risk-in-swedish-study-1ee33050.md)
 
 ---
-*Updated: 2026-01-04T06:59:29+00:00*
+*Updated: 2026-01-04T13:44:07+00:00*

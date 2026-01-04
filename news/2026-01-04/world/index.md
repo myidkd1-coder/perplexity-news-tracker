@@ -10,4 +10,4 @@
 - [US Strikes Venezuela, Captures Maduro and His Wife](world/us-strikes-venezuela-captures-maduro-and-his-wife-882d77f6.md)
 
 ---
-*Updated: 2026-01-04T06:59:38+00:00*
+*Updated: 2026-01-04T13:44:12+00:00*
