@@ -8,4 +8,4 @@
 - [Vegas Golden Knights at Chicago Blackhawks - January 4, 2026](sports/vegas-golden-knights-at-chicago-blackhawks-january-4-2026-3524055a.md)
 
 ---
-*Updated: 2026-01-05T04:41:28+00:00*
+*Updated: 2026-01-05T07:20:09+00:00*
