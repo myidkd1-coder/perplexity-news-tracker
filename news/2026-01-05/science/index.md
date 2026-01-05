@@ -9,4 +9,4 @@
 - [Vera C. Rubin Observatory: World's Largest Digital Camera for Night Sky Survey](science/vera-c-rubin-observatory-world-s-largest-digital-camera-for-night-sky-survey-29f58bb5.md)
 
 ---
-*Updated: 2026-01-05T07:20:24+00:00*
+*Updated: 2026-01-05T13:54:49+00:00*
