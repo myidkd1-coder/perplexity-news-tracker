@@ -7,4 +7,4 @@
 - [New federal screening guidance expands cervical cancer testing with at-home option](health/new-federal-screening-guidance-expands-cervical-cancer-testing-with-at-home-opti-8fe644c2.md)
 
 ---
-*Updated: 2026-01-06T07:03:46+00:00*
+*Updated: 2026-01-06T13:52:17+00:00*
