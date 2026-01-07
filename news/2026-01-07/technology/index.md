@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-01-07
 
-**Total Articles:** 6
+**Total Articles:** 7
 
+- [Bloomberg Tech at CES | Bloomberg Tech 1/6/2026](technology/bloomberg-tech-at-ces-bloomberg-tech-1-6-2026-ae7d7f40.md)
 - [HP EliteBoard G1a: PC Integrated into a Slim Keyboard](technology/hp-eliteboard-g1a-pc-integrated-into-a-slim-keyboard-a5dd6127.md)
 - [Intel Core Ultra Series 3 (Panther Lake) Processors Launched](technology/intel-core-ultra-series-3-panther-lake-processors-launched-444e572a.md)
 - [Lego Smart Bricks with Sensors and Wireless Communication](technology/lego-smart-bricks-with-sensors-and-wireless-communication-d5f45c10.md)
@@ -10,4 +11,4 @@
 - [Nvidia, Siemens, and Commonwealth Fusion Partner on AI for Nuclear Fusion](technology/nvidia-siemens-and-commonwealth-fusion-partner-on-ai-for-nuclear-fusion-2239e1d7.md)
 
 ---
-*Updated: 2026-01-07T07:01:45+00:00*
+*Updated: 2026-01-07T13:54:36+00:00*

@@ -8,4 +8,4 @@
 - [Science's 2025 Breakthrough of the Year: Renewable Energy Growth](science/science-s-2025-breakthrough-of-the-year-renewable-energy-growth-821ace03.md)
 
 ---
-*Updated: 2026-01-07T07:02:04+00:00*
+*Updated: 2026-01-07T13:55:07+00:00*

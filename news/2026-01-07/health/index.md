@@ -8,4 +8,4 @@
 - [Rare Welder’s Anthrax Case In Louisiana Successfully Treated With Monoclonal Antibody](health/rare-welder-s-anthrax-case-in-louisiana-successfully-treated-with-monoclonal-ant-b7c5392d.md)
 
 ---
-*Updated: 2026-01-07T07:02:11+00:00*
+*Updated: 2026-01-07T13:55:11+00:00*
