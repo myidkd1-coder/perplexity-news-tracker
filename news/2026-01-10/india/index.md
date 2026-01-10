@@ -1,6 +1,6 @@
 # INDIA News - 2026-01-10
 
-**Total Articles:** 8
+**Total Articles:** 9
 
 - [ED–Mamata Banerjee confrontation escalates as agency moves Supreme Court over ‘interference’ in I-PAC raids](india/ed-mamata-banerjee-confrontation-escalates-as-agency-moves-supreme-court-over-in-969ba7f1.md)
 - [India adds 48 GW of renewable energy capacity amid clean energy push](india/india-adds-48-gw-of-renewable-energy-capacity-amid-clean-energy-push-e3f0c5b6.md)
@@ -10,6 +10,7 @@
 - [Top India and world news headlines: Russian ‘shadow fleet’ tanker hit, US tariff threat on India](india/top-india-and-world-news-headlines-russian-shadow-fleet-tanker-hit-us-tariff-thr-61213c34.md)
 - [Top India news headlines for January 9: ED vs Mamata, Supreme Court clarification and more](india/top-india-news-headlines-for-january-9-ed-vs-mamata-supreme-court-clarification-ac393bbb.md)
 - [Union Budget for 2025-26 to be presented on February 1, Economic Survey on January 29](india/union-budget-for-2025-26-to-be-presented-on-february-1-economic-survey-on-januar-9a90f9f5.md)
+- [World Hindi Day 2026: History, Significance, And Global Presence Of The Language](india/world-hindi-day-2026-history-significance-and-global-presence-of-the-language-e54f8e22.md)
 
 ---
-*Updated: 2026-01-10T13:45:22+00:00*
+*Updated: 2026-01-10T18:55:44+00:00*
