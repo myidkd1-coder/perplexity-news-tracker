@@ -1,0 +1,40 @@
+# Top India news headlines for January 9: ED vs Mamata, Supreme Court clarification and more
+
+**Category:** India
+**Source:** [https://economictimes.com/news/new-updates/school-assembly-news-headlines-january-9-top-national-international-sports-business-updates/articleshow/126415096.cms](https://economictimes.com/news/new-updates/school-assembly-news-headlines-january-9-top-national-international-sports-business-updates/articleshow/126415096.cms)
+**Publisher:** The Economic Times
+**Published:** 2026-01-09
+**Scraped (UTC):** 2026-01-10T03:51:25+00:00
+
+![Article Image](https://img.etimg.com/thumb/msid-126415122,width-1200,height-630,imgsize-11236,overlay-economictimes/articleshow.jpg)
+
+## Summary
+A roundup of January 9 national news highlights includes Enforcement Directorate allegations against West Bengal Chief Minister Mamata Banerjee and a key Supreme Court clarification on a pending legal issue. The bulletin also covers major business, international, and sports updates for use in school assemblies and daily briefings. It serves as a concise digest of the day’s leading stories from across India.
+
+## Full Article
+School assembly news headlines January 9: National news
+
+Live Events
+
+School assembly news headlines January 9: International news
+
+School assembly news headlines January 9: Sports news
+
+School assembly news headlines January 9: Business news
+
+School assembly news headlines January 9: Thought of the day
+
+
+
+as a Reliable and Trusted News Source Addas a Reliable and Trusted News Source Add Now!
+
+(You can now subscribe to our
+
+(You can now subscribe to our Economic Times WhatsApp channel
+
+Every morning offers a new opportunity to gain meaningful knowledge. Staying updated with the news goes beyond simply knowing what’s happening—it helps us understand the world beyond our classrooms. News gives insight into how countries function, how science and technology evolve, how sports inspire millions, and how the education system continues to change. Here are top news headlines for 9th January.The Enforcement Directorate on Thursday alleged that West Bengal Chief Minister Mamata Banerjee entered the residence of I-PAC director Pratik Jain in Kolkata during a raid in a money laundering case linked to alleged coal smuggling, and took away "key" evidence, including physical documents and electronic devices.The Supreme Court on Thursday said it had not directed the removal of every dog from the streets and the directive was to treat these stray canines according to the Animal Birth Control (ABC) Rules.The toll from the boiler explosion at a sugar factory here climbed to seven following four more deaths on Thursday, police sources said. The explosion took place at Inamdar Sugar Factory at Marakumbi in Belagavi district on Wednesday, initially killing three people.NITI Aayog has invited expression of interest (EoI) from universities and consulting firms for preparation of India Innovation Index (III) 2025 after putting it on the backburner for nearly four years with states often raising concerns related to perception and data.China’s refiners, all but cut off from Venezuelan crude in the past week as the US positions itself for access to the world’s largest oil reserves, are eying a pricier alternative source — Canada.Cambodia's arrest and extradition of a powerful tycoon accused of running a vast online scam network marks a rare strike against an industry that has stolen tens of billions of dollars worldwide. U.S. and U.K. authorities say Chen Zhi led a transnational criminal enterprise that exploited trafficked workers and defrauded victims worldwide.Former India batting coach Vikram Rathour was on Thursday appointed Sri Lanka's batting coach for the T20 World Cup beginning February 7. The World Cup would be co-hosted by India and Sri Lanka.Star shuttler PV Sindhu produced an impressive performance, defeating Japan's Tomoka Miyazaki to book her spot in the women's singles quarterfinals but India's challenge ended in the men's singles at the Malaysia Open Super 1000 badminton tournament here on Thursday.In a massive blow for the Indian cricket team, Asia Cup final hero Tilak Varma is doubtful for the 2025 ICC Men's T20 World Cup and has been ruled out from the upcoming five-match T20I series against New Zealand, after the middle-order batter underwent "Testicular torsion surgery."The Japanese operator of the Uniqlo clothing brand, Fast ⁠Retailing, on Thursday said its first-quarter operating profit jumped 34% from a year earlier as it benefited from strong sales ‌at home ‌and expansions in Europe and North America.Nestle's recall of some batches of infant nutrition products has widened beyond Europe to ⁠Africa, the Americas and Asia, including Brazil, China and South Africa, a tally from the company and national food safety statements show.“Success is the result of preparation, patience, and perseverance.”— Anonymous
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*
