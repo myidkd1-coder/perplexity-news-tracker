@@ -8,4 +8,4 @@
 - [The Curious Cult of Aldi](business/the-curious-cult-of-aldi-e96f686f.md)
 
 ---
-*Updated: 2026-01-11T13:44:33+00:00*
+*Updated: 2026-01-11T18:55:46+00:00*

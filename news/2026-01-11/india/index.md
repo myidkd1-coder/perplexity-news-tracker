@@ -1,7 +1,8 @@
 # INDIA News - 2026-01-11
 
-**Total Articles:** 11
+**Total Articles:** 12
 
+- [Delhi gripped by severe cold wave, records coldest winter morning in three years](india/delhi-gripped-by-severe-cold-wave-records-coldest-winter-morning-in-three-years-f80958f9.md)
 - [India eyes new markets as US trade deal remains in limbo](india/india-eyes-new-markets-as-us-trade-deal-remains-in-limbo-ab51303b.md)
 - [India May Peg FY27 Nominal GDP Growth At Around 10% In Union Budget](india/india-may-peg-fy27-nominal-gdp-growth-at-around-10-in-union-budget-63c516c5.md)
 - [India seeks fresh markets amid uncertainty over US trade pact](india/india-seeks-fresh-markets-amid-uncertainty-over-us-trade-pact-6efcf353.md)
@@ -15,4 +16,4 @@
 - [World Hindi Day 2026: Significance, history and expanding global presence of Hindi](india/world-hindi-day-2026-significance-history-and-expanding-global-presence-of-hindi-e54f8e22.md)
 
 ---
-*Updated: 2026-01-11T13:45:52+00:00*
+*Updated: 2026-01-11T18:56:54+00:00*
