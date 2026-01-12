@@ -9,4 +9,4 @@
 - [Smithsonian’s Ten Most Significant Science Stories of 2025: From Interstellar Visitors to Human Origins](science/smithsonian-s-ten-most-significant-science-stories-of-2025-from-interstellar-vis-40872ec7.md)
 
 ---
-*Updated: 2026-01-12T04:19:30+00:00*
+*Updated: 2026-01-12T07:05:45+00:00*
