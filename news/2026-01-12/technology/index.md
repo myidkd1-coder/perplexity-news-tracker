@@ -1,8 +1,9 @@
 # TECHNOLOGY News - 2026-01-12
 
-**Total Articles:** 14
+**Total Articles:** 15
 
 - [21 Coolest Tech at CES 2026](technology/21-coolest-tech-at-ces-2026-9831fe11.md)
+- [CES 2026 Shows Tech’s Shift From Gadgets to AI Infrastructure and Robotics](technology/ces-2026-shows-tech-s-shift-from-gadgets-to-ai-infrastructure-and-robotics-8606eeac.md)
 - [CES 2026: the year of everything AI, but nobody asked why](technology/ces-2026-the-year-of-everything-ai-but-nobody-asked-why-b6af5edf.md)
 - [Google unveils new protocol to let AI agents handle online shopping and payments](technology/google-unveils-new-protocol-to-let-ai-agents-handle-online-shopping-and-payments-40357fa2.md)
 - [Meta explores nuclear power to meet soaring AI energy needs](technology/meta-explores-nuclear-power-to-meet-soaring-ai-energy-needs-db5cdcd9.md)
@@ -18,4 +19,4 @@
 - [XPENG Charts New Course in 2026: Flagship Launch, Sales Momentum, and AI Breakthrough Propel Global Technology Ambitions](technology/xpeng-charts-new-course-in-2026-flagship-launch-sales-momentum-and-ai-breakthrou-9c19bd0c.md)
 
 ---
-*Updated: 2026-01-12T13:55:05+00:00*
+*Updated: 2026-01-12T19:00:30+00:00*

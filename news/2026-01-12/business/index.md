@@ -1,6 +1,6 @@
 # BUSINESS News - 2026-01-12
 
-**Total Articles:** 7
+**Total Articles:** 8
 
 - [Analyst outlook: 2026 could favor overlooked small‑value stocks](business/analyst-outlook-2026-could-favor-overlooked-small-value-stocks-65311d25.md)
 - [Consumer sentiment rises in January despite lingering inflation concerns](business/consumer-sentiment-rises-in-january-despite-lingering-inflation-concerns-c94c2081.md)
@@ -9,6 +9,7 @@
 - [Monthly Market Commentary: January 2026](business/monthly-market-commentary-january-2026-9f235e9a.md)
 - [This is why January's performance is so important to the market](business/this-is-why-january-s-performance-is-so-important-to-the-market-8ca3823a.md)
 - [U.S. economy adds 50,000 jobs in December as unemployment rate dips](business/u-s-economy-adds-50-000-jobs-in-december-as-unemployment-rate-dips-bead8db9.md)
+- [Watch - Week in the markets - 12 January 2026](business/watch-week-in-the-markets-12-january-2026-ee0ebb8c.md)
 
 ---
-*Updated: 2026-01-12T13:55:12+00:00*
+*Updated: 2026-01-12T19:00:40+00:00*
