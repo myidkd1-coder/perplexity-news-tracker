@@ -9,4 +9,4 @@
 - [Watch - Week in the markets - 12 January 2026](business/watch-week-in-the-markets-12-january-2026-ee0ebb8c.md)
 
 ---
-*Updated: 2026-01-13T07:01:57+00:00*
+*Updated: 2026-01-13T13:54:19+00:00*
