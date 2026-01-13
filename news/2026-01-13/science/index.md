@@ -7,4 +7,4 @@
 - [STITCHR: New Gene-Editing Tool Inserts Large DNA Pieces](science/stitchr-new-gene-editing-tool-inserts-large-dna-pieces-76d8e86a.md)
 
 ---
-*Updated: 2026-01-13T03:56:22+00:00*
+*Updated: 2026-01-13T07:02:20+00:00*
