@@ -1,6 +1,6 @@
 # INDIA News - 2026-01-14
 
-**Total Articles:** 12
+**Total Articles:** 13
 
 - [9th January 2026 | The Indian Express Newspaper Analysis](india/9th-january-2026-the-indian-express-newspaper-analysis-06ddce4b.md)
 - [Breaking News Live Updates: Terrorist recruitment at its lowest in J-K](india/breaking-news-live-updates-terrorist-recruitment-at-its-lowest-in-j-k-f70b9f83.md)
@@ -14,6 +14,7 @@
 - [On the occasion of National Youth Day, PM to participate in the concluding session of Viksit Bharat Young Leaders Dialogue 2026 on 12th January](india/on-the-occasion-of-national-youth-day-pm-to-participate-in-the-concluding-sessio-fe4cab4b.md)
 - [Top News Headlines of January 12, 2026](india/top-news-headlines-of-january-12-2026-a61799c6.md)
 - [U.S. Ambassador to India Sergio Gor Presents Credentials](india/u-s-ambassador-to-india-sergio-gor-presents-credentials-2c40772a.md)
+- [US Supreme Court Skips Tariff Ruling Again: India-Focused Trade Uncertainty](india/us-supreme-court-skips-tariff-ruling-again-india-focused-trade-uncertainty-200d8d1b.md)
 
 ---
-*Updated: 2026-01-14T13:54:41+00:00*
+*Updated: 2026-01-14T18:36:23+00:00*
