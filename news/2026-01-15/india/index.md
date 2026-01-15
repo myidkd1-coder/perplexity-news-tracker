@@ -1,6 +1,6 @@
 # INDIA News - 2026-01-15
 
-**Total Articles:** 14
+**Total Articles:** 17
 
 - [EU-India Trade Deal Set for January 27, 2026: Reports](india/eu-india-trade-deal-set-for-january-27-2026-reports-c0b89a34.md)
 - [India-Germany partnership: Infineon and NIELIT collaborate to strengthen India's semiconductor ecosystem and talent pool](india/india-germany-partnership-infineon-and-nielit-collaborate-to-strengthen-india-s-8a16eed6.md)
@@ -12,10 +12,13 @@
 - [LeT commander calls for Hindu genocide](india/let-commander-calls-for-hindu-genocide-0f8cf9ee.md)
 - [LIVE: Trending, top news of January 7, 2026](india/live-trending-top-news-of-january-7-2026-2cef6b23.md)
 - [PM Modi Positions India As Global South Voice Says Democracy Delivers Stability and Growth](india/pm-modi-positions-india-as-global-south-voice-says-democracy-delivers-stability-c6cb9ba8.md)
+- [PMC Elections 2026: Polling Over, All Eyes on Counting of Votes Tomorrow](india/pmc-elections-2026-polling-over-all-eyes-on-counting-of-votes-tomorrow-f76059f1.md)
 - [The Hindu Newspaper Analysis | 13th January,2026](india/the-hindu-newspaper-analysis-13th-january-2026-ec38a44c.md)
 - [The Hindu Newspaper Analysis | 14th January,2026 | Abhishek Sir](india/the-hindu-newspaper-analysis-14th-january-2026-abhishek-sir-f6dbc807.md)
 - [Today News Headlines for School Assembly, January 13, 2026](india/today-news-headlines-for-school-assembly-january-13-2026-710d2648.md)
 - [Top News Headlines of January 12, 2026](india/top-news-headlines-of-january-12-2026-a61799c6.md)
+- [Trump Visa Crackdown Hits India's Neighbours, US Pauses Immigration For Pakistan, Bangladesh, Nepal](india/trump-visa-crackdown-hits-india-s-neighbours-us-pauses-immigration-for-pakistan-0422432f.md)
+- [US Supreme Court Skips Tariff Ruling Again: Highlights](india/us-supreme-court-skips-tariff-ruling-again-highlights-200d8d1b.md)
 
 ---
-*Updated: 2026-01-15T12:47:30+00:00*
+*Updated: 2026-01-15T18:38:30+00:00*
