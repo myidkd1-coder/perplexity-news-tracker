@@ -1,10 +1,14 @@
 # WORLD News - 2026-01-15
 
-**Total Articles:** 3
+**Total Articles:** 7
 
 - [Deaths Soar in Iran as Anti-Government Protesters Face Execution](world/deaths-soar-in-iran-as-anti-government-protesters-face-execution-3b3ecb2c.md)
 - [Gaza: Physicians Call For Unimpeded Aid To Restore Reproductive Healthcare](world/gaza-physicians-call-for-unimpeded-aid-to-restore-reproductive-healthcare-db184f4a.md)
+- [Iran Crackdown Continues: 12,000-20,000 Protesters Killed, Trump Vows Intervention](world/iran-crackdown-continues-12-000-20-000-protesters-killed-trump-vows-intervention-0c1b3bdb.md)
+- [Iran Protests: Over 500 Protesters Killed Amid Escalating Violence and U.S. Threats](world/iran-protests-over-500-protesters-killed-amid-escalating-violence-and-u-s-threat-0a94e796.md)
 - [Russia Launches Massive Drone and Missile Attack on Ukraine](world/russia-launches-massive-drone-and-missile-attack-on-ukraine-1a7a1a15.md)
+- [Trump Insists U.S. 'Needs Greenland' for Security as Danish Officials Negotiate at White House](world/trump-insists-u-s-needs-greenland-for-security-as-danish-officials-negotiate-at-e23b8322.md)
+- [U.S. Bases on High Alert as Iran Closes Airspace Amid Protester Executions and Trump Warnings](world/u-s-bases-on-high-alert-as-iran-closes-airspace-amid-protester-executions-and-tr-3b94dfdb.md)
 
 ---
-*Updated: 2026-01-15T01:46:39+00:00*
+*Updated: 2026-01-15T06:35:55+00:00*
