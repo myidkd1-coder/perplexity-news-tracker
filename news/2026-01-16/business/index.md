@@ -9,4 +9,4 @@
 - [Tech Lifts Stocks as Small Caps Rally Anew | The Close 1/15/2026](business/tech-lifts-stocks-as-small-caps-rally-anew-the-close-1-15-2026-4e7b192f.md)
 
 ---
-*Updated: 2026-01-16T06:35:10+00:00*
+*Updated: 2026-01-16T12:45:22+00:00*
