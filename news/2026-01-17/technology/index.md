@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-01-17
 
-**Total Articles:** 9
+**Total Articles:** 10
 
+- [Daily Tech Insider Unpacks AI Assistants' Leap From Code to Chores](technology/daily-tech-insider-unpacks-ai-assistants-leap-from-code-to-chores-d0a6c002.md)
 - [FTI Consulting News Bytes - 16 January 2026](technology/fti-consulting-news-bytes-16-january-2026-7380e01a.md)
 - [How AI Will Transform Hospitality Experiences in 2026](technology/how-ai-will-transform-hospitality-experiences-in-2026-527204c6.md)
 - [OpenAI inks $10B+ AI compute deal with Cerebras as infrastructure race hits utility-scale](technology/openai-inks-10b-ai-compute-deal-with-cerebras-as-infrastructure-race-hits-utilit-2cbf0cd0.md)
@@ -13,4 +14,4 @@
 - [Will these tech trends take off in 2026?](technology/will-these-tech-trends-take-off-in-2026-43a291f8.md)
 
 ---
-*Updated: 2026-01-17T12:40:11+00:00*
+*Updated: 2026-01-17T18:29:07+00:00*
