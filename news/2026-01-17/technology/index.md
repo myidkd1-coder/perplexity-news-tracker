@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-01-17
 
-**Total Articles:** 8
+**Total Articles:** 9
 
+- [FTI Consulting News Bytes - 16 January 2026](technology/fti-consulting-news-bytes-16-january-2026-7380e01a.md)
 - [How AI Will Transform Hospitality Experiences in 2026](technology/how-ai-will-transform-hospitality-experiences-in-2026-527204c6.md)
 - [OpenAI inks $10B+ AI compute deal with Cerebras as infrastructure race hits utility-scale](technology/openai-inks-10b-ai-compute-deal-with-cerebras-as-infrastructure-race-hits-utilit-2cbf0cd0.md)
 - [These will be the 11 biggest tech trends of 2026, according to CES 2026](technology/these-will-be-the-11-biggest-tech-trends-of-2026-according-to-ces-2026-b44b7ae7.md)
@@ -12,4 +13,4 @@
 - [Will these tech trends take off in 2026?](technology/will-these-tech-trends-take-off-in-2026-43a291f8.md)
 
 ---
-*Updated: 2026-01-17T06:31:26+00:00*
+*Updated: 2026-01-17T12:40:11+00:00*

@@ -11,4 +11,4 @@
 - [The 7 most important (and weirdest) discoveries of 2025](science/the-7-most-important-and-weirdest-discoveries-of-2025-b35a9d16.md)
 
 ---
-*Updated: 2026-01-17T06:32:00+00:00*
+*Updated: 2026-01-17T12:40:47+00:00*
