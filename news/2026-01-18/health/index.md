@@ -1,7 +1,8 @@
 # HEALTH News - 2026-01-18
 
-**Total Articles:** 8
+**Total Articles:** 9
 
+- [A vitamin A byproduct has been found to quietly disarm the immune system, allowing tumors to evade attack](health/a-vitamin-a-byproduct-has-been-found-to-quietly-disarm-the-immune-system-allowin-38468d10.md)
 - [Controversial CDC-Funded Hep B Study Halted](health/controversial-cdc-funded-hep-b-study-halted-b2cffca3.md)
 - [Federal SAMHSA Grants Terminated, Then Quickly Restored](health/federal-samhsa-grants-terminated-then-quickly-restored-111f6bad.md)
 - [Friday, January 16, 2026 - KFF Health News Morning Briefing](health/friday-january-16-2026-kff-health-news-morning-briefing-a38ebb4e.md)
@@ -12,4 +13,4 @@
 - [YPS Members and News Highlights-January 2026](health/yps-members-and-news-highlights-january-2026-dc2827f6.md)
 
 ---
-*Updated: 2026-01-18T12:41:06+00:00*
+*Updated: 2026-01-18T18:29:28+00:00*

@@ -1,6 +1,6 @@
 # INDIA News - 2026-01-18
 
-**Total Articles:** 12
+**Total Articles:** 13
 
 - [24 is panicking, 34 is exhausted: The fears of young India in 2026](india/24-is-panicking-34-is-exhausted-the-fears-of-young-india-in-2026-d810fdcc.md)
 - [Army Day Parade 2026: India Unveils 'Bhairav' High-Speed Combat Unit](india/army-day-parade-2026-india-unveils-bhairav-high-speed-combat-unit-3461e0ae.md)
@@ -13,7 +13,8 @@
 - [PM to visit West Bengal on 17-18 January](india/pm-to-visit-west-bengal-on-17-18-january-3caa883d.md)
 - [Republic TV LIVE: January 17, 2026 | Political | Sports | Global News](india/republic-tv-live-january-17-2026-political-sports-global-news-336ecae5.md)
 - [Top News Headlines of January 15, 2026 | Ward Housing Colaba Records Lowest Turnout](india/top-news-headlines-of-january-15-2026-ward-housing-colaba-records-lowest-turnout-f76059f1.md)
+- [Trump invites India to join proposed 'Board of Peace' for Gaza](india/trump-invites-india-to-join-proposed-board-of-peace-for-gaza-ef1e14da.md)
 - [Will dal derail deal? New irritant looms over India-US trade talks](india/will-dal-derail-deal-new-irritant-looms-over-india-us-trade-talks-63a4b7f0.md)
 
 ---
-*Updated: 2026-01-18T12:41:25+00:00*
+*Updated: 2026-01-18T18:29:39+00:00*
