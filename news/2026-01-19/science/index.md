@@ -7,4 +7,4 @@
 - [World’s Fastest Supercomputer El Capitan Inaugurated](science/world-s-fastest-supercomputer-el-capitan-inaugurated-b35a9d16.md)
 
 ---
-*Updated: 2026-01-19T06:39:33+00:00*
+*Updated: 2026-01-19T12:51:33+00:00*

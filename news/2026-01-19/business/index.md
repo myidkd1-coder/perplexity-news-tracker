@@ -8,4 +8,4 @@
 - [Trump 2.0 Tariff Tracker](business/trump-2-0-tariff-tracker-6b7ccd95.md)
 
 ---
-*Updated: 2026-01-19T06:39:18+00:00*
+*Updated: 2026-01-19T12:51:12+00:00*
