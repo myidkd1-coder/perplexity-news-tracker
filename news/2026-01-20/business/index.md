@@ -1,8 +1,10 @@
 # BUSINESS News - 2026-01-20
 
-**Total Articles:** 10
+**Total Articles:** 12
 
 - [5 Stocks to Buy in January 2026](business/5-stocks-to-buy-in-january-2026-f2179b0d.md)
+- [Bank of America CEO turns bullish on US economy, raises GDP ...](business/bank-of-america-ceo-turns-bullish-on-us-economy-raises-gdp-19873a73.md)
+- [Bloomberg Surveillance 1/20/2026](business/bloomberg-surveillance-1-20-2026-eead7bcc.md)
 - [Chief Economists' Outlook January 2026](business/chief-economists-outlook-january-2026-bc522fd8.md)
 - [Global Economic Prospects January 2026 Press Release](business/global-economic-prospects-january-2026-press-release-21300f4e.md)
 - [Global Economy Shakes Off Tariff Shock Amid Tech-Driven Boom](business/global-economy-shakes-off-tariff-shock-amid-tech-driven-boom-ce79d652.md)
@@ -14,4 +16,4 @@
 - [World Economic Outlook Update, January 2026: Global Economy](business/world-economic-outlook-update-january-2026-global-economy-bb093395.md)
 
 ---
-*Updated: 2026-01-20T12:51:46+00:00*
+*Updated: 2026-01-20T18:37:48+00:00*
