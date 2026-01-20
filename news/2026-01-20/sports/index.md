@@ -1,7 +1,9 @@
 # SPORTS News - 2026-01-20
 
-**Total Articles:** 9
+**Total Articles:** 11
 
+- [Ally Wollaston Wins Stage 2 of Women's Tour Down Under](sports/ally-wollaston-wins-stage-2-of-women-s-tour-down-under-12829b6a.md)
+- [Besiktas Edges Kayserispor 1-0 in Super Lig Thriller](sports/besiktas-edges-kayserispor-1-0-in-super-lig-thriller-2475383f.md)
 - [CELTICS at PISTONS | FULL GAME HIGHLIGHTS | January 19, 2026](sports/celtics-at-pistons-full-game-highlights-january-19-2026-de6b3264.md)
 - [CLIPPERS at WIZARDS | FULL GAME HIGHLIGHTS](sports/clippers-at-wizards-full-game-highlights-062387cf.md)
 - [HEAT at WARRIORS | FULL GAME HIGHLIGHTS | January 19, 2026](sports/heat-at-warriors-full-game-highlights-january-19-2026-27c9acc7.md)
@@ -13,4 +15,4 @@
 - [Wembanyama scores 33 points in 123-110 win over Jazz after being named All-Star starter](sports/wembanyama-scores-33-points-in-123-110-win-over-jazz-after-being-named-all-star-377a70a3.md)
 
 ---
-*Updated: 2026-01-20T06:37:51+00:00*
+*Updated: 2026-01-20T12:51:55+00:00*
