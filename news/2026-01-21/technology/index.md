@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-01-21
 
-**Total Articles:** 9
+**Total Articles:** 10
 
+- [DeepSeek to launch new AI model focused on coding in February](technology/deepseek-to-launch-new-ai-model-focused-on-coding-in-february-eb91f085.md)
 - [Deutsche Bank's big warning for 2026: AI is NOT working for CEOs, its benefits are visible only to ...](technology/deutsche-bank-s-big-warning-for-2026-ai-is-not-working-for-ceos-its-benefits-are-68497105.md)
 - [Elon Musk says Tesla's restarted Dojo3 will be for ‘space-based AI compute'](technology/elon-musk-says-tesla-s-restarted-dojo3-will-be-for-space-based-ai-compute-35be0f65.md)
 - [Google Gemini Security Flaw Allows Data Theft via Calendar Invites](technology/google-gemini-security-flaw-allows-data-theft-via-calendar-invites-c477423f.md)
@@ -13,4 +14,4 @@
 - [Samsung Introduces AI Privacy Display for Galaxy S26](technology/samsung-introduces-ai-privacy-display-for-galaxy-s26-5fe72f6e.md)
 
 ---
-*Updated: 2026-01-21T12:51:39+00:00*
+*Updated: 2026-01-21T18:42:25+00:00*

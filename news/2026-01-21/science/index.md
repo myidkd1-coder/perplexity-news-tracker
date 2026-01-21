@@ -9,4 +9,4 @@
 - [Vera C. Rubin Observatory to Create Most Detailed Dynamic Map of Night Sky](science/vera-c-rubin-observatory-to-create-most-detailed-dynamic-map-of-night-sky-29f58bb5.md)
 
 ---
-*Updated: 2026-01-21T12:52:11+00:00*
+*Updated: 2026-01-21T18:42:59+00:00*
