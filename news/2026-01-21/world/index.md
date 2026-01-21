@@ -7,4 +7,4 @@
 - [Trump Doubles Down on Plans to Acquire Greenland Amid Global Tensions](world/trump-doubles-down-on-plans-to-acquire-greenland-amid-global-tensions-0194dd48.md)
 
 ---
-*Updated: 2026-01-21T01:50:52+00:00*
+*Updated: 2026-01-21T06:38:44+00:00*
