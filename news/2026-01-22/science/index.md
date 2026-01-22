@@ -9,4 +9,4 @@
 - [Renewables Surpass Coal as Electricity Source Worldwide](science/renewables-surpass-coal-as-electricity-source-worldwide-821ace03.md)
 
 ---
-*Updated: 2026-01-22T12:51:56+00:00*
+*Updated: 2026-01-22T18:34:02+00:00*

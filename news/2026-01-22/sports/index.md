@@ -16,4 +16,4 @@
 - [Tottenham Hotspur v. West Ham United | 1/17/2026 | NBC Sports](sports/tottenham-hotspur-v-west-ham-united-1-17-2026-nbc-sports-09915172.md)
 
 ---
-*Updated: 2026-01-22T12:51:37+00:00*
+*Updated: 2026-01-22T18:33:47+00:00*
