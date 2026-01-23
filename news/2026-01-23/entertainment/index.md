@@ -11,4 +11,4 @@
 - [Top Entertainment Stories | Week of January 5, 2026](entertainment/top-entertainment-stories-week-of-january-5-2026-43143db6.md)
 
 ---
-*Updated: 2026-01-23T12:49:13+00:00*
+*Updated: 2026-01-23T18:35:11+00:00*
