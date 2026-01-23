@@ -9,4 +9,4 @@
 - [Vera C. Rubin Observatory: Most Detailed Dynamic Map of the Night Sky](science/vera-c-rubin-observatory-most-detailed-dynamic-map-of-the-night-sky-29f58bb5.md)
 
 ---
-*Updated: 2026-01-23T06:36:37+00:00*
+*Updated: 2026-01-23T12:49:20+00:00*

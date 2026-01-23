@@ -7,4 +7,4 @@
 - [Medicaid Tries New Approach With Sickle Cell: Companies Get Paid Only if Costly Gene Therapies Work](health/medicaid-tries-new-approach-with-sickle-cell-companies-get-paid-only-if-costly-g-347881d6.md)
 
 ---
-*Updated: 2026-01-23T06:36:42+00:00*
+*Updated: 2026-01-23T12:49:26+00:00*
