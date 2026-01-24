@@ -1,6 +1,6 @@
 # WORLD News - 2026-01-24
 
-**Total Articles:** 7
+**Total Articles:** 8
 
 - [21 UN Peacekeepers and Civilians Killed in Malicious Attacks in 2025](world/21-un-peacekeepers-and-civilians-killed-in-malicious-attacks-in-2025-db184f4a.md)
 - [Death toll in Iran's protest crackdown reaches 5,002, activists say](world/death-toll-in-iran-s-protest-crackdown-reaches-5-002-activists-say-93e8dada.md)
@@ -9,6 +9,7 @@
 - [Trump Backs Off Greenland Threats, Announces Framework Deal with NATO Leaders](world/trump-backs-off-greenland-threats-announces-framework-deal-with-nato-leaders-89a5af5d.md)
 - [Trump Launches 'Board of Peace' in Davos with Putin, Xi, Netanyahu; Rejects UN Rival](world/trump-launches-board-of-peace-in-davos-with-putin-xi-netanyahu-rejects-un-rival-f4cc4c36.md)
 - [Zelensky Slams Europe at Davos, Pushes for Stronger Action Against Russia](world/zelensky-slams-europe-at-davos-pushes-for-stronger-action-against-russia-aa7aee25.md)
+- [Zelenskyy Slams Europe as 'Lost Continent' in Davos, Meets Trump on Ukraine Peace](world/zelenskyy-slams-europe-as-lost-continent-in-davos-meets-trump-on-ukraine-peace-b5e8e99a.md)
 
 ---
-*Updated: 2026-01-24T12:42:07+00:00*
+*Updated: 2026-01-24T18:31:24+00:00*

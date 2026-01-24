@@ -1,6 +1,6 @@
 # INDIA News - 2026-01-24
 
-**Total Articles:** 11
+**Total Articles:** 12
 
 - [Air India Cancels New York, Newark Flights Ahead Of US Winter Storm](india/air-india-cancels-new-york-newark-flights-ahead-of-us-winter-storm-b9f566f4.md)
 - [Budget 2026 Expectations Live Updates: Will FM Sitharaman's ...](india/budget-2026-expectations-live-updates-will-fm-sitharaman-s-ae4b2638.md)
@@ -12,7 +12,8 @@
 - [India, UAE, and Saudi Arabia set to lead global aviation growth](india/india-uae-and-saudi-arabia-set-to-lead-global-aviation-growth-00f7ccb2.md)
 - [Latest news from India: 23 January 2026](india/latest-news-from-india-23-january-2026-0775a675.md)
 - [PM to visit Kerala on 23rd January](india/pm-to-visit-kerala-on-23rd-january-2edfde3c.md)
+- [Under Rozgar Mela, PM to distribute more than 61,000 appointment letters to the newly appointed youth in Government on 24th January](india/under-rozgar-mela-pm-to-distribute-more-than-61-000-appointment-letters-to-the-n-3f928b27.md)
 - [Union Budget 2026 Expectations Live: What India Inc expects from ...](india/union-budget-2026-expectations-live-what-india-inc-expects-from-3a072ab0.md)
 
 ---
-*Updated: 2026-01-24T12:42:20+00:00*
+*Updated: 2026-01-24T18:31:31+00:00*
