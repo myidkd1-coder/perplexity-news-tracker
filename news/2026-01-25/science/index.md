@@ -11,4 +11,4 @@
 - [Vera C. Rubin Observatory to Revolutionize Night Sky Mapping](science/vera-c-rubin-observatory-to-revolutionize-night-sky-mapping-29f58bb5.md)
 
 ---
-*Updated: 2026-01-25T12:42:58+00:00*
+*Updated: 2026-01-25T18:31:12+00:00*

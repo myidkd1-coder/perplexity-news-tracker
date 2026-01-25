@@ -11,4 +11,4 @@
 - [Trump Launches 'Board of Peace' at Davos with Zelenskyy, Putin Envoy; Tensions Rise in Gaza](world/trump-launches-board-of-peace-at-davos-with-zelenskyy-putin-envoy-tensions-rise-f4cc4c36.md)
 
 ---
-*Updated: 2026-01-25T12:43:15+00:00*
+*Updated: 2026-01-25T18:31:23+00:00*
