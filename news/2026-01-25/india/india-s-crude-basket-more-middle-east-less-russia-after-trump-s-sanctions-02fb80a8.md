@@ -1,0 +1,28 @@
+# India's crude basket: More Middle East, less Russia; after Trump's sanctions
+
+**Category:** India
+**Source:** [https://timesofindia.indiatimes.com/business/india-business/indias-crude-basket-more-middle-east-less-russia-after-trumps-sanctions-whats-next-for-moscows-oil-shipments/articleshow/127457093.cms](https://timesofindia.indiatimes.com/business/india-business/indias-crude-basket-more-middle-east-less-russia-after-trumps-sanctions-whats-next-for-moscows-oil-shipments/articleshow/127457093.cms)
+**Publisher:** Times of India
+**Published:** January 25, 2026
+**Scraped (UTC):** 2026-01-25T12:43:22+00:00
+
+![Article Image](https://static.toiimg.com/thumb/msid-127460284,width-1280,height-720,imgsize-419900,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg)
+
+## Summary
+India reduces Russian crude imports to 1.1 million bpd in early January 2026 from prior highs, increasing Middle East supplies due to compliance risks. Russian oil expected to average 1.2 million bpd for the month amid short-term adjustments.
+
+## Full Article
+'Oil Geopolitics No Longer Episodic, India Faces Era Of Permanent Energy Volatility,' Warns Minister
+
+India leaning towards Middle East
+
+Russian crude's rise and fall in India's energy pipeline
+
+What's next for Russian oil shipments to India?
+
+India has transformed its crude sourcing strategy, reducing Russian crude barrels while increasing its Middle Eastern shipments. Though Moscow still has a share in New Delhi's oil inflows, the volumes are down due to compliance risks.Data from analytics firm Kpler shows that in the first three weeks of January 2026, the country imported about 1.1 million barrels per day (bpd) of Russian crude. This was lower than the average of 1.21 million bpd in December and far below the levels of more than 2 million bpd seen in mid-2025.“India's crude buying in January 2026 shows a clear shift toward lower-risk and more reliable supply, with Middle East barrels rising while Russian crude flows remain present but more selective and compliance-driven,” Sumit Ritolia, lead research analyst, refining & modeling at Kpler, told PTI.With nearly 90% of its crude oil sourced through imports, India is once again relying more on its traditional Middle Eastern suppliers.Now, Iraq is supplying almost the same volumes as Russia, up from an average of 9,04,000 bpd in December 2025. Saudi Arabia’s exports to India have also risen to 9,24,000 bpd this month, compared with 7,10,000 bpd in December and a low of 5,39,000 bpd in April 2025, according to Kpler.“India has increased crude imports from the Middle East over the last 2 months, while Russian volumes have declined as sanctions and compliance pressure have intensified,” the analyst said. “This reflects a mix of changing economics and rising execution complexity around Russian crude, including shipping, insurance, payment pathways, and compliance screening.”Refiners are ramping up purchases from the Middle East to ensure smoother deliveries and fewer operational issues. This helps maintain stability at refineries by reducing supply and logistics challenges.Back in 2022, Russia emerged as India’s top crude supplier, after Indian refiners began buying large volumes of discounted Russian oil following Moscow’s invasion of Ukraine. Over the period, Russian crude imports went from less than 1% of India’s total imports to nearly 40% at their peak.However, recent US sanctions on Russian suppliers slowed buying as compliance risks have increased. After American sanctions on Rosneft, Lukoil and their majority-owned subsidiaries came into force on November 21, refiners such as Reliance Industries, Hindustan Petroleum Corporation Ltd (HPCL), HPCL-Mittal Energy and Mangalore Refinery and Petrochemicals (MRPL) temporarily stopped importing Russian crude.Despite the slowdown, Russian crude is expected to remain part of India’s import mix. Ritolia said that the decline reflects short-term compliance issues rather than a complete shift away from Russian oil.“India will likely keep buying of Russian crude in early 2026, but at a slightly lower level than the record highs seen in 2023-2025. The pullback looks more like a short-term disruption from compliance issues rather than India moving away from Russia completely. It's just a near term realignment, nothing else in my view. Russian crude is economical and remains a driver for refinery margins,” he said.According to Ritolia, India’s Russian crude imports are expected to average around 1.2 million bpd in January 2026, with volumes for the January–March quarter projected at 1.3–1.5 million bpd. Meanwhile, Rosneft-backed Nayara Energy continues to rely heavily on Russian oil after EU sanctions limited other supply options.Indian Oil Corporation (IOC) and Bharat Petroleum Corporation Ltd (BPCL) are buying Russian oil from non-sanctioned entities, and there are signs that Reliance may also resume purchases from such suppliers.Furthermore, even though the energy sources have diversified, refinery economics still is a major factor in decision making.Russian crude continues to attract buyers due to its pricing. Urals is trading at a wider discount than earlier in the fourth quarter, at around $5–7 per barrel below Oman/Dubai grades on a delivered basis to India, compared with $2–4 per barrel before late November. This makes Urals about $4–5 per barrel cheaper than before, helping support refinery margins where compliance risks can be managed, Ritolia said.
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*

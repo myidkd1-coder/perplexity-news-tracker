@@ -1,12 +1,14 @@
 # WORLD News - 2026-01-25
 
-**Total Articles:** 5
+**Total Articles:** 7
 
 - [Denmark PM Mette Frederiksen visits Greenland for 'show of support' amid Trump threats](world/denmark-pm-mette-frederiksen-visits-greenland-for-show-of-support-amid-trump-thr-25892615.md)
 - [Iran Crackdown on Protests Continues with Over 3,900 Verified Deaths Amid Internet Blackout](world/iran-crackdown-on-protests-continues-with-over-3-900-verified-deaths-amid-intern-e12796ba.md)
 - [Systemic Infrastructure Attacks Push Ukraine Into Its Deepest Humanitarian Emergency Yet](world/systemic-infrastructure-attacks-push-ukraine-into-its-deepest-humanitarian-emerg-db184f4a.md)
+- [Thousands rally against ICE raids in Minneapolis amid winter storm](world/thousands-rally-against-ice-raids-in-minneapolis-amid-winter-storm-1dcef7aa.md)
+- [Trump announces framework deal for Greenland and Arctic region at Davos](world/trump-announces-framework-deal-for-greenland-and-arctic-region-at-davos-222434e3.md)
 - [Trump Backs Off Greenland Threats, Announces Framework Deal with NATO Leaders](world/trump-backs-off-greenland-threats-announces-framework-deal-with-nato-leaders-89a5af5d.md)
 - [Trump Launches 'Board of Peace' at Davos with Zelenskyy, Putin Envoy; Tensions Rise in Gaza](world/trump-launches-board-of-peace-at-davos-with-zelenskyy-putin-envoy-tensions-rise-f4cc4c36.md)
 
 ---
-*Updated: 2026-01-25T06:33:39+00:00*
+*Updated: 2026-01-25T12:43:15+00:00*

@@ -8,4 +8,4 @@
 - [‘Sinners’ makes history, setting Oscars nomination record](entertainment/sinners-makes-history-setting-oscars-nomination-record-dbaaebbd.md)
 
 ---
-*Updated: 2026-01-25T06:33:22+00:00*
+*Updated: 2026-01-25T12:42:50+00:00*
