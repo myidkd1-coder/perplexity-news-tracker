@@ -1,0 +1,50 @@
+# AWS Launches Amazon EC2 G7e Instances with NVIDIA Blackwell GPUs
+
+**Category:** Technology
+**Source:** [https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-g7e-instances-with-nvidia-blackwell-gpus-january-26-2026/)
+**Publisher:** AWS
+**Published:** January 26, 2026
+**Scraped (UTC):** 2026-01-26T18:36:36+00:00
+
+![Article Image](https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2023/08/13/AWS-WIR-default.png)
+
+## Summary
+AWS introduced new EC2 G7e instances powered by NVIDIA’s Blackwell architecture for GPU-intensive workloads like generative AI inference, spatial computing, and scientific computing. Now available in US East (N. Virginia) and US East (Ohio).
+
+## Full Article
+Hey! It’s my first post for 2026, and I’m writing to you while watching our driveway getting dug out. I hope wherever you are you are safe and warm and your data is still flowing!
+
+This week brings exciting news for customers running GPU-intensive workloads, with the launch of our newest graphics and AI inference instances powered by NVIDIA’s latest Blackwell architecture. Along with several service enhancements and regional expansions, this week’s updates continue to expand the capabilities available to AWS customers.
+
+Last week’s launches
+
+I thought these projects, blog posts, and news items were also interesting:
+
+Amazon EC2 G7e instances are now generally available — The new G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs deliver up to 2.3 times better inference performance compared to G6e instances. With two times the GPU memory and support for up to 8 GPUs providing 768 GB of total GPU memory, these instances enable running medium-sized models of up to 70B parameters with FP8 precision on a single GPU. G7e instances are ideal for generative AI inference, spatial computing, and scientific computing workloads. Available now in US East (N. Virginia) and US East (Ohio).
+
+Amazon Corretto January 2026 Quarterly Updates — AWS released quarterly security and critical updates for Amazon Corretto Long-Term Supported (LTS) versions of OpenJDK. Corretto 25.0.2, 21.0.10, 17.0.18, 11.0.30, and 8u482 are now available, ensuring Java developers have access to the latest security patches and performance improvements.
+
+Amazon ECR now supports cross-repository layer sharing — Amazon Elastic Container Registry now enables you to share common image layers across repositories through blob mounting. This feature helps you achieve faster image pushes by reusing existing layers and reduce storage costs by storing common layers once and referencing them across repositories.
+
+Amazon CloudWatch Database Insights expands to four additional regions — CloudWatch Database Insights on-demand analysis is now available in Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central). This feature uses machine learning to help identify performance bottlenecks and provides specific remediation advice.
+
+Amazon Connect adds conditional logic and real-time updates to Step-by-Step Guides — Amazon Connect Step-by-Step Guides now enables managers to build dynamic guided experiences that adapt based on user interactions. Managers can configure conditional user interfaces with dropdown menus that show or hide fields, change default values, or adjust required fields based on prior inputs. The feature also supports automatic data refresh from Connect resources, ensuring agents always work with current information.
+
+Upcoming AWS events
+
+Keep a look out and be sure to sign up for these upcoming events:
+
+Best of AWS re:Invent (January 28-29, Virtual) — Join us for this free virtual event bringing you the most impactful announcements and top sessions from AWS re:Invent. AWS VP and Chief Evangelist Jeff Barr will share highlights during the opening session. Sessions run January 28 at 9:00 AM PT for AMER, and January 29 at 9:00 AM SGT for APJ and 9:00 AM CET for EMEA. Register to access curated technical learning, strategic insights from AWS leaders, and live Q&A with AWS experts.
+
+AWS Community Day Ahmedabad (February 28, 2026, Ahmedabad, India) — The 11th edition of this community-driven AWS conference brings together cloud professionals, developers, architects, and students for expert-led technical sessions, real-world use cases, tech expo booths with live demos, and networking opportunities. This free event includes breakfast, lunch, and exclusive swag.
+
+Join the AWS Builder Center to learn, build, and connect with builders in the AWS community. Browse for upcoming in-person and virtual developer-focused events in your area.
+
+That’s all for this week. Check back next Monday for another Weekly Roundup!
+
+~ micah
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*

@@ -1,7 +1,9 @@
 # WORLD News - 2026-01-26
 
-**Total Articles:** 7
+**Total Articles:** 9
 
+- [Nationwide Anti-ICE Protests Erupt After Fatal Shooting of US Nurse](world/nationwide-anti-ice-protests-erupt-after-fatal-shooting-of-us-nurse-083de251.md)
+- [Secretary-General's Message on the International Day of Clean Energy](world/secretary-general-s-message-on-the-international-day-of-clean-energy-ebed042a.md)
 - [Tens of Thousands Protest ICE Raids in Minneapolis; Businesses and Schools Close](world/tens-of-thousands-protest-ice-raids-in-minneapolis-businesses-and-schools-close-f4cc4c36.md)
 - [Tens of Thousands Protest ICE Raids in Minneapolis; Pentagon Prepares 1,500 Soldiers](world/tens-of-thousands-protest-ice-raids-in-minneapolis-pentagon-prepares-1-500-soldi-e12796ba.md)
 - [Thousands Rally in Minnesota Against ICE Raids and Federal Shootings](world/thousands-rally-in-minnesota-against-ice-raids-and-federal-shootings-1cff7029.md)
@@ -11,4 +13,4 @@
 - [WHO Warns US Withdrawal Risks Global Safety in Detailed Rebuttal](world/who-warns-us-withdrawal-risks-global-safety-in-detailed-rebuttal-db184f4a.md)
 
 ---
-*Updated: 2026-01-26T12:51:35+00:00*
+*Updated: 2026-01-26T18:37:21+00:00*

@@ -1,8 +1,9 @@
 # HEALTH News - 2026-01-26
 
-**Total Articles:** 11
+**Total Articles:** 12
 
 - [Better Health Care Newsletter - January 2026](health/better-health-care-newsletter-january-2026-91d7cc49.md)
+- [Extend the federal budget window to boost preventive health](health/extend-the-federal-budget-window-to-boost-preventive-health-cc1b045a.md)
 - [FDA in Flux — January 2026 Newsletter](health/fda-in-flux-january-2026-newsletter-e5f59d16.md)
 - [FDA releases new guidance for digital health technologies](health/fda-releases-new-guidance-for-digital-health-technologies-111f6bad.md)
 - [First Edition: Thursday, Jan. 22, 2026](health/first-edition-thursday-jan-22-2026-a0ec9691.md)
@@ -15,4 +16,4 @@
 - [Thursday, January 22, 2026 - KFF Health News Morning Briefing](health/thursday-january-22-2026-kff-health-news-morning-briefing-16d44919.md)
 
 ---
-*Updated: 2026-01-26T12:51:29+00:00*
+*Updated: 2026-01-26T18:37:15+00:00*
