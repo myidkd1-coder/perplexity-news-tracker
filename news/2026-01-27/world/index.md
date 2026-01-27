@@ -6,4 +6,4 @@
 - [Uganda: Democracy in Name Only](world/uganda-democracy-in-name-only-db184f4a.md)
 
 ---
-*Updated: 2026-01-27T01:53:50+00:00*
+*Updated: 2026-01-27T06:36:56+00:00*
