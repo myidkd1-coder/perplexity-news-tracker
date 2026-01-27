@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-01-27
 
-**Total Articles:** 7
+**Total Articles:** 8
 
+- [70% of Global High-End Memory Supply in 2026 Going to AI Data Centers](technology/70-of-global-high-end-memory-supply-in-2026-going-to-ai-data-centers-6599e859.md)
 - [Apple Introduces New AirTag with Expanded Range and Improved Findability](technology/apple-introduces-new-airtag-with-expanded-range-and-improved-findability-ab47ece0.md)
 - [IonQ to Buy Chipmaker SkyWater Technology in $1.8B Cash-and-Stock Deal](technology/ionq-to-buy-chipmaker-skywater-technology-in-1-8b-cash-and-stock-deal-3fc16565.md)
 - [Microsoft Unveils Latest AI Chip to Reduce Reliance on Nvidia](technology/microsoft-unveils-latest-ai-chip-to-reduce-reliance-on-nvidia-0e824b58.md)
@@ -11,4 +12,4 @@
 - [TSMC Begins Mass Production of 2nm Chips](technology/tsmc-begins-mass-production-of-2nm-chips-c7c7e537.md)
 
 ---
-*Updated: 2026-01-27T12:51:49+00:00*
+*Updated: 2026-01-27T18:39:59+00:00*
