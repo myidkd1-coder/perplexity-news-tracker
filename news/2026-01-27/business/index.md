@@ -9,4 +9,4 @@
 - [US Stocks Rise as Dollar Weakens and Precious Metals Gain](business/us-stocks-rise-as-dollar-weakens-and-precious-metals-gain-23923048.md)
 
 ---
-*Updated: 2026-01-27T06:36:19+00:00*
+*Updated: 2026-01-27T12:51:54+00:00*

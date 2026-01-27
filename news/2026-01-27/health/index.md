@@ -10,4 +10,4 @@
 - [Why the Health Tech Investment Act Matters: Peter Weems Breaks Down What This Means for Patients](health/why-the-health-tech-investment-act-matters-peter-weems-breaks-down-what-this-mea-499c3863.md)
 
 ---
-*Updated: 2026-01-27T06:36:53+00:00*
+*Updated: 2026-01-27T12:52:12+00:00*
