@@ -10,4 +10,4 @@
 - [Top January 2026 releases on Hulu: 'The Beauty', 'Tell Me Lies Season 3', and more](entertainment/top-january-2026-releases-on-hulu-the-beauty-tell-me-lies-season-3-and-more-3b1fa137.md)
 
 ---
-*Updated: 2026-01-28T06:37:30+00:00*
+*Updated: 2026-01-28T12:52:15+00:00*
