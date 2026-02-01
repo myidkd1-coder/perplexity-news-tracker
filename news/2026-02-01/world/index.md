@@ -8,4 +8,4 @@
 - [Trucks line up at Ecuador-Colombia border ahead of new tariffs](world/trucks-line-up-at-ecuador-colombia-border-ahead-of-new-tariffs-577fabc7.md)
 
 ---
-*Updated: 2026-02-01T06:50:46+00:00*
+*Updated: 2026-02-01T12:51:38+00:00*
