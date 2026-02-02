@@ -1,6 +1,6 @@
 # BUSINESS News - 2026-02-02
 
-**Total Articles:** 11
+**Total Articles:** 12
 
 - [2026 Outlooks: Market and Economic Forecasts](business/2026-outlooks-market-and-economic-forecasts-adb4fe89.md)
 - [7 Stocks I'm Buying HEAVY in February 2026](business/7-stocks-i-m-buying-heavy-in-february-2026-1861e8d7.md)
@@ -12,7 +12,8 @@
 - [Record Crashes in Gold, Silver Rattle Markets | The Asia Trade 2/2](business/record-crashes-in-gold-silver-rattle-markets-the-asia-trade-2-2-5bb05d93.md)
 - [Small-business grants you can apply for in February 2026](business/small-business-grants-you-can-apply-for-in-february-2026-6b41bdf0.md)
 - [Undiscovered Gems in the US Market for February 2026](business/undiscovered-gems-in-the-us-market-for-february-2026-0a6787eb.md)
+- [Wall Street Rattled by Trump's Pick of Kevin Warsh to Lead Federal Reserve](business/wall-street-rattled-by-trump-s-pick-of-kevin-warsh-to-lead-federal-reserve-361e00f5.md)
 - [Weekly Market Update February 2 2026](business/weekly-market-update-february-2-2026-7ebcfc42.md)
 
 ---
-*Updated: 2026-02-02T13:00:31+00:00*
+*Updated: 2026-02-02T18:43:34+00:00*

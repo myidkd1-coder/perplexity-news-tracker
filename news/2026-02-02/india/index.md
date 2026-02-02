@@ -1,12 +1,15 @@
 # INDIA News - 2026-02-02
 
-**Total Articles:** 12
+**Total Articles:** 15
 
 - [Budget 2026-27 LIVE: Operation Sindoor: Major hike in defence allocation](india/budget-2026-27-live-operation-sindoor-major-hike-in-defence-allocation-49cb556b.md)
 - [Budget 2026 Highlights: STT shock, high-speed rail and big tourism push. Check all important announcements](india/budget-2026-highlights-stt-shock-high-speed-rail-and-big-tourism-push-check-all-858eb932.md)
 - [Budget blind to India's real crises: Rahul](india/budget-blind-to-india-s-real-crises-rahul-83bb51a0.md)
 - [FAST, not furious: Amnesty on hidden foreign assets in Budget 2026](india/fast-not-furious-amnesty-on-hidden-foreign-assets-in-budget-2026-2fe2cd88.md)
+- [India's Defence Budget Soars | Indian Markets Close In The Red](india/india-s-defence-budget-soars-indian-markets-close-in-the-red-d0e6196a.md)
+- [India-US Trade Deal Live News Updates: India to reduce trade barriers, buy more US oil; US to lower reciprocal tariffs to 18%, says Trump](india/india-us-trade-deal-live-news-updates-india-to-reduce-trade-barriers-buy-more-us-aac873f5.md)
 - [Is This India's First Sunday Budget? All About The February 1 Tradition](india/is-this-india-s-first-sunday-budget-all-about-the-february-1-tradition-5a46a22b.md)
+- [LIVE | India Budget 2026 Explained: The 10 Big Takeaways](india/live-india-budget-2026-explained-the-10-big-takeaways-5a13faf9.md)
 - [Missed Budget 2026 speech? Watch 10 big highlights that impact common man's life](india/missed-budget-2026-speech-watch-10-big-highlights-that-impact-common-man-s-life-a49133cf.md)
 - [Pakistan to boycott February 15 T20 World Cup match against India](india/pakistan-to-boycott-february-15-t20-world-cup-match-against-india-c0fa9415.md)
 - [Today's News LIVE! Feb 2 | Jaishankar Embarks on 3-Day Visit to US, Rahul Gandhi Slams Govt, Kerala Protests](india/today-s-news-live-feb-2-jaishankar-embarks-on-3-day-visit-to-us-rahul-gandhi-sla-e0da9502.md)
@@ -16,4 +19,4 @@
 - [World Bank Supports India's Ambitious Skills Program to Better Prepare Youth for Job Market](india/world-bank-supports-india-s-ambitious-skills-program-to-better-prepare-youth-for-250b2727.md)
 
 ---
-*Updated: 2026-02-02T13:01:16+00:00*
+*Updated: 2026-02-02T18:44:26+00:00*
