@@ -8,4 +8,4 @@
 - [The 'grey and old' Linux kernel community finally has a succession plan for when Linus Torvalds retires - so who will be the new 'Organizer'?](technology/the-grey-and-old-linux-kernel-community-finally-has-a-succession-plan-for-when-l-c477423f.md)
 
 ---
-*Updated: 2026-02-02T07:02:52+00:00*
+*Updated: 2026-02-02T13:00:20+00:00*
