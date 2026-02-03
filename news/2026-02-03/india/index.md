@@ -13,4 +13,4 @@
 - [Union Budget 2026 Analysis - The Indian Express](india/union-budget-2026-analysis-the-indian-express-90390ad6.md)
 
 ---
-*Updated: 2026-02-03T13:02:04+00:00*
+*Updated: 2026-02-03T18:58:10+00:00*

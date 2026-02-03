@@ -1,8 +1,10 @@
 # TECHNOLOGY News - 2026-02-03
 
-**Total Articles:** 11
+**Total Articles:** 13
 
 - [100 Megapacks Delivered to Tesla's Cortex 2 AI Datacenter at Giga Texas](technology/100-megapacks-delivered-to-tesla-s-cortex-2-ai-datacenter-at-giga-texas-e79ddf9c.md)
+- [3 February 2026 latest technology updates in computer science](technology/3-february-2026-latest-technology-updates-in-computer-science-ef7ea326.md)
+- [Amorphous passivation strategy creates efficient, durable and flexible perovskite solar cells](technology/amorphous-passivation-strategy-creates-efficient-durable-and-flexible-perovskite-c1da70f0.md)
 - [Artemis II Wet Dress Rehearsal: Tanking Operations Progressing](technology/artemis-ii-wet-dress-rehearsal-tanking-operations-progressing-a97c8ef0.md)
 - [Digital Transformation News: AI, Cybersecurity & Data Trends for February 2, 2026](technology/digital-transformation-news-ai-cybersecurity-data-trends-for-february-2-2026-72a93830.md)
 - [Getac and Miltec Rugged Computing to Showcase AI-Capable Rugged Solutions and Defense Technology at World Defense Show 2026](technology/getac-and-miltec-rugged-computing-to-showcase-ai-capable-rugged-solutions-and-de-72e01cd7.md)
@@ -15,4 +17,4 @@
 - [What's New - February 2026 | Sanity](technology/what-s-new-february-2026-sanity-5012d026.md)
 
 ---
-*Updated: 2026-02-03T13:01:10+00:00*
+*Updated: 2026-02-03T18:57:12+00:00*
