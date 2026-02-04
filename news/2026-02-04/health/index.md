@@ -10,4 +10,4 @@
 - [WHO launches 2026 appeal to help millions of people in health emergencies and crisis settings](health/who-launches-2026-appeal-to-help-millions-of-people-in-health-emergencies-and-cr-5c6a4d29.md)
 
 ---
-*Updated: 2026-02-04T06:54:08+00:00*
+*Updated: 2026-02-04T13:00:39+00:00*
