@@ -8,4 +8,4 @@
 - [US Shoots Down Iranian Drone Approaching USS Abraham Lincoln](world/us-shoots-down-iranian-drone-approaching-uss-abraham-lincoln-b18a65b3.md)
 
 ---
-*Updated: 2026-02-04T13:00:44+00:00*
+*Updated: 2026-02-04T18:53:21+00:00*
