@@ -1,10 +1,11 @@
 # TECHNOLOGY News - 2026-02-05
 
-**Total Articles:** 3
+**Total Articles:** 4
 
+- [AI 'moving at the speed of light' warns Guterres, unveiling recommendations for UN expert panel](technology/ai-moving-at-the-speed-of-light-warns-guterres-unveiling-recommendations-for-un-86a4122c.md)
 - [Intel makes a fresh AI chip push with plans for data-center GPUs to take on Nvidia](technology/intel-makes-a-fresh-ai-chip-push-with-plans-for-data-center-gpus-to-take-on-nvid-7ea1039b.md)
 - [New AI system fixes 3D printing defects in real time](technology/new-ai-system-fixes-3d-printing-defects-in-real-time-c1da70f0.md)
 - [Nvidia Nearing $20 Billion Investment in OpenAI](technology/nvidia-nearing-20-billion-investment-in-openai-420c3ff1.md)
 
 ---
-*Updated: 2026-02-05T02:05:12+00:00*
+*Updated: 2026-02-05T06:59:55+00:00*
