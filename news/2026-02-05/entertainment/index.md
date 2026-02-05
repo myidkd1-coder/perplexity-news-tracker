@@ -1,6 +1,6 @@
 # ENTERTAINMENT News - 2026-02-05
 
-**Total Articles:** 10
+**Total Articles:** 11
 
 - [10 Most Anticipated New TV Shows Of February 2026](entertainment/10-most-anticipated-new-tv-shows-of-february-2026-1f7d57e3.md)
 - [5 Most Anticipated TV Releases Of February 2026](entertainment/5-most-anticipated-tv-releases-of-february-2026-5ba565fc.md)
@@ -12,6 +12,7 @@
 - [Paradise Season 2 Premieres February 23 on Hulu](entertainment/paradise-season-2-premieres-february-23-on-hulu-3f45832c.md)
 - [The Best Apple TV Shows + Movies To Stream In February 2026](entertainment/the-best-apple-tv-shows-movies-to-stream-in-february-2026-896bafa2.md)
 - [The year ahead in entertainment: What to look forward to in 2026](entertainment/the-year-ahead-in-entertainment-what-to-look-forward-to-in-2026-48a6fca0.md)
+- [The year ahead in entertainment: What to look forward to in 2026](entertainment/the-year-ahead-in-entertainment-what-to-look-forward-to-in-2026-95b11896.md)
 
 ---
-*Updated: 2026-02-05T13:03:26+00:00*
+*Updated: 2026-02-05T18:48:51+00:00*

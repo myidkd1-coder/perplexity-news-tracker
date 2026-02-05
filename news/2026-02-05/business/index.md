@@ -1,10 +1,11 @@
 # BUSINESS News - 2026-02-05
 
-**Total Articles:** 11
+**Total Articles:** 12
 
 - [AI Fears Rattle Markets | Open Interest 2/4/2026](business/ai-fears-rattle-markets-open-interest-2-4-2026-cfbf5dff.md)
 - [Bloomberg Surveillance 2/4/2026](business/bloomberg-surveillance-2-4-2026-7b0db980.md)
 - [Economic Update: Week of February 2, 2026](business/economic-update-week-of-february-2-2026-5df6aa7e.md)
+- [February Market Commentary | TCG, a HUB International company](business/february-market-commentary-tcg-a-hub-international-company-017f6a5d.md)
 - [Market Update: February 2026](business/market-update-february-2026-270fe946.md)
 - [Monthly Market Commentary: February 2026](business/monthly-market-commentary-february-2026-e13173b8.md)
 - [Nasdaq Sinks to Year Low as Software Stocks Weigh](business/nasdaq-sinks-to-year-low-as-software-stocks-weigh-b7e74c07.md)
@@ -15,4 +16,4 @@
 - [Weekly Economic Update: February 02, 2026](business/weekly-economic-update-february-02-2026-8185b6dd.md)
 
 ---
-*Updated: 2026-02-05T13:03:10+00:00*
+*Updated: 2026-02-05T18:48:33+00:00*

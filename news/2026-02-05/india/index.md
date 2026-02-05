@@ -1,7 +1,8 @@
 # INDIA News - 2026-02-05
 
-**Total Articles:** 14
+**Total Articles:** 15
 
+- [Breaking News Live February 5: Mob clashes with security forces in Manipur's Churachandpur amid protests against new deputy CM](india/breaking-news-live-february-5-mob-clashes-with-security-forces-in-manipur-s-chur-04205ed3.md)
 - [India Can Wait Out Trump: Ajit Doval Warned Marco Rubio Against Bullying On Trade Deal, Says Report](india/india-can-wait-out-trump-ajit-doval-warned-marco-rubio-against-bullying-on-trade-3f0963d6.md)
 - [India crude buy helps global market stability: Russia](india/india-crude-buy-helps-global-market-stability-russia-9bfcbcb5.md)
 - [India Overhauls Baggage Rules: Duty-Free Limit Raised to ₹75,000 and Gold Jewellery Caps Scrapped](india/india-overhauls-baggage-rules-duty-free-limit-raised-to-75-000-and-gold-jeweller-4b9c6dc2.md)
@@ -18,4 +19,4 @@
 - [Walking the Razor's Edge: How India Outsmarted Trump's Trade Pressure | Open Collar Ep4](india/walking-the-razor-s-edge-how-india-outsmarted-trump-s-trade-pressure-open-collar-3f099ac8.md)
 
 ---
-*Updated: 2026-02-05T13:04:05+00:00*
+*Updated: 2026-02-05T18:49:19+00:00*
