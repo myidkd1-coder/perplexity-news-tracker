@@ -8,4 +8,4 @@
 - [Scrubs Revival Returns to Hulu This February](entertainment/scrubs-revival-returns-to-hulu-this-february-fc35b704.md)
 
 ---
-*Updated: 2026-02-06T13:00:27+00:00*
+*Updated: 2026-02-06T18:52:40+00:00*
