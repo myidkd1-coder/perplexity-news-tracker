@@ -7,4 +7,4 @@
 - [Russian lieutenant general shot by assailant in Moscow, investigators say](world/russian-lieutenant-general-shot-by-assailant-in-moscow-investigators-say-882d77f6.md)
 
 ---
-*Updated: 2026-02-07T06:42:56+00:00*
+*Updated: 2026-02-07T12:50:46+00:00*
