@@ -1,8 +1,9 @@
 # SPORTS News - 2026-02-07
 
-**Total Articles:** 11
+**Total Articles:** 12
 
 - [Boston Celtics vs Miami Heat Full Game Highlights – February 6, 2026](sports/boston-celtics-vs-miami-heat-full-game-highlights-february-6-2026-ea1570d0.md)
+- [Celtics complete 22-point comeback to defeat Heat 98-96](sports/celtics-complete-22-point-comeback-to-defeat-heat-98-96-12ee9a54.md)
 - [Celtics Complete 22-Point Comeback to Defeat Heat 98-96](sports/celtics-complete-22-point-comeback-to-defeat-heat-98-96-d3e3ffa7.md)
 - [Islanders Defeat Devils 3-1 in NHL Action](sports/islanders-defeat-devils-3-1-in-nhl-action-1ef09cfb.md)
 - [Leeds United v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 2/6/2026](sports/leeds-united-v-nottingham-forest-premier-league-highlights-2-6-2026-d67453ed.md)
@@ -15,4 +16,4 @@
 - [WARRIORS at SUNS | FULL GAME HIGHLIGHTS | February 5, 2026](sports/warriors-at-suns-full-game-highlights-february-5-2026-55591a3c.md)
 
 ---
-*Updated: 2026-02-07T12:50:21+00:00*
+*Updated: 2026-02-07T18:36:13+00:00*

@@ -1,8 +1,9 @@
 # INDIA News - 2026-02-07
 
-**Total Articles:** 14
+**Total Articles:** 16
 
 - [EU and India launch talks on Horizon Europe association](india/eu-and-india-launch-talks-on-horizon-europe-association-cd64f77f.md)
+- [Ex-US Official Raymond Vickery Says India Outsmarted Donald Trump Chaos by Sticking to Trade Process](india/ex-us-official-raymond-vickery-says-india-outsmarted-donald-trump-chaos-by-stick-a97ca033.md)
 - [India and US release a framework for an interim trade agreement to reduce Trump tariffs](india/india-and-us-release-a-framework-for-an-interim-trade-agreement-to-reduce-trump-d68bed7e.md)
 - [India and US release framework for an interim trade agreement](india/india-and-us-release-framework-for-an-interim-trade-agreement-6caea989.md)
 - [India didn't 'succumb' to Trump's 'pronouncements' in trade deal](india/india-didn-t-succumb-to-trump-s-pronouncements-in-trade-deal-4bf00aec.md)
@@ -16,6 +17,7 @@
 - [School assembly news headlines, February 6: Top India, world, sports, business news](india/school-assembly-news-headlines-february-6-top-india-world-sports-business-news-6d7c7678.md)
 - [United States-India Joint Statement](india/united-states-india-joint-statement-984342c2.md)
 - [US-India Trade Ties Enter New Chapter with Interim Framework](india/us-india-trade-ties-enter-new-chapter-with-interim-framework-782c6019.md)
+- [What India gave the US to seal a $500 billion interim trade deal](india/what-india-gave-the-us-to-seal-a-500-billion-interim-trade-deal-06ea5c19.md)
 
 ---
-*Updated: 2026-02-07T12:50:59+00:00*
+*Updated: 2026-02-07T18:36:39+00:00*
