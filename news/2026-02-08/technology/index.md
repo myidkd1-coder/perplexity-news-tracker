@@ -8,4 +8,4 @@
 - [Nvidia delays RTX 50-series “Super” refresh as AI chips take priority amid RAM tightness](technology/nvidia-delays-rtx-50-series-super-refresh-as-ai-chips-take-priority-amid-ram-tig-8cb9dbf1.md)
 
 ---
-*Updated: 2026-02-08T06:50:28+00:00*
+*Updated: 2026-02-08T12:50:59+00:00*
