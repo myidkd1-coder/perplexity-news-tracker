@@ -1,6 +1,6 @@
 # TECHNOLOGY News - 2026-02-10
 
-**Total Articles:** 10
+**Total Articles:** 12
 
 - [2026 Tech Predictions: Agentic AI, Security Battles, AI PCs Revolution](technology/2026-tech-predictions-agentic-ai-security-battles-ai-pcs-revolution-4829d60d.md)
 - [A16z Raises $1.7B for AI Infrastructure Fund](technology/a16z-raises-1-7b-for-ai-infrastructure-fund-35be0f65.md)
@@ -10,8 +10,10 @@
 - [Databricks Hits $5.4 Billion Revenue Growing 65% as AI Agents Build Infrastructure](technology/databricks-hits-5-4-billion-revenue-growing-65-as-ai-agents-build-infrastructure-d7e34dc2.md)
 - [Gov. Cox declares February 2026 Tech Month in Utah](technology/gov-cox-declares-february-2026-tech-month-in-utah-a18eef3b.md)
 - [HP CEO Enrique Lores Steps Down After 36 Years to Lead PayPal](technology/hp-ceo-enrique-lores-steps-down-after-36-years-to-lead-paypal-accb88cd.md)
+- [Nvidia delays RTX 50-series “Super” refresh as AI chips take priority amid RAM tightness](technology/nvidia-delays-rtx-50-series-super-refresh-as-ai-chips-take-priority-amid-ram-tig-8cb9dbf1.md)
 - [S&P, Nasdaq Rise as Tech Sector Rebounds Ahead of Earnings](technology/s-p-nasdaq-rise-as-tech-sector-rebounds-ahead-of-earnings-5fca7161.md)
 - [Tech Roars Back: 2026 IPO Enthusiasm Fueled by AI and Infrastructure](technology/tech-roars-back-2026-ipo-enthusiasm-fueled-by-ai-and-infrastructure-8f760283.md)
+- [TWS Earbuds with Built-in Cameras for wearable AI](technology/tws-earbuds-with-built-in-cameras-for-wearable-ai-32d357c4.md)
 
 ---
-*Updated: 2026-02-10T13:14:49+00:00*
+*Updated: 2026-02-10T19:05:36+00:00*
