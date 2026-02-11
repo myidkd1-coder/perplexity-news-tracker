@@ -13,4 +13,4 @@
 - [U.S.–India Trade Deal | Phase 1 Update](india/u-s-india-trade-deal-phase-1-update-830fa92c.md)
 
 ---
-*Updated: 2026-02-11T07:02:24+00:00*
+*Updated: 2026-02-11T13:12:00+00:00*

@@ -11,4 +11,4 @@
 - [Texas Tech Researchers Hope to Advance Wearable Heart Monitoring Devices](technology/texas-tech-researchers-hope-to-advance-wearable-heart-monitoring-devices-503ba4cf.md)
 
 ---
-*Updated: 2026-02-11T07:01:25+00:00*
+*Updated: 2026-02-11T13:11:09+00:00*

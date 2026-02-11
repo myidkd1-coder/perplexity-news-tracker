@@ -7,4 +7,4 @@
 - [Madison Beer Discusses New Album ‘locket’ and Global Tour](entertainment/madison-beer-discusses-new-album-locket-and-global-tour-8dfd914c.md)
 
 ---
-*Updated: 2026-02-11T07:01:47+00:00*
+*Updated: 2026-02-11T13:11:30+00:00*
