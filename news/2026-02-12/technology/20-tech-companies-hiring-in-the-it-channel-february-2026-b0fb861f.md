@@ -1,0 +1,121 @@
+# 20 Tech Companies Hiring In The IT Channel: February 2026
+
+**Category:** Technology
+**Source:** [https://www.crn.com/news/ai/2026/20-tech-companies-hiring-in-the-it-channel-february-2026](https://www.crn.com/news/ai/2026/20-tech-companies-hiring-in-the-it-channel-february-2026)
+**Publisher:** CRN
+**Authors:** Wade Tyler Millward
+**Published:** 2026-02-01
+**Scraped (UTC):** 2026-02-12T13:08:33+00:00
+
+![Article Image](https://www.crn.com/news/ai/2026/media_1f5e31c89e4ae27ba7ed435505dcb532518895660.png?width=1200&format=pjpg&optimize=medium)
+
+## Summary
+Companies like Solutions II, Yorktel, SoftwareOne, Microsoft, Anthropic, Logitech, Lovable, and Veeam Software are listing open channel-related positions this month, including roles for head of channels, channel chief technology officer, and managed services engineers.
+
+## Full Article
+20 Tech Companies Hiring In The IT Channel: February 2026 Solutions II, Yorktel, SoftwareOne, Microsoft, Anthropic and Logitech are among the companies to list open positions for channel-related roles this month.
+
+This month, Solutions II, Yorktel and SoftwareOne are among the solution providers to list open positions while Microsoft, Anthropic and Logitech are among the vendors to list open positions for channel-related roles. CRN has looked at open listings on LinkedIn that would bring talent into the channel either by working with a partner or by working at a vendor to support partners. [RELATED: 20 Tech Companies Hiring In The IT Channel: December 2025] Open Jobs In The IT Channel Open channel roles this month include: A managed services solutions engineer who can make at least $95,000 a year with Solutions II
+
+A business analyst at Yorktel
+
+A revenue operations specialist who can make at least $80,000 a year with SoftwareOne
+
+A director of partner technology strategy who can make at least $130,900 a year at Microsoft
+
+A global partner sales manager for systems integrators who can make at least $300,000 a year at Anthropic
+
+A marketing manager for the education industry who can make at least $130,000 a year with Logitech Here is more information on some of the latest job openings in the channel.
+
+Logitech Logitech has an opening this month for a marketing manager for the education industry who can make at least $130,000 a year and will “identify and engage with key industry and alliances partners and influencer communities in collaboration with partnership marketing and business development colleagues” as part of the job. The San Jose, Calif.-based computer peripherals company wants this manager to “develop impactful programs for key partners in collaboration with colleagues in channel marketing and sales,” according to the LinkedIn post. Candidates should have a “bachelor’s degree or relevant industry experience preferred” and “channel marketing experience.” In a separate listing, the vendor has an opening for a channel account manager for its Amazon business who can make at least $130,000. This CAM will “lead channel strategy development and execution for” the Amazon and Amazon Web Services business and “monitor channel performance using data insights to optimize strategies and improve outcomes,” according to the LinkedIn listing. Candidates should have “5+ years of experience in a channel management role, preferably in ecommerce or technology environments” and “a proven track record of meeting and exceeding channel sales quotas with partners in cloud and enterprise products and services.” Logitech’s top channel goals for the year include improving partner technical skills and encouraging partners to sell a broader part of its portfolio, according to CRN’s 2026 Channel Chiefs.
+
+Anthropic Anthropic, the maker of the Claude AI chatbot, has an opening this month for a global partner sales manager for systems integrators, a role that pays at least $300,000 a year. The San Francisco-based AI upstart wants this manager to “own revenue targets and commercial relationships with assigned SI partners, including global consulting firms and regional integrators,” according to the LinkedIn post. Candidates should have “at least a Bachelor’s degree in a related field or equivalent experience” and “7+ years of experience in partner sales, channel sales, or partner management at a technology company” plus “experience working with Systems Integrators, global consulting firms, or similar enterprise-focused partners.”
+
+Ramp Ramp has multiple channel-related roles available this month, according to posts on LinkedIn. The New York-based financial operations platform provider seeks the following among its roles related to channels and partners: A channel partnerships manager who will “manage, develop, and execute career development and leadership plans for a group of Channel Partner Managers and provide daily 1:1 mentoring and coaching”
+
+An enterprise accounting channel partner manager who will “source, qualify, and sign net new partnerships with top accounting firms”
+
+A partner development representative for alliances who will “build top-of-funnel pipeline for Channel Partner Managers through creative outbound campaigns tailored to the partner landscape”
+
+A partner development representative for financial institutions who will “partner with cross functional teams including Channel Partner Managers, Marketing, and Operations to strategically grow Ramp’s partner ecosystem” Ramp’s top channel goals this year include increasing the overall percentage of company revenue that comes through the channel and increasing the amount of net-new accounts coming through partners, according to CRN’s 2026 Channel Chiefs.
+
+Lovable A LinkedIn post this month shows that AI startup Lovable has an opening for a head of channels and partnerships. The Stockholm-based company, which provides an AI-assisted “vibe coding” platform, wants this hire to “build and lead Lovable’s channel and partner ecosystem” and “drive adoption and revenue through scalable enablement, certifications, and success programs,” according to the post. Candidates should have “experience leading agency partnerships, channel sales, or partner management in SaaS or AI” plus “strong understanding of marketing, creative tech, or performance ecosystems.” Lovable also seeks a partner marketing lead, according to a separate LinkedIn post. This hire will “own partner marketing strategy and programs for GTM partners, technology partners, SI/channel partners, and global ecosystem partners and integrations.” The hire will also manage the “MDF strategy including investment allocation, approval framework, program ROI tracking” plus “build the Lovable partner program framework including tiers, incentives, onboarding, co-marketing tracks, and lifecycle touchpoints for all partner and program types,” according to the post. Candidates should have “8+ years Partner Marketing experience in B2B SaaS” and “proven success building partner programs that are differentiated and stand out, not just inheriting them.”
+
+Cribl Cribl has several openings related to channel partners this month, according to LinkedIn posts. Among the open roles at the San Francisco-based unified data management platform provider are: Regional director with “experience leading sales team who sell through security channel partners”
+
+Regional sales manager with “experience selling through a channel led motion”
+
+Public sector federal systems integrator and global systems integrator partner business manager with a “strong history of building and driving pipeline generation at the field level in FSI/GSI(SLED) Community go-to-market organizations”
+
+Partner business manager in the San Francisco Bay Area and Pacific Northwest with “deep Channel relationships in the region and proven revenue generation through Reseller, SI partnerships and MSSP partnerships” Cribl has about 500 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+Datadobi Aspiring presales engineers might want to look at this opportunity listed on LinkedIn for Datadobi. The Leuven, Belgium-based unstructured data management vendor wants this engineer to develop and maintain “appropriate technical and managerial level contacts within the customer/prospect/partner.” The engineer should have a “strong focus on the business outcomes that customers’, prospects’, and/or partners’ need to achieve, their strategy, and developing an understanding of their challenges while providing guidance as to the best way to secure the desired outcome(s),” according to the LinkedIn listing. Candidates should have at least five years of experience. Datadobi has about 50 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+Microsoft Microsoft has multiple openings for jobs that impact its 500,000-member partner ecosystem. The Redmond, Wash.-based technology giant seeks the following among its open roles: A senior finance manager for the worldwide Small & Medium Enterprise & Channel (SME&C) organization who can make at least $96,500 a year and “develops and leverages relationships with business partners to bolster sales, and to understand and manage business risk” and “designs and negotiates solutions to complex financial issues with business partners”
+
+A general manager of global channel sales for distribution who can make at least $203,200 a year and “assess distributor and reseller readiness, preferences, and capabilities to strengthen channel health”
+
+A senior finance manager for partner planning and strategy who can make at least $96,500 a year and “work alongside the Global Partner Business team to align on partner influenced revenue and non-revenue targets and metrics as part of the annual planning cycle”
+
+A customer success account manager (CSAM) who can make at least $106,400 a year and “will be responsible for the end-to-end post sales delivery and support orchestration across the Microsoft and Partner ecosystem to align the right resources at the right time to achieve customer business outcomes”
+
+A complex program activation lead in the Microsoft Industry Solutions Delivery (ISD) organization who can make at least $138,200 a year and provide “a supportive atmosphere with passion for growth, where you can earn customer confidence, trust, and loyalty by improving the overall customer and partner experience”
+
+A lifecycle product marketing manager who can make at least $106,400 a year and “equip Windows Device Sales (WDS) and partner sellers with offers, talking points, and playbooks that simplify deal execution and accelerate pipeline conversion”
+
+Unified services scale lead in enterprise who can make $96,500 and will be “working to define a scale motion to sell/resell Unified and enhanced solutions (through) Partners, as well as new methods to monetize enhanced solutions/proactive services sales through partners to end customers”
+
+A services account executive who can make at least $107,600 and “engages with internal and external stakeholders on business planning to review and plan for accounts, structures and leads account planning rhythm to set priorities, and aligns Solution Plays and opportunities, partners, focus, and resources to regularly update the plan, ensuring that the extended virtual team (inclusive of partners) and other stakeholders are working toward common goals”
+
+A cloud and AI platforms sales specialist who can make at least $87,000 a year and “ensures partner teams, resources and relationships are activated, driving co-selling strategies and partner attach to each opportunity early in the sales lifecycle”
+
+A director of partner technology strategy who can make at least $130,900 a year and “scales technologies out to new partners and continuously anticipates (and) drives new opportunities to integrate Microsoft technology into the partner solution portfolio” Microsoft has about 500,000 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+Acronis Channel job seekers interested in working with a vendor might want to look at the partner success manager opening in Quebec at Acronis, according to a LinkedIn post this month. The Schaffhausen, Switzerland-based cybersecurity and data protection vendor wants this manager to “conduct territory analysis and planning for dedicated geographies to identify top potential partners, develop relationship with key decision makers on partner side and maintain a regularity/frequency of contact with every partner depending on priority” as part of the job. Candidates should have “5+ years of sales and marketing experience in the software industry (Channel Sales, Partner Account Manager, Channel development position within a software vendor)” and be “fluent French and English, both written and verbal.” Acronis also seeks a sales representative who will “collaborate with channel partners to build pipeline and close deals,” according to a separate LinkedIn post. This rep will help with “sourcing new sales opportunities in the Great Lakes Region through inbound lead follow-up and outbound calls and emails” and be “focused on driving new business in Canada and the US, identifying and closing new deals,” according to the post. Candidates should have “2+ years of proven sales experience” and speak French. Acronis has about 70,000 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+Nerdio Nerdio this month seeks a corporate account executive who can make at least $180,000 a year and “manage and close Nerdio opportunities in alignment with Microsoft’s sales teams, channel partners, and direct customers,” according to a LinkedIn post. The Chicago-based provider of management tools for Microsoft cloud products wants this AE to “build, manage, and close pipeline and maintain 3x coverage to your assigned quota,” according to the post. Candidates should have “a minimum of 3-5 years of experience in similar sales role, preferably in the technology industry: selling cloud computing, IT services, or software-as-service (SaaS) solutions.” Nerdio also has an opening for a territory partner development manager who can make at least $140,000 a year and “will be responsible for recruiting new partners and developing existing partners to drive new business,” according to a separate LinkedIn post. The vendor wants this PDM to “be a quota-carrying salesperson who will need to have excellent partner management skills and knowledge of how to influence partners to do more” and “take an entrepreneurial approach to growing partner relationships and revenue in addition to being a team player,” according to the post. Candidates should have “2+ years partner management experience in the End User Computing and VDI space in a quota-carrying sales role.” Nerdio has 3,000 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+Veeam Software An open role for a director and channel chief technology officer for the Americas who can make at least $219,600 a year is available this month at Veeam Software, according to a LinkedIn post. The Seattle-based data backup and disaster recovery (DR) vendor wants this director to serve as “the senior technical leader for channel and alliance strategy, guiding the technical direction behind joint solutions and partner-led revenue motions,” according to the LinkedIn post. Candidates should have “15+ years of experience in enterprise architecture, systems engineering, platform strategy, or ecosystem-focused technical leadership.” Veeam has about 34,000 partners worldwide, according to CRN’s 2026 Channel Chiefs.
+
+A Couple of Gurus A Couple of Gurus has an opening this month for an account manager, according to a LinkedIn post. The Minneapolis-based company—a member of CRN’s 2025 MSP 500—wants this manager to be “building trusted long‑term client relationships and identifying opportunities to deliver technology solutions that truly make a difference,” according to the post. Candidates should have “2+ years of outside sales experience in IT” with MSP experience preferred.
+
+Yorktel Yorktel has an opening for a business analyst this month, according to a LinkedIn post. The Wall, N.J.-based company—No. 179 on CRN’s 2025 Solution Provider 500—wants this analyst to “assist our customer with a variety of projects by conducting research, analyzing data, creating reports, making recommendations, and presenting findings” and “conduct background research on assigned projects, such as online market research, public or internal surveys, and meeting with project stakeholders,” according to the post. Candidates should have “a bachelor’s degree in business or related field” and “5 years of experience in business analysis.”
+
+SourceFuse This month, LinkedIn shows that SourceFuse has an opening for a senior sales leader. The Jacksonville Beach, Fla.-based company—a member of CRN’s 2025 MSP 500—wants this hire to “be responsible for developing and executing sales strategies, building high-performing sales teams, and closing complex, multi-million-dollar digital transformation deals,” according to the post. Candidates should have “10+ years of progressive B2B sales experience in technology services or consulting” and “proven success selling cloud (AWS/Azure/GCP), data, AI, or application modernization services” with at least a bachelor’s degree. SourceFuse also seeks a sales development representative who will be “responsible for generating qualified pipeline opportunities by identifying, engaging, and nurturing prospective clients,” according to the separate LinkedIn post. The rep will “identify and research target accounts within key industries and markets” and “execute outbound prospecting campaigns via email, phone, LinkedIn, and other channels,” according to the post. Candidates should have “1-3 years of experience in sales, business development, or lead generation (tech/services industry preferred).” A bachelor’s degree is preferred but not required.
+
+Acuative This month, Acuative seeks a payroll, benefits and human resources operations administrator, according to a LinkedIn post. The Fairfield, N.J.-based company—No. 228 on CRN’s 2025 Solution Provider 500—wants this admin to ensure “the seamless execution of multi-state and international (Canada) bi-weekly payroll, comprehensive benefits administration, and HR operations,” according to the post. Candidates should have a “bachelor’s degree in HR, Finance, Business, or a related field” plus “3+ years of experience in payroll processing and benefits administration” and “2+ years data management of complex HRIS system” as well as “2+ years of advanced experience specifically using ADP Workforce Now and reporting modules.”
+
+Ridge IT Cyber A LinkedIn post this month shows an open sales engineer role with Ridge IT Cyber. The Tampa, Fla.-based company—a member of CRN’s 2025 MSP 500—wants this engineer to “act as the primary technical point of contact for potential clients, understanding their requirements and effectively communicating technical solutions” and “provide pre-sales support, including answering technical inquiries, troubleshooting issues, and ensuring customer satisfaction,” according to the post. Candidates should have “proven experience in a technical sales or customer-facing role within the Cybersecurity Industry” and “experience with our solutions: Microsoft, CrowdStrike, Okta, Qualys, Picus, Zscaler.”
+
+Solutions II Aspiring presales solutions architects might want to consider this opening with Solutions II that offers about $170,000 in on-target earnings (OTE). The Littleton, Colo.-based company—No. 271 on CRN’s 2025 Solution Provider 500—wants this architect to be “responsible for supporting the sales team in identifying opportunities with new and existing clients, designing solutions to solve business challenges for those clients, and scoping both professional and managed services to provide a complete end to end solution for our clients,” according to a LinkedIn post. Candidates should have “8+ years’ experience or Bachelor’s Degree and 6+ years’ experience,” according to the post. Solutions II also seeks a managed services solutions engineer who can make at least $95,000 a year, according to a separate LinkedIn post. This engineer will “provide support for products and services remotely involving unique environments and configurations; this may include troubleshooting, implementation, customizations, integrations and product orientation for the client,” according to the post. Candidates should have “4+ years’ experience in Datacenter Operations and/or (a) Bachelor’s Degree.”
+
+Xantrion Xantrion has a handful of job openings this month, according to LinkedIn posts. The Lafayette, Calif.-based company—a member of CRN’s 2025 MSP 500—seeks the following among its unfilled positions: An account executive who can make at least $100,000 a year and “develop a pipeline of business equivalent to 4-5 times annual quota through pursuit of marketing leads, networking, partner referrals, personal contacts, LinkedIn activity and events”
+
+Service desk supervisor who can make at least $75,000 a year and “provide strong leadership, coaching and development for the Service Desk team that primarily works onsite with clients”
+
+A level one IT support engineer who can make at least $60,000 a year and “provide front line phone coverage, and participate in various call center groups” and “provide on-site assistance to clients within your local geography”
+
+SoftwareOne Channel job seekers might want to look at the multiple openings available with SoftwareOne this month, according to LinkedIn posts. Among the available positions at the Stans, Switzerland-based company—No. 49 on CRN’s 2025 Solution Provider 500—are: A strategic partner executive who can make at least $180,000 a year and be “responsible for managing and growing high-impact strategic partnerships with a key MSP, distributor, and cloud ecosystem partners”
+
+An executive engagement manager who will “own the end-to-end operational lifecycle for assigned enterprise Managed Services customers”
+
+A revenue operations specialist who can make at least $80,000 a year and will “own the deployment, adoption, and ongoing optimization of our sales engagement platform (Outreach)”
+
+A ServiceNow solution sales leader who can make at least $275,000 a year and be “responsible for leading a high performing sales team in identifying, driving, and closing ITPM (IT portfolio management) services opportunities that deliver significant impact to our clients while maximizing revenue growth”
+
+Pre-sales virtualization consultant who can make at least $120,000 a year and will “leverage deep knowledge of virtualization (server, database, and mainframe) and IBM/HCL support solutions to recommend tailored architectures”
+
+Cloud support services sales leader for North America who will serve “as the business leader for US Cloud relationships, focusing on expanding the ISS services portfolio and ensuring the delivery of Microsoft premium support”
+
+TeamLogicIT TeamLogicIT has multiple openings this month, according to LinkedIn posts. The Mission Viejo, Calif.-based company—No. 148 on CRN’s 2025 Solution Provider 500—seeks the following among its open roles: A level two technician who can “provide support of incoming requests to the service desk via telephone, web portal, email to ensure courteous, timely, and effective resolution of end-user issues”
+
+A level one MSP technician who will “provide remote and on-site technical support to SMB clients, troubleshooting hardware and software issues promptly and efficiently”
+
+A level two help desk technician who will “troubleshoot technical issues, answer service desk calls, and escalate problems when needed” and be “maintaining a healthy ticket queue, logging time and notes in real-time, and managing their daily schedule”
+
+A level two or level three MSP technician who can “provide advanced technical support for a variety of IT systems, including servers, networks, and software applications” and “troubleshoot and resolve complex issues escalated from Level 1 and Level 2 technicians”
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*

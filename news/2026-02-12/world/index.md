@@ -6,4 +6,4 @@
 - [Fragile humanitarian progress in Gaza undermined by insecurity and Israeli attacks](world/fragile-humanitarian-progress-in-gaza-undermined-by-insecurity-and-israeli-attac-bb9920fc.md)
 
 ---
-*Updated: 2026-02-12T07:02:42+00:00*
+*Updated: 2026-02-12T13:09:14+00:00*
