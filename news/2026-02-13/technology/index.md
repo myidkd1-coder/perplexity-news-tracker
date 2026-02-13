@@ -1,7 +1,8 @@
 # TECHNOLOGY News - 2026-02-13
 
-**Total Articles:** 7
+**Total Articles:** 8
 
+- [Anthropic finalizing $30 billion funding deal](technology/anthropic-finalizing-30-billion-funding-deal-e22eddd7.md)
 - [Beyond the Hype: Ohio tech leaders say 2026 is the year AI gets real](technology/beyond-the-hype-ohio-tech-leaders-say-2026-is-the-year-ai-gets-real-b2c37cd6.md)
 - [Cisco launches an AI networking chip to challenge Nvidia and Broadcom](technology/cisco-launches-an-ai-networking-chip-to-challenge-nvidia-and-broadcom-4cbfd63d.md)
 - [Fujitsu to showcase AI and quantum computing at India AI Impact Summit 2026](technology/fujitsu-to-showcase-ai-and-quantum-computing-at-india-ai-impact-summit-2026-18d06f37.md)
@@ -11,4 +12,4 @@
 - [TWS Earbuds with Built-in Cameras for wearable AI](technology/tws-earbuds-with-built-in-cameras-for-wearable-ai-32d357c4.md)
 
 ---
-*Updated: 2026-02-13T13:00:15+00:00*
+*Updated: 2026-02-13T18:51:02+00:00*

@@ -1,6 +1,6 @@
 # SPORTS News - 2026-02-13
 
-**Total Articles:** 8
+**Total Articles:** 9
 
 - [2026 Winter Olympics Day 6 Highlights: U.S. curling win, Diggins bronze, South Korea stuns in halfpipe](sports/2026-winter-olympics-day-6-highlights-u-s-curling-win-diggins-bronze-south-korea-b4960a71.md)
 - [Brentford v. Arsenal | PREMIER LEAGUE HIGHLIGHTS](sports/brentford-v-arsenal-premier-league-highlights-46d31aec.md)
@@ -10,6 +10,7 @@
 - [NASCAR Cup Series: 2026 Duel at Daytona Highlights](sports/nascar-cup-series-2026-duel-at-daytona-highlights-f6b5ae48.md)
 - [Patriots to move DC Williams to new role, source says](sports/patriots-to-move-dc-williams-to-new-role-source-says-377a70a3.md)
 - [Trail Blazers at Jazz Full Game Highlights: Portland wins 135-119](sports/trail-blazers-at-jazz-full-game-highlights-portland-wins-135-119-e117b735.md)
+- [UAE strike early and often in Delhi | Powerplay Highlights | T20WC 2026](sports/uae-strike-early-and-often-in-delhi-powerplay-highlights-t20wc-2026-763c6bd1.md)
 
 ---
-*Updated: 2026-02-13T13:00:35+00:00*
+*Updated: 2026-02-13T18:51:14+00:00*
