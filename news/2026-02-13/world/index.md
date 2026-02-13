@@ -9,4 +9,4 @@
 - [US VP JD Vance Signs Nuclear and Drone Deals with Armenia, Promotes Trade Corridor](world/us-vp-jd-vance-signs-nuclear-and-drone-deals-with-armenia-promotes-trade-corrido-25018bff.md)
 
 ---
-*Updated: 2026-02-13T07:00:28+00:00*
+*Updated: 2026-02-13T13:00:52+00:00*
