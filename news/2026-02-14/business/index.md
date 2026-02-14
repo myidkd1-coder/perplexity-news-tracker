@@ -1,6 +1,6 @@
 # BUSINESS News - 2026-02-14
 
-**Total Articles:** 8
+**Total Articles:** 9
 
 - [Economic overview for February 2026](business/economic-overview-for-february-2026-ef828e9f.md)
 - [February 2026 LSEG/Ipsos Primary Consumer Sentiment Index](business/february-2026-lseg-ipsos-primary-consumer-sentiment-index-26aac2f5.md)
@@ -8,8 +8,9 @@
 - [Markets and Economic Updates for February 2026: Inflation and the Fed in Focus](business/markets-and-economic-updates-for-february-2026-inflation-and-the-fed-in-focus-dd9c05c3.md)
 - [Mixed Economic Data: Solid Numbers on Employment and Inflation, Retail Sales Weak](business/mixed-economic-data-solid-numbers-on-employment-and-inflation-retail-sales-weak-59ed7e73.md)
 - [Monthly Macro Insights - February 2026](business/monthly-macro-insights-february-2026-45d09d1b.md)
+- [Real wages outpace inflation by 1.3% as energy costs tumble](business/real-wages-outpace-inflation-by-1-3-as-energy-costs-tumble-e578fb45.md)
 - [San Antonio Economic Indicators, February 2026](business/san-antonio-economic-indicators-february-2026-d0bfa07d.md)
 - [Week Ahead Economic Preview: Week of 16 February 2026](business/week-ahead-economic-preview-week-of-16-february-2026-37b1ef02.md)
 
 ---
-*Updated: 2026-02-14T12:49:44+00:00*
+*Updated: 2026-02-14T18:35:33+00:00*

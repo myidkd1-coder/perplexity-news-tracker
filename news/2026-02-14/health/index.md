@@ -1,6 +1,6 @@
 # HEALTH News - 2026-02-14
 
-**Total Articles:** 13
+**Total Articles:** 14
 
 - [A New Clue to Why Heart Attacks Are Less Severe at Night](health/a-new-clue-to-why-heart-attacks-are-less-severe-at-night-1cab20d3.md)
 - [Air Pollution Linked to Increased RA Risk in Older Adults](health/air-pollution-linked-to-increased-ra-risk-in-older-adults-c2e0f65a.md)
@@ -13,8 +13,9 @@
 - [PrEP underprescribed in young women despite need](health/prep-underprescribed-in-young-women-despite-need-332837d5.md)
 - [Rising Health Care Costs a Top Concern for Public, Medical Debt Hits People Over 50 Hard](health/rising-health-care-costs-a-top-concern-for-public-medical-debt-hits-people-over-33cccae9.md)
 - [Scientists Discover Hidden Brain Cells That Help Heal Spinal Cord Injuries](health/scientists-discover-hidden-brain-cells-that-help-heal-spinal-cord-injuries-38468d10.md)
+- [Scientists say these two viruses may become the next public health threats](health/scientists-say-these-two-viruses-may-become-the-next-public-health-threats-ea7d90f0.md)
 - [UC Davis Scientists Test Smart Nanotech to Target Cancer Tumors with More Precision](health/uc-davis-scientists-test-smart-nanotech-to-target-cancer-tumors-with-more-precis-460c4cd9.md)
 - [Universal famine thresholds may mask unfolding starvation](health/universal-famine-thresholds-may-mask-unfolding-starvation-1ee33050.md)
 
 ---
-*Updated: 2026-02-14T12:50:21+00:00*
+*Updated: 2026-02-14T18:35:49+00:00*
