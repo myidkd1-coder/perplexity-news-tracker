@@ -1,10 +1,12 @@
 # INDIA News - 2026-02-17
 
-**Total Articles:** 12
+**Total Articles:** 14
 
+- [AI Impact Summit: India Expected to Witness Over $200 Billion Worth of AI Investments, IT Minister Says](india/ai-impact-summit-india-expected-to-witness-over-200-billion-worth-of-ai-investme-bd226cca.md)
 - [AI Summit 2026 LIVE updates: Day 2 discussions on AI reshaping economies, French President Macron to attend](india/ai-summit-2026-live-updates-day-2-discussions-on-ai-reshaping-economies-french-p-12c034c4.md)
 - [Brazil's President Lula to visit India with largest-ever delegation for AI Summit](india/brazil-s-president-lula-to-visit-india-with-largest-ever-delegation-for-ai-summi-23777d4a.md)
 - [Festivals and Fairs in India Happening in February 2026: Rann Utsav, Delhi Tulip Festival, Nagaur Cattle Fair](india/festivals-and-fairs-in-india-happening-in-february-2026-rann-utsav-delhi-tulip-f-08cd2aed.md)
+- [Headlines of the Day 17-February-2026](india/headlines-of-the-day-17-february-2026-9b2c9dd9.md)
 - [India news live updates: PM Modi to inaugurate India AI Impact Expo 2026 at Bharat Mandapam](india/india-news-live-updates-pm-modi-to-inaugurate-india-ai-impact-expo-2026-at-bhara-f52d6fb1.md)
 - [India's AI Summit Opening Marred by Long Queues and Confusion](india/india-s-ai-summit-opening-marred-by-long-queues-and-confusion-d8ae3571.md)
 - [New recombinant mpox strain detected in UK and India, WHO urges continued monitoring](india/new-recombinant-mpox-strain-detected-in-uk-and-india-who-urges-continued-monitor-784292ae.md)
@@ -16,4 +18,4 @@
 - [UN Secretary-General António Guterres to attend AI Impact Summit in New Delhi](india/un-secretary-general-ant-nio-guterres-to-attend-ai-impact-summit-in-new-delhi-b084ae6f.md)
 
 ---
-*Updated: 2026-02-17T13:05:04+00:00*
+*Updated: 2026-02-17T18:59:01+00:00*
