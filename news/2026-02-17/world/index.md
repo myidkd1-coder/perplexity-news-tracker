@@ -10,4 +10,4 @@
 - [WHO Director-General's remarks at the opening ceremony of the World Forum on the future of Democracy, AI/Tech and Humankind – 16 February 2026](world/who-director-general-s-remarks-at-the-opening-ceremony-of-the-world-forum-on-the-517bea28.md)
 
 ---
-*Updated: 2026-02-17T07:00:15+00:00*
+*Updated: 2026-02-17T13:04:53+00:00*
