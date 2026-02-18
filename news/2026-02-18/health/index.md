@@ -1,13 +1,15 @@
 # HEALTH News - 2026-02-18
 
-**Total Articles:** 6
+**Total Articles:** 8
 
 - [Coffee Can Help Prevent Dementia? It’s Not Too Good To Be True.](health/coffee-can-help-prevent-dementia-it-s-not-too-good-to-be-true-535532a7.md)
 - [Coffee Can Help Prevent Dementia? It’s Not Too Good To Be True.](health/coffee-can-help-prevent-dementia-it-s-not-too-good-to-be-true-5ae1a881.md)
+- [Four in ten cancer cases could be prevented globally](health/four-in-ten-cancer-cases-could-be-prevented-globally-ffb56227.md)
 - [I Know My Patients Use A.I. For Medical Advice. It's OK.](health/i-know-my-patients-use-a-i-for-medical-advice-it-s-ok-2674dc9c.md)
 - [Measles cases in ICE detention center](health/measles-cases-in-ice-detention-center-45465e3b.md)
 - [New study finds diet quality matters more than your DNA for longevity.](health/new-study-finds-diet-quality-matters-more-than-your-dna-for-longevity-1ee33050.md)
 - [The biggest health trends in 2026, according to US News](health/the-biggest-health-trends-in-2026-according-to-us-news-9f385a1e.md)
+- [WHO Criticizes CDC-Funded Vaccine Study In Africa As Unethical](health/who-criticizes-cdc-funded-vaccine-study-in-africa-as-unethical-7293dfbc.md)
 
 ---
-*Updated: 2026-02-18T13:05:38+00:00*
+*Updated: 2026-02-18T18:56:01+00:00*
