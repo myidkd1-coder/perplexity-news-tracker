@@ -11,4 +11,4 @@
 - [Santa Barbara emerges as tech titan thanks to UCSB and Google Quantum AI](technology/santa-barbara-emerges-as-tech-titan-thanks-to-ucsb-and-google-quantum-ai-2bc1917e.md)
 
 ---
-*Updated: 2026-02-19T07:00:18+00:00*
+*Updated: 2026-02-19T13:06:03+00:00*
