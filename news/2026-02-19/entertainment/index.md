@@ -11,4 +11,4 @@
 - [‘Wuthering Heights’ Directed by Emerald Fennell Tops Box Office with $34.8 Million Debut](entertainment/wuthering-heights-directed-by-emerald-fennell-tops-box-office-with-34-8-million-7076a468.md)
 
 ---
-*Updated: 2026-02-19T13:06:28+00:00*
+*Updated: 2026-02-19T18:51:52+00:00*

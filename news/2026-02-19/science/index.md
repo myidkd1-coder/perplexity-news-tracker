@@ -9,4 +9,4 @@
 - [Vera C. Rubin Observatory: Groundbreaking Sky Mapping](science/vera-c-rubin-observatory-groundbreaking-sky-mapping-29f58bb5.md)
 
 ---
-*Updated: 2026-02-19T13:06:33+00:00*
+*Updated: 2026-02-19T18:51:58+00:00*
