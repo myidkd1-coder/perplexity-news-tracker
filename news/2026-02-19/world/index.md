@@ -1,10 +1,13 @@
 # WORLD News - 2026-02-19
 
-**Total Articles:** 3
+**Total Articles:** 6
 
 - [Trump Administration Approves $6.7 Billion Arms Sales to Israel, Bypassing Congress](world/trump-administration-approves-6-7-billion-arms-sales-to-israel-bypassing-congres-cab3ed81.md)
+- [Tumbler Ridge School Shooting Kills Nine](world/tumbler-ridge-school-shooting-kills-nine-b18a65b3.md)
+- [U.S. Military Plans Potential Strikes on Iran](world/u-s-military-plans-potential-strikes-on-iran-45412c80.md)
+- [U.S.-Russia-Ukraine Peace Talks End in Stalemate](world/u-s-russia-ukraine-peace-talks-end-in-stalemate-9155cc0a.md)
 - [US Brokers Ukraine-Russia Peace Talks Ahead of Invasion Anniversary](world/us-brokers-ukraine-russia-peace-talks-ahead-of-invasion-anniversary-42ba6ff3.md)
 - [US-Iran Nuclear Talks Advance in Geneva Amid Military Tensions](world/us-iran-nuclear-talks-advance-in-geneva-amid-military-tensions-e0a7cf8f.md)
 
 ---
-*Updated: 2026-02-19T02:10:25+00:00*
+*Updated: 2026-02-19T07:01:04+00:00*
