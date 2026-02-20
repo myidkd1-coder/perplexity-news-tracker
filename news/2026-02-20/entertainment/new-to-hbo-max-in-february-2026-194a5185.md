@@ -1,0 +1,265 @@
+# New to HBO Max in February 2026
+
+**Category:** Entertainment
+**Source:** [https://clutchpoints.com/entertainment/new-to-hbo-max-in-february-2026](https://clutchpoints.com/entertainment/new-to-hbo-max-in-february-2026)
+**Publisher:** ClutchPoints
+**Authors:** Burtland Dixon
+**Published:** February 2026
+**Scraped (UTC):** 2026-02-20T12:59:46+00:00
+
+![Article Image](https://wp.clutchpoints.com/wp-content/uploads/2026/01/New-to-HBO-Max-in-January-2026.jpg)
+
+## Summary
+HBO Max February lineup features buzzy originals like Portobello on Feb 20 about Italian TV star Enzo Tortora's downfall, plus true crime, dramas, Puppy Bowl XXII on Feb 8, and classics.
+
+## Full Article
+February arrives with a heavy rotation of fresh originals, returning favorites, and a deep catalog refresh that makes HBO Max feel especially stacked this month. With winter still in full swing, the service leans into intense dramas, buzzy new series, and comfort rewatches that invite long nights on the couch.
+
+What’s Worth Watching on HBO Max This February
+
+The biggest conversation starter is Neighbors, a new A24 backed series from Josh Safdie that turns everyday disputes into something far more unsettling, per Tomsguide. The show zooms in on petty disagreements that spiral into emotional warfare, leaning on dark humor and raw tension rather than flashy twists. It feels intimate, uncomfortable, and very much in line with Safdie’s knack for finding chaos in ordinary lives.
+
+Another standout arrives later in the month with Portobello, a dramatic retelling of the real life downfall of Italian television star Enzo Tortora. The series revisits how accusations tied to organized crime dismantled his career and reputation almost overnight. Instead of rushing to judgment, the show carefully unpacks media pressure, legal failures, and the personal toll of public disgrace.
+
+Movie fans get a chilling new option with Dead of Winter, a thriller that thrives on isolation. Set during a brutal blizzard, the story traps a grieving widow inside her home alongside a kidnapped young woman and the couple responsible for her captivity. The film relies more on atmosphere and moral tension than nonstop action, making it a fitting cold weather watch.
+
+Whether you’re looking for prestige drama, nostalgic rewatches, or something unsettling to match the winter mood, HBO Max’s February lineup covers just about every lane.
+
+Everything New on HBO Max in February 2026
+
+February 1
+
+42
+
+2073
+
+Aftermath
+
+Around the World in 80 Days (1956)
+
+Betrayed (1944)
+
+Build for Off Road Season 2
+
+Captains Courageous (1937)
+
+Dr. Jekyll and Mr. Hyde (1932)
+
+Ferdinand
+
+Get Him to the Greek
+
+Get Him to the Greek Unrated
+
+The Harvey Girls
+
+Honky Tonk
+
+Hop (2011)
+
+Inconceivable
+
+Insidious Chapter 3
+
+Jezebel
+
+Just Mercy
+
+Key Largo
+
+King Solomon’s Mines
+
+Kitty Foyle
+
+Lady Be Good
+
+Laughing Sinners
+
+The Life of Emile Zola
+
+Life of Pi
+
+Lone Star
+
+The Lost Husband
+
+Love & Basketball
+
+Love Happens
+
+MacGruber
+
+MacGruber Unrated
+
+Malcolm X
+
+Marie Antoinette
+
+Masterminds
+
+Mildred Pierce (1945)
+
+Mister Roberts
+
+Mrs. Miniver
+
+My Blind Brother
+
+My Cousin Rachel
+
+National Velvet
+
+The Notebook
+
+Now, Voyager
+
+One Way Passage
+
+Open Water
+
+The Perfect Match
+
+The Picture of Dorian Gray
+
+Robin Hood (2010)
+
+The Search
+
+The Shape of Water
+
+Silver River
+
+The Spectacular Now
+
+Story of Louis Pasteur
+
+Strike Up the Band
+
+They Were Expendable
+
+Thirty Seconds Over Tokyo
+
+This Modern Age
+
+Three Billboards Outside Ebbing, Missouri
+
+Vacation from Marriage
+
+Watch on the Rhine
+
+Westbound
+
+The Woman in Red
+
+Wuthering Heights (1939)
+
+The Yearling
+
+Zola
+
+February 2
+
+Madam Beja Season 1
+
+The Last Captains Season 1
+
+Wardens of the North Season 6
+
+February 3
+
+90 Day Fiancé The Other Way Pillow Talk Season 7
+
+February 5
+
+The Murder Tapes Season 10
+
+February 6
+
+Batwheels Season 3B
+
+Boys Go to Jupiter
+
+February 7
+
+Ready to Love Detroit Season 11
+
+February 8
+
+Puppy Bowl XXII Kickoff
+
+Puppy Bowl XXII
+
+February 9
+
+East Harbor Heroes Season 1
+
+February 10
+
+90 Day The Single Life Season 10
+
+The Whole Story with Anderson Cooper Season 4
+
+February 12
+
+Article Continues Below
+
+Isadora Moon Season 1C
+
+The Pope’s Exorcist
+
+February 13
+
+House Hunters Volume 11 Season 251
+
+Neighbors Season 1
+
+Middle of the Month
+
+February 15
+
+Last Week Tonight with John Oliver Season 13
+
+Like Water for Chocolate Season 2
+
+February 16
+
+Naked and Afraid Season 19
+
+Tournament of Champions VII The Qualifiers
+
+February 17
+
+Unexpected Season 7
+
+February 19
+
+Murder In Glitterball City
+
+February 20
+
+Banksters Season 1
+
+Dead of Winter
+
+Fit for a Killer
+
+Portobello Season 1
+
+Surviving the Jehovah’s Witnesses
+
+February 24
+
+Contraband Seized at the Border Season 8
+
+February 25
+
+Holmes on Homes Building a Legacy Season 1
+
+Lost Women of Alaska
+
+February 27
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*
