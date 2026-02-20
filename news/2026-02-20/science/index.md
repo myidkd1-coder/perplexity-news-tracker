@@ -11,4 +11,4 @@
 - [Vera C. Rubin Observatory: Most Detailed Map of the Night Sky](science/vera-c-rubin-observatory-most-detailed-map-of-the-night-sky-29f58bb5.md)
 
 ---
-*Updated: 2026-02-20T12:59:54+00:00*
+*Updated: 2026-02-20T18:50:21+00:00*

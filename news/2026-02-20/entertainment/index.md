@@ -11,4 +11,4 @@
 - [‘Wuthering Heights’ Digs Up $34.8 Million at the Box Office for a No. 1 Debut](entertainment/wuthering-heights-digs-up-34-8-million-at-the-box-office-for-a-no-1-debut-7076a468.md)
 
 ---
-*Updated: 2026-02-20T12:59:47+00:00*
+*Updated: 2026-02-20T18:50:16+00:00*

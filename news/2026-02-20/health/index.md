@@ -1,7 +1,8 @@
 # HEALTH News - 2026-02-20
 
-**Total Articles:** 6
+**Total Articles:** 7
 
+- [Extreme Endurance Exercise Linked to Accelerated Red Blood Cell Aging: Study](health/extreme-endurance-exercise-linked-to-accelerated-red-blood-cell-aging-study-056d503d.md)
 - [Feb. 20, 2026: National Advocacy Update](health/feb-20-2026-national-advocacy-update-9075f614.md)
 - [February 2026 Dispatch for the CV Team](health/february-2026-dispatch-for-the-cv-team-ad70d48b.md)
 - [New research uses AI to decode gut microbiome patterns tied to type 2 diabetes risk](health/new-research-uses-ai-to-decode-gut-microbiome-patterns-tied-to-type-2-diabetes-r-1ee33050.md)
@@ -10,4 +11,4 @@
 - [WHO Criticizes CDC-Funded Vaccine Study In Africa As Unethical](health/who-criticizes-cdc-funded-vaccine-study-in-africa-as-unethical-7293dfbc.md)
 
 ---
-*Updated: 2026-02-20T13:00:02+00:00*
+*Updated: 2026-02-20T18:50:28+00:00*
