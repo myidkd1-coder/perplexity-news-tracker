@@ -11,4 +11,4 @@
 - [US Life Expectancy Rebounds to Prepandemic High](health/us-life-expectancy-rebounds-to-prepandemic-high-cffebb55.md)
 
 ---
-*Updated: 2026-02-21T12:49:08+00:00*
+*Updated: 2026-02-21T18:36:10+00:00*
