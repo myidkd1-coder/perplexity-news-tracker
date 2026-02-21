@@ -10,4 +10,4 @@
 - [Stocks Gain as Court Blocks Tariffs; Yields Climb | The Close 2/20](business/stocks-gain-as-court-blocks-tariffs-yields-climb-the-close-2-20-20c0b6c6.md)
 
 ---
-*Updated: 2026-02-21T06:42:05+00:00*
+*Updated: 2026-02-21T12:48:44+00:00*
