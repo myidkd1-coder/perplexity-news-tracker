@@ -7,4 +7,4 @@
 - [US Prepares Possible Military Strikes on Iran Over Nuclear Program](world/us-prepares-possible-military-strikes-on-iran-over-nuclear-program-45412c80.md)
 
 ---
-*Updated: 2026-02-22T02:10:28+00:00*
+*Updated: 2026-02-22T06:49:28+00:00*
