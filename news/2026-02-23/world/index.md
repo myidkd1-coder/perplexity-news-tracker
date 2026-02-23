@@ -1,8 +1,9 @@
 # WORLD News - 2026-02-23
 
-**Total Articles:** 8
+**Total Articles:** 9
 
 - [Hezbollah Reports Eight Members Killed in Israeli Airstrikes on Lebanon](world/hezbollah-reports-eight-members-killed-in-israeli-airstrikes-on-lebanon-20332e21.md)
+- [Mexican army kills leader of Jalisco New Generation Cartel](world/mexican-army-kills-leader-of-jalisco-new-generation-cartel-9155cc0a.md)
 - [Mexican Authorities Kill Top Drug Lord 'El Mencho' in Puerto Vallarta Operation](world/mexican-authorities-kill-top-drug-lord-el-mencho-in-puerto-vallarta-operation-969b6a35.md)
 - [Russia Launches Massive Missile and Drone Attack on Ukraine](world/russia-launches-massive-missile-and-drone-attack-on-ukraine-2bc05c82.md)
 - [Russian Drone Strike Kills 15 in Dnipro, Ukraine](world/russian-drone-strike-kills-15-in-dnipro-ukraine-b18a65b3.md)
@@ -12,4 +13,4 @@
 - [US Supreme Court Strikes Down Trump's Sweeping Tariffs](world/us-supreme-court-strikes-down-trump-s-sweeping-tariffs-68ca414f.md)
 
 ---
-*Updated: 2026-02-23T13:05:52+00:00*
+*Updated: 2026-02-23T19:03:41+00:00*

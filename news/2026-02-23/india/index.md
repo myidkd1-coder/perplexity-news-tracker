@@ -1,8 +1,9 @@
 # INDIA News - 2026-02-23
 
-**Total Articles:** 13
+**Total Articles:** 16
 
 - [Another Tejas Fighter Jet Crashes in India](india/another-tejas-fighter-jet-crashes-in-india-bba52b72.md)
+- [Canada PM Mark Carney to visit India on February 26; trade deal, defence pact in focus](india/canada-pm-mark-carney-to-visit-india-on-february-26-trade-deal-defence-pact-in-f-143711a9.md)
 - [From India, Guterres calls for $3 billion fund to ensure AI benefits all](india/from-india-guterres-calls-for-3-billion-fund-to-ensure-ai-benefits-all-87e9486b.md)
 - [India, China Step Up Outreach To Tarique Rahman's Bangladesh Government](india/india-china-step-up-outreach-to-tarique-rahman-s-bangladesh-government-6128cbd8.md)
 - [India to contribute 40% of APAC Grade-A office supply in 2026: report](india/india-to-contribute-40-of-apac-grade-a-office-supply-in-2026-report-1898c054.md)
@@ -12,9 +13,11 @@
 - [PM Participates in Groundbreaking Ceremony of HCL-Foxconn Semiconductor Unit in Uttar Pradesh](india/pm-participates-in-groundbreaking-ceremony-of-hcl-foxconn-semiconductor-unit-in-3ad75faa.md)
 - [PM's Israel visit: Netanyahu floats Shia-Sunni counterbloc, signals India's role](india/pm-s-israel-visit-netanyahu-floats-shia-sunni-counterbloc-signals-india-s-role-87014281.md)
 - [Prime Minister Carney to diversify Canada's trade, attract new investment](india/prime-minister-carney-to-diversify-canada-s-trade-attract-new-investment-0d70f1fa.md)
+- [T20 World Cup 2026: SA Beat India | Special Transmission](india/t20-world-cup-2026-sa-beat-india-special-transmission-4ba8317e.md)
+- [Tejas Fighter Jet Crashes in India, Third Loss Among 32 Produced](india/tejas-fighter-jet-crashes-in-india-third-loss-among-32-produced-562c9009.md)
 - [Thailand & India: Four Indian workers rescued after being held in enslaved captivity by factory](india/thailand-india-four-indian-workers-rescued-after-being-held-in-enslaved-captivit-cfb4d492.md)
 - ['The Kerala Story 2' Director Reacts To Anurag Kashyap Calling Film 'Propaganda': 'Yeh Mansik Roop Se Durbal Ho Gaye Hain'](india/the-kerala-story-2-director-reacts-to-anurag-kashyap-calling-film-propaganda-yeh-7fbf438c.md)
 - [Transcript of Special Briefing by MEA on State Visit of President of Brazil to India](india/transcript-of-special-briefing-by-mea-on-state-visit-of-president-of-brazil-to-i-d4738db9.md)
 
 ---
-*Updated: 2026-02-23T13:06:04+00:00*
+*Updated: 2026-02-23T19:03:51+00:00*

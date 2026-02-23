@@ -9,4 +9,4 @@
 - [Welcome to the February 2026 Business by LA Times Studios Magazine](business/welcome-to-the-february-2026-business-by-la-times-studios-magazine-79fc21f1.md)
 
 ---
-*Updated: 2026-02-23T13:05:16+00:00*
+*Updated: 2026-02-23T19:03:16+00:00*
