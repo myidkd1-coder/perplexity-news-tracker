@@ -1,8 +1,9 @@
 # SPORTS News - 2026-02-24
 
-**Total Articles:** 10
+**Total Articles:** 12
 
 - [2027 QB Gunner Rivers, son of Philip, commits to NC State](sports/2027-qb-gunner-rivers-son-of-philip-commits-to-nc-state-377a70a3.md)
+- [Arber Xhekaj wins hardest shot event with 107.3 mph](sports/arber-xhekaj-wins-hardest-shot-event-with-107-3-mph-1c7625dd.md)
 - [Fulham defeats Sunderland 3-1 in Premier League highlights](sports/fulham-defeats-sunderland-3-1-in-premier-league-highlights-f273b269.md)
 - [JAZZ at ROCKETS | FULL GAME HIGHLIGHTS | February 23, 2026](sports/jazz-at-rockets-full-game-highlights-february-23-2026-e4605f42.md)
 - [KINGS at GRIZZLIES | FULL GAME HIGHLIGHTS | February 23, 2026](sports/kings-at-grizzlies-full-game-highlights-february-23-2026-e20b89ae.md)
@@ -12,6 +13,7 @@
 - [San Antonio Spurs vs Detroit Pistons Full Game Highlights](sports/san-antonio-spurs-vs-detroit-pistons-full-game-highlights-5685392b.md)
 - [San Antonio Spurs vs Detroit Pistons Full Game Highlights](sports/san-antonio-spurs-vs-detroit-pistons-full-game-highlights-8add209c.md)
 - [Trail Blazers defeat Suns 92-77 in full game highlights](sports/trail-blazers-defeat-suns-92-77-in-full-game-highlights-60931164.md)
+- [U.S. defeats Canada’s men’s team for 1st gold medal since 1980](sports/u-s-defeats-canada-s-men-s-team-for-1st-gold-medal-since-1980-277adbe9.md)
 
 ---
-*Updated: 2026-02-24T13:06:52+00:00*
+*Updated: 2026-02-24T19:03:09+00:00*
