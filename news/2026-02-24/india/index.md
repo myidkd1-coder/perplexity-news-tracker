@@ -10,4 +10,4 @@
 - [Prime Minister Carney to diversify Canada's trade, attract new investment](india/prime-minister-carney-to-diversify-canada-s-trade-attract-new-investment-0d70f1fa.md)
 
 ---
-*Updated: 2026-02-24T07:01:47+00:00*
+*Updated: 2026-02-24T13:07:33+00:00*
