@@ -1,8 +1,9 @@
 # INDIA News - 2026-02-27
 
-**Total Articles:** 10
+**Total Articles:** 11
 
 - [Carney embarks on trade trips to India and other nations](india/carney-embarks-on-trade-trips-to-india-and-other-nations-6a8932f2.md)
+- [CBC News: The National | Prime Minister Carney goes to India](india/cbc-news-the-national-prime-minister-carney-goes-to-india-ecb2d716.md)
 - [India – Israel Joint Statement](india/india-israel-joint-statement-8a364711.md)
 - [India, Israel to boost defence cooperation, Modi says](india/india-israel-to-boost-defence-cooperation-modi-says-aa7a4ba9.md)
 - [India US Trade Deal 2026: Trump Modi Pact](india/india-us-trade-deal-2026-trump-modi-pact-c9de3971.md)
@@ -14,4 +15,4 @@
 - [Trump misspeaks, claims he prevented India-Pakistan nuclear war](india/trump-misspeaks-claims-he-prevented-india-pakistan-nuclear-war-2be647d5.md)
 
 ---
-*Updated: 2026-02-27T06:56:16+00:00*
+*Updated: 2026-02-27T13:00:32+00:00*

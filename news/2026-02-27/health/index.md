@@ -10,4 +10,4 @@
 - [U.S. Medical Care is Improving, but Cost and Health Differ](health/u-s-medical-care-is-improving-but-cost-and-health-differ-36f071e4.md)
 
 ---
-*Updated: 2026-02-27T06:55:55+00:00*
+*Updated: 2026-02-27T13:00:18+00:00*
