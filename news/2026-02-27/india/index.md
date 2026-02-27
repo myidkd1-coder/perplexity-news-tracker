@@ -1,9 +1,10 @@
 # INDIA News - 2026-02-27
 
-**Total Articles:** 11
+**Total Articles:** 13
 
 - [Carney embarks on trade trips to India and other nations](india/carney-embarks-on-trade-trips-to-india-and-other-nations-6a8932f2.md)
 - [CBC News: The National | Prime Minister Carney goes to India](india/cbc-news-the-national-prime-minister-carney-goes-to-india-ecb2d716.md)
+- [IAF shares first S-400 firing video, cites longest-range air kill in military history](india/iaf-shares-first-s-400-firing-video-cites-longest-range-air-kill-in-military-his-d79ffa27.md)
 - [India – Israel Joint Statement](india/india-israel-joint-statement-8a364711.md)
 - [India, Israel to boost defence cooperation, Modi says](india/india-israel-to-boost-defence-cooperation-modi-says-aa7a4ba9.md)
 - [India US Trade Deal 2026: Trump Modi Pact](india/india-us-trade-deal-2026-trump-modi-pact-c9de3971.md)
@@ -11,8 +12,9 @@
 - [News in Pics | February 27, 2026: Best photos from around the world](india/news-in-pics-february-27-2026-best-photos-from-around-the-world-d15556ba.md)
 - [Ottawa downplays interference by India ahead of Carney's visit](india/ottawa-downplays-interference-by-india-ahead-of-carney-s-visit-b8c0cb67.md)
 - [PM Modi meets with Prime Minister of Israel](india/pm-modi-meets-with-prime-minister-of-israel-69d75d27.md)
+- [PM to visit Gujarat on 28th February](india/pm-to-visit-gujarat-on-28th-february-d8053a90.md)
 - [School assembly news headlines, February 26: Top India, world news](india/school-assembly-news-headlines-february-26-top-india-world-news-6e233dee.md)
 - [Trump misspeaks, claims he prevented India-Pakistan nuclear war](india/trump-misspeaks-claims-he-prevented-india-pakistan-nuclear-war-2be647d5.md)
 
 ---
-*Updated: 2026-02-27T13:00:32+00:00*
+*Updated: 2026-02-27T18:44:01+00:00*
