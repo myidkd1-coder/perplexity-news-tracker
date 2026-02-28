@@ -1,6 +1,6 @@
 # HEALTH News - 2026-02-28
 
-**Total Articles:** 7
+**Total Articles:** 8
 
 - [American heart health worsening, statistical snapshot finds](health/american-heart-health-worsening-statistical-snapshot-finds-30d6e59a.md)
 - [CDC confirms 982 U.S. measles cases in 2026](health/cdc-confirms-982-u-s-measles-cases-in-2026-16e2e8cf.md)
@@ -8,7 +8,8 @@
 - [Health Equity & Access Weekly Roundup: February 27, 2026](health/health-equity-access-weekly-roundup-february-27-2026-2b4d89d2.md)
 - [MLN Connects Newsletter for February 26, 2026](health/mln-connects-newsletter-for-february-26-2026-a306fe5c.md)
 - [Multistate Infant Botulism Outbreak Associated With Powdered Infant Formula](health/multistate-infant-botulism-outbreak-associated-with-powdered-infant-formula-235220ac.md)
+- [New Brain Stimulation Approach Could Treat Depression in Just 5 Days](health/new-brain-stimulation-approach-could-treat-depression-in-just-5-days-38468d10.md)
 - [New FDA Proposal Aims to Help Patients With Hard-to-Treat Diseases](health/new-fda-proposal-aims-to-help-patients-with-hard-to-treat-diseases-ad2e5a34.md)
 
 ---
-*Updated: 2026-02-28T06:39:42+00:00*
+*Updated: 2026-02-28T12:46:30+00:00*

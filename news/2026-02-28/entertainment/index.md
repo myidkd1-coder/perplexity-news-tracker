@@ -1,6 +1,6 @@
 # ENTERTAINMENT News - 2026-02-28
 
-**Total Articles:** 9
+**Total Articles:** 10
 
 - [10 Most Anticipated New Movies Of February 2026](entertainment/10-most-anticipated-new-movies-of-february-2026-9051aca9.md)
 - [Celebrity News 2026 - Celeb Red Carpet, Relationships, and Event](entertainment/celebrity-news-2026-celeb-red-carpet-relationships-and-event-7b45da2a.md)
@@ -11,6 +11,7 @@
 - [The 5 Best Shows of February, Hands-Down](entertainment/the-5-best-shows-of-february-hands-down-403cb24a.md)
 - [The 5 Best Shows of February, Hands-Down](entertainment/the-5-best-shows-of-february-hands-down-8a63ba31.md)
 - [The year ahead in entertainment: What to look forward to in 2026](entertainment/the-year-ahead-in-entertainment-what-to-look-forward-to-in-2026-b2c5df47.md)
+- [Top 20 Global Concert Tours from Pollstar](entertainment/top-20-global-concert-tours-from-pollstar-0e3228cb.md)
 
 ---
-*Updated: 2026-02-28T06:39:28+00:00*
+*Updated: 2026-02-28T12:46:17+00:00*
