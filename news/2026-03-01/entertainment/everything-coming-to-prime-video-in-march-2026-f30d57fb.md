@@ -1,0 +1,213 @@
+# Everything Coming to Prime Video in March 2026
+
+**Category:** Entertainment
+**Source:** [https://comicbook.com/tv-shows/news/everything-coming-to-prime-video-in-march-2026/](https://comicbook.com/tv-shows/news/everything-coming-to-prime-video-in-march-2026/)
+**Publisher:** ComicBook.com
+**Authors:** Nicole Drum, .Wp-Block-Savage-Platform-Post-Byline Font-Family Var --Wp--Custom--Typography--Font-Family--Secondary, Font-Size Var --Wp--Custom--Typography--Font-Size--Sm, Font-Weight Var --Wp--Custom--Typography--Font-Weight--Bold, Line-Height Var --Wp--Custom--Typography--Line-Height--Xxs, .Wp-Block-Savage-Platform-Post-Byline A Font-Weight Var --Wp--Custom--Typography--Font-Weight--Black, Text-Decoration None, Sourceurl Https, Comicbook.Com Wp-Content Plugins Savage-Platform Build Post-Byline Style-Index.Css, .Wp-Block-Savage-Platform-Post-Byline Font-Family Var --Wp--Custom--Typography--Font-Family--Primary
+**Published:** Feb 28, 2026
+**Scraped (UTC):** 2026-03-01T02:23:27+00:00
+
+![Article Image](https://comicbook.com/wp-content/uploads/sites/4/2025/12/Prime-Video-Logo-2025-Shadow-Blue-Black.jpg?resize=2000,1125)
+
+## Summary
+Prime Video's March 2026 releases include 'Young Sherlock' on March 4, 'Invincible' Season 4 on March 18, 'Deadloch' Season 2 and 'Jury Duty Presents: Company Retreat' on March 20, plus classics like 'All In The Family' Seasons 1-9 on March 25.
+
+## Full Article
+It’s finally the end of February and as we shift over to March, it’s time for new movies and television shows to hit streaming platforms for the new month. Other platforms, like Netflix and Peacock, have already unveiled their monthly additions and now it’s Prime Video’s turn with the streamer letting subscribers know what entertainment they can look forward to as winter gives way to spring. At first glance, March is shaping up to be a good month for fans of some older movies, but there’s at least one big television release fans will be particularly excited about.
+
+Videos by ComicBook.com
+
+On the movie side of things, there are a lot of great older movies coming to Prime Video as of March 1st. The iconic film that is widely considered the origin of the disaster film genre, Airport, is a notable addition along with the Stephen King classic Carrie — and the 2013 remake. The big addition for March, however, is on the television side of things and that’s the fourth season of Invincible. The highly anticipated new season of the animated comic book adaptation is coming to Prime Video March 18th. Read on to check out the full list of everything else coming to Prime Video in March!
+
+March 1
+
+Airport (1970)
+
+Are We Done Yet? (2007)
+
+Are We There Yet? (2005)
+
+Blow Out (1981)
+
+Carrie (1976)
+
+Carrie (2013)
+
+Charley Varrick (1973)
+
+Dirty Rotten Scoundrels (1988)
+
+Dressed to Kill (1980)
+
+Duck You Sucker – A Fistful Of Dynamite (1972)
+
+Father Stu (2022)
+
+Fishes ‘N Loaves: Heaven Sent (2016)
+
+Hail, Caesar! (2016)
+
+Halloween With The New Addams Family (1977)
+
+Hannibal (2001)
+
+Hart’s War (2002)
+
+High Plains Drifter (1973)
+
+Hitch (2005)
+
+Horse Soldiers (1959)
+
+Hour Of The Gun (1967)
+
+Josie And The Pussycats (2001)
+
+Living (2022)
+
+Max (2015)
+
+Out of Africa (1985)
+
+Overboard (1987)
+
+Parenthood (1989)
+
+Raging Bull (1980)
+
+Rain Man (1988)
+
+Resident Evil (2002)
+
+Shrek (2001)
+
+Shrek 2 (2004)
+
+Shrek Forever After (2010)
+
+Shrek the Third (2007)
+
+Step Up All In (2014)
+
+Step Up: Revolution (2012)
+
+Step Up: Year Of The Dance (2020)
+
+Super 8 (2011)
+
+Superbad (2007)
+
+Teen Wolf (1985)
+
+The Alamo (1960)
+
+The Great Escape (1963)
+
+The Place Beyond The Pines (2013)
+
+The Shallows (2016)
+
+The Silence of the Lambs (1991)
+
+The Unbearable Weight of Massive Talent (2022)
+
+Twelve Monkeys (1996)
+
+Uptown Girls (2003)
+
+Valkyrie (2008)
+
+Valley Girl (1983)
+
+Windtalkers (2002)
+
+Witness For The Prosecution (1958)
+
+March 2
+
+A Beautiful Day in the Neighborhood (2019)
+
+Siren’s Kiss (2026)
+
+Tribunal Justice Season 3 (2026)
+
+March 4
+
+Young Sherlock (2026)
+
+March 5
+
+Iron Mask (2020)
+
+March 6
+
+Shadow Force (2025)
+
+March 11
+
+Scarpetta (2026)
+
+March 16
+
+Roofman (2025)
+
+March 18
+
+Invincible Season 4 (2026
+
+March 19
+
+Meal Ticket (2026)
+
+The Silent Service Season Two: The Battle of Arctic Ocean (2026)
+
+March 20
+
+Zeta (2026)
+
+Deadloch Season 2 (2026)
+
+Jury Duty Presents: Company Retreat (2026)
+
+March 22
+
+Mercy (2026)
+
+March 25
+
+Pretty Lethal (2026)
+
+All In The Family Seasons 1-9 (1971)
+
+Bait (2026)
+
+Damages Seasons 1-5 (2007)
+
+Drop Dead Diva Seasons 1-6 (2009)
+
+Good Times Seasons 1-6 (1974)
+
+L.A.’s Finest Seasons 1-2 (2019)
+
+Married… With Children Seasons 1-11 (1987)
+
+Rules of Engagement Seasons 1-7 (2007)
+
+The Shield Seasons 1-7 (2002)
+
+The Winter King Seasons 1 (2023)
+
+Unforgettable Seasons 1-4 (2011)
+
+Who’s The Boss Seasons 1-8 (1984)
+
+March 27
+
+House of David Season 2 (2026)
+
+What do you think? Leave a comment below and join the conversation now in the ComicBook Forum!
+
+---
+
+*Content scraped from public sources with attribution. Users assume all risk.*  
+*Auto-generated by [Perplexity News Tracker](https://github.com/myidkd1-coder/perplexity-news-tracker)*
